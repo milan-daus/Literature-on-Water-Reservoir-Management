@@ -1,0 +1,121 @@
+# Literature on Reservoir Management
+
+## Sediment
+
+1. Aguiar, F.C., Martins, M.J., Silva, P.C., Fernandes, M.R., 2016. [Riverscapes downstream of hydropower dams. Effects of altered flows and historical land-use change](https://www.sciencedirect.com/science/article/pii/S0169204616300469). Landscape and Urban Planning 153, 83-98.
+
+1. Annandale, G.W., 1987. [Reservoir sedimentation](https://www.elsevier.com/books/reservoir-sedimentation/annandale/978-0-444-42729-8). Elsevier, Amsterdam [u.a.].
+
+1. Atkinson, E. 1996. [The Feasibility of Flushing Sediment from Reservoirs](https://eprints.hrwallingford.com/368/1/od137.pdf), TDR Project R5839, Report OD 137, HR Wallingford.
+
+1. Banasiak, R., Verhoeven, R., De Sutter, R., Tait, S., 2005. [The erosion behaviour of biologically active sewer sediment deposits: Observations from a laboratory study](https://www.sciencedirect.com/science/article/pii/S0043135405005816). Water Res. 39, 5221–5231. [https://doi.org/10.1016/j.watres.2005.10.011](https://doi.org/10.1016/j.watres.2005.10.011)
+
+1. Batuca, D. and Jordaan, J. 2000. [Silting and Desilting of Reservoirs](https://ascelibrary.org/doi/pdf/10.1061/(ASCE)0733-9429(2000)126%3A11(874)). A.A. Balkema, Rotterdam.
+
+1. Beckers, F.; Haun, S.; Gerbersdorf, S.U.; Noack, M.; Dietrich, D.; Martin-Creuzburg, D.; Peeters, F.; Hofmann, H.; Glaser, R.; Wieprecht, S. CHARM - [Challenges of Reservoir Management - Meeting environmental and social requirements](https://issuu.com/hydrolinkiahr/docs/2018-3). Hydrolink 2018, 16–18.
+
+1. Döll, P., Fiedler, K., Zhang, J., 2009. [Global-scale analysis of river flow alterations due to water withdrawals and reservoirs] Hydrol. Earth Syst. Sci. 13, 2413–2432.(https://doi.org/10.5194/hess-13-2413-2009)
+
+1. Droppo, I.G., D&#39;Andrea, L., Krishnappan, B.G., Jaskot, C., Trapp, B., Basuvaraj, M., Liss, S.N., 2015. [Fine-sediment dynamics: towards an improved understanding of sediment erosion and transport. J. Soils Sediments](https://link.springer.com/article/10.1007/s11368-014-1004-3) 15, 467–479. https://doi.org/10.1007/s11368-014-1004-3
+
+1. Fan, J. and Morris, G.L. 1992. [Reservoir Sedimentation. II: Reservoir Desiltation and Long-Term Storage Capacity] Journal of Hydraulic Engineering, ASCE, 118(3). (https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%290733-9429%281992%29118%3A3%28370%29)
+
+
+## Gas emissions
+
+1. Barros, N., Cole, J.J., Tranvik, L.J., Prairie, Y.T., Bastviken, D., Huszar, V.L.M., del Giorgio, P., Roland, F. (2011). [Carbon emission from hydroelectric reservoirs linked to reservoir age and latitude. Nature Geoscience](https://www.nature.com/articles/ngeo1211), 4, 593-596.
+
+1. Beaulieu, J.J., Smolenski, R.L., Nietch, C.T., Townsend-Small, A., Elovitz, M.S. (2014). [High methane emissions from a midlatitude reservoir draining an agricultural watershed](https://pubs.acs.org/doi/10.1021/es501871g). Environmental Science &amp; Technology, 48 (19), 11100-11108. [https://doi.org/10.1021/es501871g](https://doi.org/10.1021/es501871g).
+
+1. Deemer, B.R., Harrison, J.A., Li, S., Beaulieu, J.J., DelSontro, T., Barros, N., Bezerra-Neto, J.F., Powers, S.M., dos Santos, M.A., Vonk, J.A., 2016. [Greenhouse Gas Emissions from Reservoir Water Surfaces: A New Global Synthesis.](https://academic.oup.com/bioscience/article/66/11/949/2754271) BioScience 66, 949–964. https://doi.org/10.1093/biosci/biw117
+
+1. Deborde, J., Anschutz, P., Guérin, F., Poirier, D., Marty, D., Boucher, G., Thouzeau, G., Canton, M., Abril, G. (2010). [Methane sources, sinks and fluxes in a temperate tidal Lagoon: The Arcachon lagoon](https://www.sciencedirect.com/science/article/pii/S0272771410002738) (SW France). Estuarine, Coastal and Shelf Science, Elsevier, 89, 256-266 (hal-00524642)
+
+1. DelSontro, T., McGinnis, D.F., Sobek, S., Ostrovsky, I., Wehrli, B. (2010). [Extreme methane emissions from a Swiss hydropower reservoir: Contribution from bubbling sediments](https://pubs.acs.org/doi/10.1021/es9031369). Environmental Science &amp; Technology, 44 (7), 2419-2425. https://doi.org/10.1021/es9031369
+
+1. Encinas Fernandez, J., Peeters, F., Hofmann, H. (2014). [Importance of the autumn overturn and anoxic conditions in the hypolimnion for the annual methane emissions from a temperate lake] Environmental Science & Technology, 48, 7297-7304.(https://doi.org/10.1021/es4056164)
+
+1. Engle, D., Melack, J.M. (2000). [Methane emissions from an Amazon floodplain lake: Enhanced release during episodic mixing and during falling water] Biogeochemistry, 51 (1), 71-90. (https://doi.org/10.1023/A:1006389124823)
+
+## Biofilms
+
+1. Battin, T.J., Besemer, K., Bengtsson, M.M., Romani, A.M., Packmann, A.I., 2016. [The ecology and biogeochemistry of stream biofilms](https://www.nature.com/articles/nrmicro.2016.15). Nat. Rev. Microbiol. 14, 251–263. [https://doi.org/10.1038/nrmicro.2016.15](https://doi.org/10.1038/nrmicro.2016.15)
+
+1. Berke, A.P., Turner, L., Berg, H.C., Lauga, E., 2008. [Hydrodynamic Attraction of Swimming Microorganisms by Surfaces](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.038102). Phys. Rev. Lett. 101, 038102. [https://doi.org/10.1103/PhysRevLett.101.038102](https://doi.org/10.1103/PhysRevLett.101.038102)
+
+1. Block, J.C., Haudidier, K., Paquin, J.L., Miazga, J., Levi, Y., 1993. [Biofilm accumulation in drinking water distribution systems](https://www.tandfonline.com/doi/abs/10.1080/08927019309386235). Biofouling 6, 333–343. [https://doi.org/10.1080/08927019309386235](https://doi.org/10.1080/08927019309386235)
+
+1. Burns, A., Ryder, D.S., 2001. [Potential for biofilms as biological indicators in Australian riverine systems.](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1442-8903.2001.00069.x) Ecol. Manag. Restor. 2, 53–64. [https://doi.org/10.1046/j.1442-8903.2001.00069.x](https://doi.org/10.1046/j.1442-8903.2001.00069.x)
+
+1. Chen, X.D., Zhang, C.K., Zhou, Z., Gong, Z., Zhou, J.J., Tao, J.F., Paterson, D.M., Feng, Q., 2017. [Stabilizing Effects of Bacterial Biofilms: EPS Penetration and Redistribution of Bed Stability Down the Sediment Profile](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JG004050). J. Geophys. Res. Biogeosciences 122, 3113–3125. [https://doi.org/10.1002/2017JG004050](https://doi.org/10.1002/2017JG004050)
+
+1. Dang, H., Lovell, C.R., 2015. [Microbial Surface Colonization and Biofilm Development in Marine Environments.](https://mmbr.asm.org/content/80/1/91) Microbiol. Mol. Biol. Rev. MMBR 80, 91–138. [https://doi.org/10.1128/MMBR.00037-15](https://doi.org/10.1128/MMBR.00037-15)
+
+1. Danovaro, R., Pusceddu, A., 2007. [Biodiversity and ecosystem functioning in coastal lagoons: Does microbial diversity play any role](https://www.sciencedirect.com/science/article/pii/S0272771407001692)? Estuar. Coast. Shelf Sci., Biodiversity and Ecosystem Functioning in Coastal and Transitional Waters 75, 4–12. [https://doi.org/10.1016/j.ecss.2007.02.030](https://doi.org/10.1016/j.ecss.2007.02.030)
+
+1. de Brouwer, J.F.C., Wolfstein, K., Ruddy, G.K., Jones, T.E.R., Stal, L.J., 2005. [Biogenic Stabilization of Intertidal Sediments: The Importance of Extracellular Polymeric Substances Produced by Benthic Diatoms](https://link.springer.com/article/10.1007/s00248-004-0020-z). Microb. Ecol. 49, 501–512. https://doi.org/10.1007/s00248-004-0020-z
+
+1. Fang, H., Fazeli, M., Cheng, W., Dey, S., 2016. [Transport of biofilm-coated sediment particles] J. Hydraul. Res. 54, 631–645. (https://doi.org/10.1080/00221686.2016.1212938)
+
+1. Fang, H., Fazeli, M., Cheng, W., Huang, L., Hu, H., 2015. [Biostabilization and Transport of Cohesive Sediment Deposits in the Three Gorges Reservoir] PLoS ONE 10. (https://doi.org/10.1371/journal.pone.0142673)
+
+1. Fang, H., Zhao, H., Shang, Q., Chen, M., 2012. [Effect of biofilm on the rheological properties of cohesive sediment] Hydrobiologia 694, 171–181. (https://doi.org/10.1007/s10750-012-1140-y)
+
+1. Fang, H.W., Lai, H.J., Cheng, W., Huang, L., He, G.J., 2017. [Modeling sediment transport with an integrated view of the biofilm effects] Water Resour. Res. 53, 7536–7557. (https://doi.org/10.1002/2017WR020628)
+
+1. Fischer, H., Pusch, M., 2001. [Comparison of bacterial production in sediments, epiphyton and the pelagic zone of a lowland river] Freshw. Biol. 46, 1335–1348. (https://doi.org/10.1046/j.1365-2427.2001.00753.x)
+
+1. Flemming, H.-C., 2020. [Biofouling and me: My Stockholm syndrome with biofilms] Water Res. 173, 115576. (https://doi.org/10.1016/j.watres.2020.115576)
+
+1. Flemming, H.-C., Wingender, J., 2010. [The biofilm matrix. Nat. Rev. Microbiol] 8, 623–633. (https://doi.org/10.1038/nrmicro2415)
+
+1. Flemming, H.-C., Wuertz, S., 2019. [Bacteria and archaea on Earth and their abundance in biofilms] Nat. Rev. Microbiol. 17, 247–260. (https://doi.org/10.1038/s41579-019-0158-9)
+
+1. Förstner, U., Heise, S., Schwartz, R., Westrich, B., Ahlf, W., 2004. [Historical Contaminated Sediments and Soils at the River Basin Scale] J. Soils Sediments 4, 247. (https://doi.org/10.1007/BF02991121)
+
+1. Foshtomi, M.Y., Braeckman, U., Derycke, S., Sapp, M., Gansbeke, D.V., Sabbe, K., Willems, A., Vincx, M., Vanaverbeke, J., 2015. [The Link between Microbial Diversity and Nitrogen Cycling in Marine Sediments Is Modulated by Macrofaunal Bioturbation] PLOS ONE 10, e0130116. (https://doi.org/10.1371/journal.pone.0130116)
+
+1. Geesey, G.G., Mutch, R., Costerton, J.W., Green, R.B., 1978. [Sessile bacteria: An important component of the microbial population in small mountain streams] 1. Limnol. Oceanogr. 23, 1214–1223. (https://doi.org/10.4319/lo.1978.23.6.1214)
+
+1. Gerbersdorf, S.U., Jancke, T., Westrich, B., Paterson, D.M., 2008. [Microbial stabilization of riverine sediments by extracellular polymeric substances] Geobiology 6, 57–69. (https://doi.org/10.1111/j.1472-4669.2007.00120.x)
+
+1. Gerbersdorf, S.U., Wieprecht, S., 2015. [Biostabilization of cohesive sediments: revisiting the role of abiotic conditions, physiology and diversity of microbes, polymeric secretion, and biofilm architecture] Geobiology 13, 68–97. (https://doi.org/10.1111/gbi.12115)
+
+1. Gibbs, R.J., 1983. [Effect of natural organic coatings on the coagulation of particles] Environ. Sci. Technol. 17, 237–240. (https://doi.org/10.1021/es00110a011)
+
+
+
+## Cyanobacterial blooms
+
+1. Bullerjahn, G.S., McKay, R.M., Davis, T.W., Baker, D.B., Boyer, G.L., D&#39;Anglada, L.V., Doucette, G.J., Ho, J.C., Irwin, E.G., Kling, C.L., Kudela, R.M., Kurmayer, R., Michalak, A.M., Ortiz, J.D., Otten, T.G., Paerl, H.W., Qin, B., Sohngen, B.L., Stumpf, R.P., Visser, P.M., Wilhelm, S.W., 2016. [Global solutions to regional problems: Collecting global expertise to address the problem of harmful cyanobacterial blooms](https://www.sciencedirect.com/science/article/pii/S1568988315301657). A Lake Erie case study. Harmful Algae 54, 223–238. [https://doi.org/10.1016/j.hal.2016.01.003](https://doi.org/10.1016/j.hal.2016.01.003)
+
+1. Callieri, C., Bertoni, R., Contesini, M., Bertoni, F., 2014. [Lake Level Fluctuations Boost Toxic Cyanobacterial &quot;Oligotrophic Blooms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0109526).&quot; PLoS ONE 9. [https://doi.org/10.1371/journal.pone.0109526](https://doi.org/10.1371/journal.pone.0109526)
+
+1. Chorus, I., 2012. [Current approaches to Cyanotoxin risk assessment, risk management and regulations in different countries](https://www.umweltbundesamt.de/en/publikationen/current-approaches-to-cyanotoxin-risk-assessment-0) 151.
+
+1. Dietrich, D.R., Fischer, A., Michel, C., Hoeger, S.J., 2008. [Toxin mixture in cyanobacterial blooms – a critical comparison of reality with current procedures employed in human health risk assessment], in: Hudnell, H.K. (Ed.), Cyanobacterial Harmful Algal Blooms: State of the Science and Research Needs, Advances in Experimental Medicine and Biology. Springer New York, pp. 885–912. (https://doi.org/10.1007/978-0-387-75865-7_39)
+
+1. Dolman, A.M., Rücker, J., Pick, F.R., Fastner, J., Rohrlack, T., Mischke, U., Wiedner, C., 2012. [Cyanobacteria and Cyanotoxins: The Influence of Nitrogen versus Phosphorus] PLOS ONE 7, e38757.(https://doi.org/10.1371/journal.pone.0038757)
+
+1. Ernst, B., Höger, S.J., O´Brien, E., Dietrich, D.R., 2009. [Abundance and toxicity of Planktothrix rubescens in the pre-alpine Lake Ammersee, Germany] Harmful Algae 8, 329–342. (https://doi.org/10.1016/j.hal.2008.07.006)
+
+
+## Social Interactions
+
+1. Blackbourn, D.; Rennert, U. Die Eroberung der Natur. [Eine Geschichte der deutschen Landschaft, 3rd ed.;](https://www.randomhouse.de/Paperback/Die-Eroberung-der-Natur/David-Blackbourn/Pantheon/e257994.rhd) Pantheon: München, Germany, 2008; ISBN 9783570550632
+
+1. Carnea, Michael, M., 1997. [Hydropower Dams and Social Impacts](http://documents1.worldbank.org/curated/en/446311468761673943/585559324_20040283053533/additional/multi-page.pdf). A Sociological Perspective.
+
+1. Daus, M.; Koberger, K.; Gnutzmann, N.; Hertrich, T.; Glaser, R., 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://www.mdpi.com/2073-4441/11/12/2469). Water 2019, 11(12), 2469; [https://doi.org/10.3390/w11122469](https://doi.org/10.3390/w11122469)
+
+1. Kirchherr, J., Pohlner, H., Charles, K.J., 2016. [Cleaning up the big muddy. A meta-synthesis of the research on the social impact of dams.](https://www.sciencedirect.com/science/article/pii/S0195925515300846) Environmental Impact Assessment Review 60, 115-125.
+
+1. Nguyen, H., Pham, T., Lobry de Bruyn, L., 2017. [Impact of Hydroelectric Dam Development and Resettlement on the Natural and Social Capital of Rural Livelihoods in Bo Hon Village in Central Vietnam](https://www.mdpi.com/2071-1050/9/8/1422). Sustainability 9, 1422.
+
+1. EU, 2000. [Good-quality water in Europe (EU Water Directive)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l28002b&from=DE)
+
+1. Deutscher Bundestag 2009. [Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz)](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html)
+
+1. Dittmann, R.; Froehlich, F.; Pohl, R.; Ostrowski, M. 2009. [Optimum multi-objective reservoir operation with emphasis on flood control and ecology] Nat. Hazards Earth Syst. Sci., 9.(https://doi.org/10.5194/nhess-9-1973-2009)
+
+1. European Parliament And The Council 2007. [on the assessment and management of flood risks] (https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32007L0060&from=DE)
