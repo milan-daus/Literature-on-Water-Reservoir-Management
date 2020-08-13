@@ -15,7 +15,7 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. Beckers, F.; Haun, S.; Gerbersdorf, S.U.; Noack, M.; Dietrich, D.; Martin-Creuzburg, D.; Peeters, F.; Hofmann, H.; Glaser, R.; Wieprecht, S. CHARM - [Challenges of Reservoir Management - Meeting environmental and social requirements](https://issuu.com/hydrolinkiahr/docs/2018-3). Hydrolink 2018, 16–18.
 
-1. Döll, P., Fiedler, K., Zhang, J., 2009. [Global-scale analysis of river flow alterations due to water withdrawals and reservoirs](https://doi.org/10.5194/hess-13-2413-2009) Hydrol. Earth Syst. Sci. 13, 2413–2432.
+1. Döll, P., Fiedler, K., Zhang, J., 2009. [Global-scale analysis of river flow alterations due to water withdrawals and reservoirs](.._https://doi.org/10.5194/hess-13-2413-2009) Hydrol. Earth Syst. Sci. 13, 2413–2432.
 
 1. Droppo, I.G., D&#39;Andrea, L., Krishnappan, B.G., Jaskot, C., Trapp, B., Basuvaraj, M., Liss, S.N., 2015. [Fine-sediment dynamics: towards an improved understanding of sediment erosion and transport. J. Soils Sediments](https://link.springer.com/article/10.1007/s11368-014-1004-3) 15, 467–479. (https://doi.org/10.1007/s11368-014-1004-3)
 
