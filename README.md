@@ -212,13 +212,13 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. Daus, M., Koberger, K., Gnutzmann, N., Hertrich, T., Glaser, R., 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://www.mdpi.com/2073-4441/11/12/2469). Water 2019, 11(12), 2469; [https://doi.org/10.3390/w11122469]
 
-1. EU, 2000. [Good-quality water in Europe (EU Water Directive)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l28002b&from=DE)
-
 1. Deutscher Bundestag, 2009. [Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz)](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html)
 
 1. Dittmann, R., Froehlich, F., Pohl, R., Ostrowski, M. 2009. [Optimum multi-objective reservoir operation with emphasis on flood control and ecology](https://doi.org/10.5194/nhess-9-1973-2009) Nat. Hazards Earth Syst. Sci., 9.
 
 1. European Parliament And The Council, 2007. [on the assessment and management of flood risks](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32007L0060&from=DE)
+
+1. EU, 2000. [Good-quality water in Europe (EU Water Directive)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l28002b&from=DE)
 
 1. German Ministry of Justice, 2020. [Verordnung über die Qualität von Wasser für den menschlichen Gebrauch (Trinkwasserverordnung)](https://www.gesetze-im-internet.de/trinkwv_2001/BJNR095910001.html) 
 
