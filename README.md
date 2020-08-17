@@ -83,7 +83,7 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. Maeck, A., DelSontro, T., McGinnis, D. F., Fischer, H., Flury, S., Schmidt, M., Fietzek, P. and Lorke, A. 2013. [Sediment trapping by dams creates methane emission hot spots](https://doi.org/10.1021/es4003907) Environmental Science and Technology 47(15): 8130–8137. 
 
-1. Maeck, A., Hofmann, H., Lorke, A. 2014. [Pumping methane out of aquatic sediments - ebullition forcing mechanisms in an impounded river](https://doi.org/10.5194/bg-11-2925-2014)Biogeosciences, 11 (11), 2925-2938. 
+1. Maeck, A., Hofmann, H., Lorke, A. 2014. [Pumping methane out of aquatic sediments - ebullition forcing mechanisms in an impounded river](https://doi.org/10.5194/bg-11-2925-2014) Biogeosciences, 11 (11), 2925-2938. 
 
 1. Raymond, P.A., Hartmann, J., Lauerwald, R., Sobek, S., McDonald, C., Hoover, M., Butman, D., Striegl, R., Mayorga, E., Humborg, C., Kortelainen, P., Dürr, H., Meybeck, M., Ciais, P., Guth, P. 2013. [Global carbon dioxide emissions from inland waters](https://doi.org/10.1038/nature12760) Nature, 503 (7476), 355-9. 
 
