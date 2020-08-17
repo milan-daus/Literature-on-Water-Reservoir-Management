@@ -1,5 +1,5 @@
 # Literature on Reservoir Management
-In this file you will find a list of references on certain topics in reservoir management. The original source is provided via hyperlink. Where applicable, you can downbload the original file. The list is sorted by topic. 
+In this file you will find a list of references on certain topics in reservoir management. The original source is provided via hyperlink. Where applicable, you can downbload the original file.  
 
 ## Sediment
 
@@ -55,41 +55,41 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. White, R. 2001. [Evacuation of sediments from reservoirs](http://dx.doi.org/10.1680/eosfr.29538) Thomas Telford Publishing. 
 
-1. Yoon, Y.N. 1992. [The state and the perspective of the direct sediment removal methods from reservoirs] International Journal of Sediment Research, 7(2), 99–116. (https://doi.org/10.1080/15715124.2019.1583667)
+1. Yoon, Y.N. 1992. [The state and the perspective of the direct sediment removal methods from reservoirs](https://doi.org/10.1080/15715124.2019.1583667) International Journal of Sediment Research, 7(2), 99–116. 
 
 ## Greenhouse Gas emissions
 
-1. Barros, N., Cole, J.J., Tranvik, L.J., Prairie, Y.T., Bastviken, D., Huszar, V.L.M., del Giorgio, P., Roland, F. (2011). [Carbon emission from hydroelectric reservoirs linked to reservoir age and latitude. Nature Geoscience](https://www.nature.com/articles/ngeo1211), 4, 593-596.
+1. Barros, N., Cole, J.J., Tranvik, L.J., Prairie, Y.T., Bastviken, D., Huszar, V.L.M., del Giorgio, P., Roland, F. 2011. [Carbon emission from hydroelectric reservoirs linked to reservoir age and latitude. Nature Geoscience](https://www.nature.com/articles/ngeo1211), 4, 593-596.
 
-1. Beaulieu, J.J., Smolenski, R.L., Nietch, C.T., Townsend-Small, A., Elovitz, M.S. (2014). [High methane emissions from a midlatitude reservoir draining an agricultural watershed](https://pubs.acs.org/doi/10.1021/es501871g). Environmental Science &amp; Technology, 48 (19), 11100-11108. [https://doi.org/10.1021/es501871g](https://doi.org/10.1021/es501871g).
+1. Beaulieu, J.J., Smolenski, R.L., Nietch, C.T., Townsend-Small, A., Elovitz, M.S. 2014. [High methane emissions from a midlatitude reservoir draining an agricultural watershed](https://pubs.acs.org/doi/10.1021/es501871g). Environmental Science &amp; Technology, 48 (19), 11100-11108. [https://doi.org/10.1021/es501871g](https://doi.org/10.1021/es501871g).
 
 1. Deemer, B.R., Harrison, J.A., Li, S., Beaulieu, J.J., DelSontro, T., Barros, N., Bezerra-Neto, J.F., Powers, S.M., dos Santos, M.A., Vonk, J.A., 2016. [Greenhouse Gas Emissions from Reservoir Water Surfaces: A New Global Synthesis.](https://academic.oup.com/bioscience/article/66/11/949/2754271) BioScience 66, 949–964. https://doi.org/10.1093/biosci/biw117
 
-1. Deborde, J., Anschutz, P., Guérin, F., Poirier, D., Marty, D., Boucher, G., Thouzeau, G., Canton, M., Abril, G. (2010). [Methane sources, sinks and fluxes in a temperate tidal Lagoon: The Arcachon lagoon](https://www.sciencedirect.com/science/article/pii/S0272771410002738) (SW France). Estuarine, Coastal and Shelf Science, Elsevier, 89, 256-266 (hal-00524642)
+1. Deborde, J., Anschutz, P., Guérin, F., Poirier, D., Marty, D., Boucher, G., Thouzeau, G., Canton, M., Abril, G. 2010. [Methane sources, sinks and fluxes in a temperate tidal Lagoon: The Arcachon lagoon](https://www.sciencedirect.com/science/article/pii/S0272771410002738) (SW France). Estuarine, Coastal and Shelf Science, Elsevier, 89, 256-266 (hal-00524642)
 
-1. DelSontro, T., McGinnis, D.F., Sobek, S., Ostrovsky, I., Wehrli, B. (2010). [Extreme methane emissions from a Swiss hydropower reservoir: Contribution from bubbling sediments](https://pubs.acs.org/doi/10.1021/es9031369). Environmental Science &amp; Technology, 44 (7), 2419-2425. https://doi.org/10.1021/es9031369
+1. DelSontro, T., McGinnis, D.F., Sobek, S., Ostrovsky, I., Wehrli, B. 2010. [Extreme methane emissions from a Swiss hydropower reservoir: Contribution from bubbling sediments](https://pubs.acs.org/doi/10.1021/es9031369). Environmental Science &amp; Technology, 44 (7), 2419-2425. https://doi.org/10.1021/es9031369
 
-1. Encinas Fernandez, J., Peeters, F., Hofmann, H. (2014). [Importance of the autumn overturn and anoxic conditions in the hypolimnion for the annual methane emissions from a temperate lake] Environmental Science & Technology, 48, 7297-7304.(https://doi.org/10.1021/es4056164)
+1. Encinas Fernandez, J., Peeters, F., Hofmann, H. 2014. [Importance of the autumn overturn and anoxic conditions in the hypolimnion for the annual methane emissions from a temperate lake](https://doi.org/10.1021/es4056164) Environmental Science & Technology, 48, 7297-7304.
 
-1. Engle, D., Melack, J.M. (2000). [Methane emissions from an Amazon floodplain lake: Enhanced release during episodic mixing and during falling water] Biogeochemistry, 51 (1), 71-90. (https://doi.org/10.1023/A:1006389124823)
+1. Engle, D., Melack, J.M. 2000. [Methane emissions from an Amazon floodplain lake: Enhanced release during episodic mixing and during falling water](https://doi.org/10.1023/A:1006389124823) Biogeochemistry, 51 (1), 71-90. 
 
-1. Harrison, J.A., Deemer, B.R., Birchfield, M.K., O'Malley, M.T. (2017). [Reservoir water-level drawdowns accelerate and amplify methane emission] Environmental Science & Technology, 51(3), 1267-1277. (https://doi.org/10.1021/acs.est.6b03185)
+1. Harrison, J.A., Deemer, B.R., Birchfield, M.K., O'Malley, M.T. 2017. [Reservoir water-level drawdowns accelerate and amplify methane emission](https://doi.org/10.1021/acs.est.6b03185) Environmental Science & Technology, 51(3), 1267-1277. 
 
-1. Hertwich, E.G. (2013). [Addressing biogenic greenhouse gas emissions from hydropower in LCA] Environ. Sci. Technol., 47(17): 9604-11. (https://doi.org/10.1021/es401820p)
+1. Hertwich, E.G. 2013. [Addressing biogenic greenhouse gas emissions from hydropower in LCA](https://doi.org/10.1021/es401820p) Environ. Sci. Technol., 47(17): 9604-11. 
 
-1. Li, S. Y., Zhang, Q. F., Bush, R. T. and Sullivan, L. A. (2015). [Methane and CO2 emissions from China's hydroelectric reservoirs: a new quantitative synthesis] Environmental Science and Pollution Research International 22(7): 5325–5339. (https://doi.org/10.1007/s11356-015-4083-9)
+1. Li, S. Y., Zhang, Q. F., Bush, R. T. and Sullivan, L. A. 2015. [Methane and CO2 emissions from China's hydroelectric reservoirs: a new quantitative synthesis](https://doi.org/10.1007/s11356-015-4083-9) Environmental Science and Pollution Research International 22(7): 5325–5339. 
 
-1. Luyssaert, S., Abri,l G., Andres, R., Bastviken, D., Bellassen, V., Bergamaschi, P., Bousquet, P., Chevallier, F., Ciais, P., Corazza, M., Dechow, R., Erb, K.H., Etiope, G., Fortems-Cheiney, A., Grassi, G., Hartmann, J., Jung, M., Lathière, J., Lohila, A., Mayorga, E., Moosdorf, N., Njakou, D.S., Otto, J., Papale, D., Peters, W., Peylin, P., Raymond, P., Rödenbeck, C., Saarnio, S., Schulze, E.D., Szopa, S., Thompson, R., Verkerk, P.J., Vuichard, N., Wang, R., Wattenbach, M., Zaehle, S. 2012. [The European land and inland water CO2, CO, CH4 and N2O balance between 2001 and 2005] Biogeosciences, 9, 3357-3380. (https://doi.org/10.5194/bg-9-3357-2012)
+1. Luyssaert, S., Abri,l G., Andres, R., Bastviken, D., Bellassen, V., Bergamaschi, P., Bousquet, P., Chevallier, F., Ciais, P., Corazza, M., Dechow, R., Erb, K.H., Etiope, G., Fortems-Cheiney, A., Grassi, G., Hartmann, J., Jung, M., Lathière, J., Lohila, A., Mayorga, E., Moosdorf, N., Njakou, D.S., Otto, J., Papale, D., Peters, W., Peylin, P., Raymond, P., Rödenbeck, C., Saarnio, S., Schulze, E.D., Szopa, S., Thompson, R., Verkerk, P.J., Vuichard, N., Wang, R., Wattenbach, M., Zaehle, S. 2012. [The European land and inland water CO2, CO, CH4 and N2O balance between 2001 and 2005](https://doi.org/10.5194/bg-9-3357-2012) Biogeosciences, 9, 3357-3380. 
 
-1. Maeck, A., DelSontro, T., McGinnis, D. F., Fischer, H., Flury, S., Schmidt, M., Fietzek, P. and Lorke, A. 2013. [Sediment trapping by dams creates methane emission hot spots] Environmental Science and Technology 47(15): 8130–8137. (https://doi.org/10.1021/es4003907)
+1. Maeck, A., DelSontro, T., McGinnis, D. F., Fischer, H., Flury, S., Schmidt, M., Fietzek, P. and Lorke, A. 2013. [Sediment trapping by dams creates methane emission hot spots](https://doi.org/10.1021/es4003907) Environmental Science and Technology 47(15): 8130–8137. 
 
-1. Maeck, A., Hofmann, H., Lorke, A. (2014). [Pumping methane out of aquatic sediments - ebullition forcing mechanisms in an impounded river] Biogeosciences, 11 (11), 2925-2938. (https://doi.org/10.5194/bg-11-2925-2014)
+1. Maeck, A., Hofmann, H., Lorke, A. 2014. [Pumping methane out of aquatic sediments - ebullition forcing mechanisms in an impounded river] Biogeosciences, 11 (11), 2925-2938. (https://doi.org/10.5194/bg-11-2925-2014)
 
-1. Raymond, P.A., Hartmann, J., Lauerwald, R., Sobek, S., McDonald, C., Hoover, M., Butman, D., Striegl, R., Mayorga, E., Humborg, C., Kortelainen, P., Dürr, H., Meybeck, M., Ciais, P., Guth, P. 2013. [Global carbon dioxide emissions from inland waters] Nature, 503 (7476), 355-9. (https://doi.org/10.1038/nature12760)
+1. Raymond, P.A., Hartmann, J., Lauerwald, R., Sobek, S., McDonald, C., Hoover, M., Butman, D., Striegl, R., Mayorga, E., Humborg, C., Kortelainen, P., Dürr, H., Meybeck, M., Ciais, P., Guth, P. 2013. [Global carbon dioxide emissions from inland waters](https://doi.org/10.1038/nature12760) Nature, 503 (7476), 355-9. 
 
-1. Sobek, S., DelSontro, T., Wongfun, N., Wehrli, B. 2012. [Extreme organic carbon burial fuels intense methane bubbling in a temperate reservoir] Geophysical Research Letters, 39 (1). (https://doi.org/10.1029/2011gl050144)
+1. Sobek, S., DelSontro, T., Wongfun, N., Wehrli, B. 2012. [Extreme organic carbon burial fuels intense methane bubbling in a temperate reservoir](https://doi.org/10.1029/2011gl050144) Geophysical Research Letters, 39 (1). 
 
-1. Varadharajan, C., Hemond, H.F. (2012). [Time-series analysis of high-resolution ebullition fluxes from a stratified, freshwater lake] Journal of Geophysical Research: Biogeosciences, 117 (G2). (https://doi.org/10.1029/2011JG001866)
+1. Varadharajan, C., Hemond, H.F. 2012. [Time-series analysis of high-resolution ebullition fluxes from a stratified, freshwater lake](https://doi.org/10.1029/2011JG001866) Journal of Geophysical Research: Biogeosciences, 117 (G2). 
 
 
 ## Biofilms
@@ -173,9 +173,9 @@ In this file you will find a list of references on certain topics in reservoir m
 
 ## Cyanobacterial blooms
 
-1. Bullerjahn, G.S., McKay, R.M., Davis, T.W., Baker, D.B., Boyer, G.L., D&#39;Anglada, L.V., Doucette, G.J., Ho, J.C., Irwin, E.G., Kling, C.L., Kudela, R.M., Kurmayer, R., Michalak, A.M., Ortiz, J.D., Otten, T.G., Paerl, H.W., Qin, B., Sohngen, B.L., Stumpf, R.P., Visser, P.M., Wilhelm, S.W., 2016. [Global solutions to regional problems: Collecting global expertise to address the problem of harmful cyanobacterial blooms](https://www.sciencedirect.com/science/article/pii/S1568988315301657). A Lake Erie case study. Harmful Algae 54, 223–238. [https://doi.org/10.1016/j.hal.2016.01.003](https://doi.org/10.1016/j.hal.2016.01.003)
+1. Bullerjahn, G.S., McKay, R.M., Davis, T.W., Baker, D.B., Boyer, G.L., Anglada, L.V., Doucette, G.J., Ho, J.C., Irwin, E.G., Kling, C.L., Kudela, R.M., Kurmayer, R., Michalak, A.M., Ortiz, J.D., Otten, T.G., Paerl, H.W., Qin, B., Sohngen, B.L., Stumpf, R.P., Visser, P.M., Wilhelm, S.W., 2016. [Global solutions to regional problems: Collecting global expertise to address the problem of harmful cyanobacterial blooms](https://www.sciencedirect.com/science/article/pii/S1568988315301657). A Lake Erie case study. Harmful Algae 54, 223–238. [https://doi.org/10.1016/j.hal.2016.01.003](https://doi.org/10.1016/j.hal.2016.01.003)
 
-1. Callieri, C., Bertoni, R., Contesini, M., Bertoni, F., 2014. [Lake Level Fluctuations Boost Toxic Cyanobacterial &quot;Oligotrophic Blooms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0109526).&quot; PLoS ONE 9. [https://doi.org/10.1371/journal.pone.0109526](https://doi.org/10.1371/journal.pone.0109526)
+1. Callieri, C., Bertoni, R., Contesini, M., Bertoni, F., 2014. [Lake Level Fluctuations Boost Toxic Cyanobacterial &quot;Oligotrophic Blooms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0109526) PLoS ONE 9. [https://doi.org/10.1371/journal.pone.0109526](https://doi.org/10.1371/journal.pone.0109526)
 
 1. Chorus, I., 2012. [Current approaches to Cyanotoxin risk assessment, risk management and regulations in different countries](https://www.umweltbundesamt.de/en/publikationen/current-approaches-to-cyanotoxin-risk-assessment-0) 151.
 
