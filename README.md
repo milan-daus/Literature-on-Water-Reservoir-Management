@@ -25,13 +25,13 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. Harb, G. 2013. [Numerical Modeling of Sediment Transport Processes in Alpine Reservoirs](https://diglib.tugraz.at/numerical-modeling-of-sediment-transport-processes-in-alpine-reservoirs-2013) Dissertation, Schriftenreihe zur Wasserwirtschaft der Technischen Universität Graz, Band 73. 
 
-1. Haun, S., Kjærås, H., Løvfall, S. and Olsen, N.R.B. 2013. [Three-dimensional measurements and numerical modelling of suspended sediments in a hydropower reservoir] Journal of Hydrology 479: 180-188. (https://doi.org/10.1016/j.jhydrol.2012.11.060)
+1. Haun, S., Kjærås, H., Løvfall, S. and Olsen, N.R.B. 2013. [Three-dimensional measurements and numerical modelling of suspended sediments in a hydropower reservoir](https://doi.org/10.1016/j.jhydrol.2012.11.060) Journal of Hydrology 479: 180-188. 
 
-1. Kondolf, G.M., Gao, Y., Annandale, G.W., Morris, G.L., Jiang, E.,  Zhang, J., Cao, Y., Carling, P., Fu, K., Guo, Q., Hotchkiss, R.,  Peteuil, Ch., Sumi, T., Wang, H.-W.,Wang, Z., Wei, Z., Wu, B.,  Wu, C. and  Ted Yang, Ch.T. 2014. [Sustainable sediment management in reservoirs and regulated rivers: Experiences from five continents] Earth’s Future 2(5): 256-280. (https://doi.org/10.1002/2013EF000184)
+1. Kondolf, G.M., Gao, Y., Annandale, G.W., Morris, G.L., Jiang, E.,  Zhang, J., Cao, Y., Carling, P., Fu, K., Guo, Q., Hotchkiss, R.,  Peteuil, Ch., Sumi, T., Wang, H.-W.,Wang, Z., Wei, Z., Wu, B.,  Wu, C. and  Ted Yang, Ch.T. 2014. [Sustainable sediment management in reservoirs and regulated rivers: Experiences from five continents](https://doi.org/10.1002/2013EF000184) Earth’s Future 2(5): 256-280. 
 
-1. Mahmood, K. 1987. [Reservoir sedimentation: impact, extent and mitigation] World Bank Technical Paper. 71, Washington D.C.. (https://documents.worldbank.org/pt/publication/documents-reports/documentdetail/888541468762328736/reservoir-sedimentation-impact-extent-and-mitigation)
+1. Mahmood, K. 1987. [Reservoir sedimentation: impact, extent and mitigation](https://documents.worldbank.org/pt/publication/documents-reports/documentdetail/888541468762328736/reservoir-sedimentation-impact-extent-and-mitigation) World Bank Technical Paper. 71, Washington D.C.. 
 
-1. Milliman, J.D. and Farnsworth, K.L. 2011. [River Discharge to the Coastal Ocean - A Global Synthesis] Cambridge  University  Press. (https://doi.org/10.1017/CBO9780511781247)
+1. Milliman, J.D. and Farnsworth, K.L. 2011. [River Discharge to the Coastal Ocean - A Global Synthesis](https://doi.org/10.1017/CBO9780511781247) Cambridge  University  Press. 
 
 1. Milliman, J.D., Syvitski, J.P.M., 1992. [Geomorphic/tectonic control of sediment discharge to the ocean: the importance of small mountainous rivers] Journal of Geology 100, 325– 344. (https://doi.org/10.1086/629606)
 
