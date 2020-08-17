@@ -1,5 +1,5 @@
 # Literature on Reservoir Management
-In this file you will find a list of references on certain topics in reservoir management. The original source is provided via hyperlink. Where applicable, you can downbload the original file.  
+The original source is provided via hyperlink. Where applicable, you can downbload the original file.  
 
 ## Sediment
 
