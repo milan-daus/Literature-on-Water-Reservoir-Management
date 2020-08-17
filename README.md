@@ -17,13 +17,13 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. Döll, P., Fiedler, K., Zhang, J., 2009. [Global-scale analysis of river flow alterations due to water withdrawals and reservoirs](https://doi.org/10.5194/hess-13-2413-2009) Hydrol. Earth Syst. Sci. 13, 2413–2432.
 
-1. Droppo, I.G., D&#39;Andrea, L., Krishnappan, B.G., Jaskot, C., Trapp, B., Basuvaraj, M., Liss, S.N., 2015. [Fine-sediment dynamics: towards an improved understanding of sediment erosion and transport. J. Soils Sediments](https://link.springer.com/article/10.1007/s11368-014-1004-3) 15, 467–479. (https://doi.org/10.1007/s11368-014-1004-3)
+1. Droppo, I.G., D&#39;Andrea, L., Krishnappan, B.G., Jaskot, C., Trapp, B., Basuvaraj, M., Liss, S.N., 2015. [Fine-sediment dynamics: towards an improved understanding of sediment erosion and transport](https://doi.org/10.1007/s11368-014-1004-3) J. Soils Sediments 15, 467–479. 
 
-1. Fan, J. and Morris, G.L. 1992. [Reservoir Sedimentation. II: Reservoir Desiltation and Long-Term Storage Capacity] Journal of Hydraulic Engineering, ASCE, 118(3). (https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%290733-9429%281992%29118%3A3%28370%29)
+1. Fan, J. and Morris, G.L. 1992. [Reservoir Sedimentation. II: Reservoir Desiltation and Long-Term Storage Capacity](https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%290733-9429%281992%29118%3A3%28370%29) Journal of Hydraulic Engineering, ASCE, 118(3). 
 
-1. Haddeland, I., Heinke, J., Biemans, H., Eisner, S., Flörke, M., Hanasaki, N., Konzmann, M., Ludwig, F., Masaki, Y., Schewe, J., Stacke, T., Tessler, Z.D., Wada, Y., Wisser, D., 2014. [Global water resources affected by human interventions and climate change] Proc. Natl. Acad. Sci. 111, 3251–3256. (https://doi.org/10.1073/pnas.1222475110)
+1. Haddeland, I., Heinke, J., Biemans, H., Eisner, S., Flörke, M., Hanasaki, N., Konzmann, M., Ludwig, F., Masaki, Y., Schewe, J., Stacke, T., Tessler, Z.D., Wada, Y., Wisser, D., 2014. [Global water resources affected by human interventions and climate change](https://doi.org/10.1073/pnas.1222475110) Proc. Natl. Acad. Sci. 111, 3251–3256. 
 
-1. Harb, G. 2013. [Numerical Modeling of Sediment Transport Processes in Alpine Reservoirs] Dissertation, Schriftenreihe zur Wasserwirtschaft der Technischen Universität Graz, Band 73. (https://diglib.tugraz.at/numerical-modeling-of-sediment-transport-processes-in-alpine-reservoirs-2013)
+1. Harb, G. 2013. [Numerical Modeling of Sediment Transport Processes in Alpine Reservoirs](https://diglib.tugraz.at/numerical-modeling-of-sediment-transport-processes-in-alpine-reservoirs-2013) Dissertation, Schriftenreihe zur Wasserwirtschaft der Technischen Universität Graz, Band 73. 
 
 1. Haun, S., Kjærås, H., Løvfall, S. and Olsen, N.R.B. 2013. [Three-dimensional measurements and numerical modelling of suspended sediments in a hydropower reservoir] Journal of Hydrology 479: 180-188. (https://doi.org/10.1016/j.jhydrol.2012.11.060)
 
