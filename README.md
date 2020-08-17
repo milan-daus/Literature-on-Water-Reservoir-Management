@@ -33,27 +33,27 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. Milliman, J.D. and Farnsworth, K.L. 2011. [River Discharge to the Coastal Ocean - A Global Synthesis](https://doi.org/10.1017/CBO9780511781247) Cambridge  University  Press. 
 
-1. Milliman, J.D., Syvitski, J.P.M., 1992. [Geomorphic/tectonic control of sediment discharge to the ocean: the importance of small mountainous rivers] Journal of Geology 100, 325– 344. (https://doi.org/10.1086/629606)
+1. Milliman, J.D., Syvitski, J.P.M., 1992. [Geomorphic/tectonic control of sediment discharge to the ocean: the importance of small mountainous rivers](https://doi.org/10.1086/629606) Journal of Geology 100, 325– 344. 
 
-1. Morris, G.L. and Fan, J. 1998. [Reservoir Sediment Handbook] McGraw-Hill Book Co., New York. (https://www.reservoirsedimentation.com/)
+1. Morris, G.L. and Fan, J. 1998. [Reservoir Sediment Handbook](https://www.reservoirsedimentation.com/) McGraw-Hill Book Co., New York. 
 
-1. Mulligan, M., van Soesbergen, A., Sáenz, L., 2020. [GOODD, a global dataset of more than 38,000 georeferenced dams] Sci. Data 7, 31. (https://doi.org/10.1038/s41597-020-0362-5)
+1. Mulligan, M., van Soesbergen, A., Sáenz, L., 2020. [GOODD, a global dataset of more than 38,000 georeferenced dams](https://doi.org/10.1038/s41597-020-0362-5) Sci. Data 7, 31. 
 
-1. Nilsson, C., Reidy, C.A., Dynesius, M., Revenga, C., 2005. [Fragmentation and Flow Regulation of the World’s Large River Systems] Science 308, 405–408. (https://doi.org/10.1126/science.1107887)
+1. Nilsson, C., Reidy, C.A., Dynesius, M., Revenga, C., 2005. [Fragmentation and Flow Regulation of the World’s Large River Systems](https://doi.org/10.1126/science.1107887) Science 308, 405–408. 
 
-1. Pohlert, T., Hillebrand, G., and Breitung, V. 2011. [Trends of persistent organic pollutants in the suspended matter of the river rhine] Hydrological Processes, 25:3803–3817. (https://doi.org/10.1002/hyp.8110)
+1. Pohlert, T., Hillebrand, G., and Breitung, V. 2011. [Trends of persistent organic pollutants in the suspended matter of the river rhine](https://doi.org/10.1002/hyp.8110) Hydrological Processes, 25:3803–3817. 
 
-1. Shen, H.W. 1999. [Flushing sediment through reservoirs] IAHR Journal of Hydraulic Research, 37(6), 743–757. (https://doi.org/10.1080/0022168990949850)
+1. Shen, H.W. 1999. [Flushing sediment through reservoirs](https://doi.org/10.1080/0022168990949850) IAHR Journal of Hydraulic Research, 37(6), 743–757. 
 
-1. Sumi, T. and Kantoush, S.A. 2011. [Sediment management strategies for sustainable reservoir] In: Dams and Reservoirs under Changing Challenges, Eds. Schleiss, A.J. and Boes R.M. CRC Press. ISBN 9780415682671. (http://ecohyd.dpri.kyoto-u.ac.jp/content/files/sumi-paper/2011/cICOLD2011_Sumi_Kantoush.pdf)
+1. Sumi, T. and Kantoush, S.A. 2011. [Sediment management strategies for sustainable reservoir](http://ecohyd.dpri.kyoto-u.ac.jp/content/files/sumi-paper/2011/cICOLD2011_Sumi_Kantoush.pdf)  Dams and Reservoirs under Changing Challenges, Eds. Schleiss, A.J. and Boes R.M. CRC Press. ISBN 9780415682671. 
 
-1. Syvitski, J.P.M., Vörösmarty, C.J., Kettner, A.J., Green, P., 2005. [Impact of Humans on the Flux of Terrestrial Sediment to the Global Coastal Ocean] Science 308, 376–380. (https://doi.org/10.1126/science.1109454)
+1. Syvitski, J.P.M., Vörösmarty, C.J., Kettner, A.J., Green, P., 2005. [Impact of Humans on the Flux of Terrestrial Sediment to the Global Coastal Ocean](https://doi.org/10.1126/science.1109454) Science 308, 376–380. 
 
-1. Vörösmarty, C.J., Meybeck, M., Fekete, B. and Sharma, K. 1997. The potential impact of neo-Castorization on sediment transport by the global network of rivers. In: Walling, D.E., and Probst, J.L. (Eds.). Human Impact on Erosion and Sedimentation. (Proc. Rabat Symposium, April 1997) (IAHS Publication 245). Wallingford, UK: 261–273 (https://iahs.info/uploads/dms/10840.261-273-245-Vorosmarty.pdf)
+1. Vörösmarty, C.J., Meybeck, M., Fekete, B. and Sharma, K. 1997. [The potential impact of neo-Castorization on sediment transport by the global network of rivers](https://iahs.info/uploads/dms/10840.261-273-245-Vorosmarty.pdf) Walling, D.E., and Probst, J.L. (Eds.). Human Impact on Erosion and Sedimentation. (Proc. Rabat Symposium, April 1997) (IAHS Publication 245). Wallingford, UK: 261–273 
 
-1. Vörösmarty, C.J., Meybeck, M., Fekete, B., Sharma, K., Green, P. and Syvitski, J.P.M. 2003. [Anthropogenic sediment retention: major global impact from registered river impoundments] Global and Planetary Change, Vol. 39. Amsterdam, Elsevier Science, 169–90. (https://doi.org/10.1016/S0921-8181(03)00023-7)
+1. Vörösmarty, C.J., Meybeck, M., Fekete, B., Sharma, K., Green, P. and Syvitski, J.P.M. 2003. [Anthropogenic sediment retention: major global impact from registered river impoundments](https://doi.org/10.1016/S0921-8181(03)00023-7) Global and Planetary Change, Vol. 39. Amsterdam, Elsevier Science, 169–90. 
 
-1. White, R. 2001. [Evacuation of sediments from reservoirs] Thomas Telford Publishing. (http://dx.doi.org/10.1680/eosfr.29538)
+1. White, R. 2001. [Evacuation of sediments from reservoirs](http://dx.doi.org/10.1680/eosfr.29538) Thomas Telford Publishing. 
 
 1. Yoon, Y.N. 1992. [The state and the perspective of the direct sediment removal methods from reservoirs] International Journal of Sediment Research, 7(2), 99–116. (https://doi.org/10.1080/15715124.2019.1583667)
 
