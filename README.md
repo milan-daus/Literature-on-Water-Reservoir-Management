@@ -94,39 +94,39 @@ In this file you will find a list of references on certain topics in reservoir m
 
 ## Biofilms
 
-1. Battin, T.J., Besemer, K., Bengtsson, M.M., Romani, A.M., Packmann, A.I., 2016. [The ecology and biogeochemistry of stream biofilms](https://www.nature.com/articles/nrmicro.2016.15). Nat. Rev. Microbiol. 14, 251–263. [https://doi.org/10.1038/nrmicro.2016.15](https://doi.org/10.1038/nrmicro.2016.15)
+1. Battin, T.J., Besemer, K., Bengtsson, M.M., Romani, A.M., Packmann, A.I., 2016. [The ecology and biogeochemistry of stream biofilms](https://www.nature.com/articles/nrmicro.2016.15). Nat. Rev. Microbiol. 14, 251–263. [https://doi.org/10.1038/nrmicro.2016.15]
 
-1. Berke, A.P., Turner, L., Berg, H.C., Lauga, E., 2008. [Hydrodynamic Attraction of Swimming Microorganisms by Surfaces](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.038102). Phys. Rev. Lett. 101, 038102. [https://doi.org/10.1103/PhysRevLett.101.038102](https://doi.org/10.1103/PhysRevLett.101.038102)
+1. Berke, A.P., Turner, L., Berg, H.C., Lauga, E., 2008. [Hydrodynamic Attraction of Swimming Microorganisms by Surfaces](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.038102). Phys. Rev. Lett. 101, 038102. [https://doi.org/10.1103/PhysRevLett.101.038102]
 
-1. Block, J.C., Haudidier, K., Paquin, J.L., Miazga, J., Levi, Y., 1993. [Biofilm accumulation in drinking water distribution systems](https://www.tandfonline.com/doi/abs/10.1080/08927019309386235). Biofouling 6, 333–343. [https://doi.org/10.1080/08927019309386235](https://doi.org/10.1080/08927019309386235)
+1. Block, J.C., Haudidier, K., Paquin, J.L., Miazga, J., Levi, Y., 1993. [Biofilm accumulation in drinking water distribution systems](https://www.tandfonline.com/doi/abs/10.1080/08927019309386235). Biofouling 6, 333–343. [https://doi.org/10.1080/08927019309386235]
 
-1. Burns, A., Ryder, D.S., 2001. [Potential for biofilms as biological indicators in Australian riverine systems.](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1442-8903.2001.00069.x) Ecol. Manag. Restor. 2, 53–64. [https://doi.org/10.1046/j.1442-8903.2001.00069.x](https://doi.org/10.1046/j.1442-8903.2001.00069.x)
+1. Burns, A., Ryder, D.S., 2001. [Potential for biofilms as biological indicators in Australian riverine systems.](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1442-8903.2001.00069.x) Ecol. Manag. Restor. 2, 53–64. [https://doi.org/10.1046/j.1442-8903.2001.00069.x]
 
-1. Chen, X.D., Zhang, C.K., Zhou, Z., Gong, Z., Zhou, J.J., Tao, J.F., Paterson, D.M., Feng, Q., 2017. [Stabilizing Effects of Bacterial Biofilms: EPS Penetration and Redistribution of Bed Stability Down the Sediment Profile](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JG004050). J. Geophys. Res. Biogeosciences 122, 3113–3125. [https://doi.org/10.1002/2017JG004050](https://doi.org/10.1002/2017JG004050)
+1. Chen, X.D., Zhang, C.K., Zhou, Z., Gong, Z., Zhou, J.J., Tao, J.F., Paterson, D.M., Feng, Q., 2017. [Stabilizing Effects of Bacterial Biofilms: EPS Penetration and Redistribution of Bed Stability Down the Sediment Profile](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JG004050). J. Geophys. Res. Biogeosciences 122, 3113–3125. [https://doi.org/10.1002/2017JG004050]
 
-1. Dang, H., Lovell, C.R., 2015. [Microbial Surface Colonization and Biofilm Development in Marine Environments.](https://mmbr.asm.org/content/80/1/91) Microbiol. Mol. Biol. Rev. MMBR 80, 91–138. [https://doi.org/10.1128/MMBR.00037-15](https://doi.org/10.1128/MMBR.00037-15)
+1. Dang, H., Lovell, C.R., 2015. [Microbial Surface Colonization and Biofilm Development in Marine Environments.](https://mmbr.asm.org/content/80/1/91) Microbiol. Mol. Biol. Rev. MMBR 80, 91–138. [https://doi.org/10.1128/MMBR.00037-15]
 
-1. Danovaro, R., Pusceddu, A., 2007. [Biodiversity and ecosystem functioning in coastal lagoons: Does microbial diversity play any role](https://www.sciencedirect.com/science/article/pii/S0272771407001692)? Estuar. Coast. Shelf Sci., Biodiversity and Ecosystem Functioning in Coastal and Transitional Waters 75, 4–12. [https://doi.org/10.1016/j.ecss.2007.02.030](https://doi.org/10.1016/j.ecss.2007.02.030)
+1. Danovaro, R., Pusceddu, A., 2007. [Biodiversity and ecosystem functioning in coastal lagoons: Does microbial diversity play any role](https://www.sciencedirect.com/science/article/pii/S0272771407001692)? Estuar. Coast. Shelf Sci., Biodiversity and Ecosystem Functioning in Coastal and Transitional Waters 75, 4–12. [https://doi.org/10.1016/j.ecss.2007.02.030]
 
-1. de Brouwer, J.F.C., Wolfstein, K., Ruddy, G.K., Jones, T.E.R., Stal, L.J., 2005. [Biogenic Stabilization of Intertidal Sediments: The Importance of Extracellular Polymeric Substances Produced by Benthic Diatoms](https://link.springer.com/article/10.1007/s00248-004-0020-z). Microb. Ecol. 49, 501–512. https://doi.org/10.1007/s00248-004-0020-z
+1. de Brouwer, J.F.C., Wolfstein, K., Ruddy, G.K., Jones, T.E.R., Stal, L.J., 2005. [Biogenic Stabilization of Intertidal Sediments: The Importance of Extracellular Polymeric Substances Produced by Benthic Diatoms](https://link.springer.com/article/10.1007/s00248-004-0020-z). Microb. Ecol. 49, 501–512. [https://doi.org/10.1007/s00248-004-0020-z]
 
-1. Fang, H., Fazeli, M., Cheng, W., Dey, S., 2016. [Transport of biofilm-coated sediment particles] J. Hydraul. Res. 54, 631–645. (https://doi.org/10.1080/00221686.2016.1212938)
+1. Fang, H., Fazeli, M., Cheng, W., Dey, S., 2016. [Transport of biofilm-coated sediment particles](https://doi.org/10.1080/00221686.2016.1212938) J. Hydraul. Res. 54, 631–645.
 
-1. Fang, H., Fazeli, M., Cheng, W., Huang, L., Hu, H., 2015. [Biostabilization and Transport of Cohesive Sediment Deposits in the Three Gorges Reservoir] PLoS ONE 10. (https://doi.org/10.1371/journal.pone.0142673)
+1. Fang, H., Fazeli, M., Cheng, W., Huang, L., Hu, H., 2015. [Biostabilization and Transport of Cohesive Sediment Deposits in the Three Gorges Reservoir](https://doi.org/10.1371/journal.pone.0142673) PLoS ONE 10. 
 
-1. Fang, H., Zhao, H., Shang, Q., Chen, M., 2012. [Effect of biofilm on the rheological properties of cohesive sediment] Hydrobiologia 694, 171–181. (https://doi.org/10.1007/s10750-012-1140-y)
+1. Fang, H., Zhao, H., Shang, Q., Chen, M., 2012. [Effect of biofilm on the rheological properties of cohesive sediment](https://doi.org/10.1007/s10750-012-1140-y) Hydrobiologia 694, 171–181. 
 
-1. Fang, H.W., Lai, H.J., Cheng, W., Huang, L., He, G.J., 2017. [Modeling sediment transport with an integrated view of the biofilm effects] Water Resour. Res. 53, 7536–7557. (https://doi.org/10.1002/2017WR020628)
+1. Fang, H.W., Lai, H.J., Cheng, W., Huang, L., He, G.J., 2017. [Modeling sediment transport with an integrated view of the biofilm effects](https://doi.org/10.1002/2017WR020628) Water Resour. Res. 53, 7536–7557. 
 
-1. Fischer, H., Pusch, M., 2001. [Comparison of bacterial production in sediments, epiphyton and the pelagic zone of a lowland river] Freshw. Biol. 46, 1335–1348. (https://doi.org/10.1046/j.1365-2427.2001.00753.x)
+1. Fischer, H., Pusch, M., 2001. [Comparison of bacterial production in sediments, epiphyton and the pelagic zone of a lowland river](https://doi.org/10.1046/j.1365-2427.2001.00753.x) Freshw. Biol. 46, 1335–1348. 
 
-1. Flemming, H.-C., 2020. [Biofouling and me: My Stockholm syndrome with biofilms] Water Res. 173, 115576. (https://doi.org/10.1016/j.watres.2020.115576)
+1. Flemming, H.-C., 2020. [Biofouling and me: My Stockholm syndrome with biofilms](https://doi.org/10.1016/j.watres.2020.115576) Water Res. 173, 115576. 
 
-1. Flemming, H.-C., Wingender, J., 2010. [The biofilm matrix. Nat. Rev. Microbiol] 8, 623–633. (https://doi.org/10.1038/nrmicro2415)
+1. Flemming, H.-C., Wingender, J., 2010. [The biofilm matrix](https://doi.org/10.1038/nrmicro2415) Nat. Rev. Microbiol 8, 623–633. 
 
-1. Flemming, H.-C., Wuertz, S., 2019. [Bacteria and archaea on Earth and their abundance in biofilms] Nat. Rev. Microbiol. 17, 247–260. (https://doi.org/10.1038/s41579-019-0158-9)
+1. Flemming, H.-C., Wuertz, S., 2019. [Bacteria and archaea on Earth and their abundance in biofilms](https://doi.org/10.1038/s41579-019-0158-9) Nat. Rev. Microbiol. 17, 247–260. 
 
-1. Förstner, U., Heise, S., Schwartz, R., Westrich, B., Ahlf, W., 2004. [Historical Contaminated Sediments and Soils at the River Basin Scale] J. Soils Sediments 4, 247. (https://doi.org/10.1007/BF02991121)
+1. Förstner, U., Heise, S., Schwartz, R., Westrich, B., Ahlf, W., 2004. [Historical Contaminated Sediments and Soils at the River Basin Scale](https://doi.org/10.1007/BF02991121) J. Soils Sediments 4, 247. 
 
 1. Foshtomi, M.Y., Braeckman, U., Derycke, S., Sapp, M., Gansbeke, D.V., Sabbe, K., Willems, A., Vincx, M., Vanaverbeke, J., 2015. [The Link between Microbial Diversity and Nitrogen Cycling in Marine Sediments Is Modulated by Macrofaunal Bioturbation] PLOS ONE 10, e0130116. (https://doi.org/10.1371/journal.pone.0130116)
 
