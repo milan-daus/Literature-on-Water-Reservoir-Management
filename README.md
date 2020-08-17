@@ -173,35 +173,35 @@ In this file you will find a list of references on certain topics in reservoir m
 
 ## Cyanobacterial blooms
 
-1. Bullerjahn, G.S., McKay, R.M., Davis, T.W., Baker, D.B., Boyer, G.L., Anglada, L.V., Doucette, G.J., Ho, J.C., Irwin, E.G., Kling, C.L., Kudela, R.M., Kurmayer, R., Michalak, A.M., Ortiz, J.D., Otten, T.G., Paerl, H.W., Qin, B., Sohngen, B.L., Stumpf, R.P., Visser, P.M., Wilhelm, S.W., 2016. [Global solutions to regional problems: Collecting global expertise to address the problem of harmful cyanobacterial blooms](https://www.sciencedirect.com/science/article/pii/S1568988315301657). A Lake Erie case study. Harmful Algae 54, 223–238. [https://doi.org/10.1016/j.hal.2016.01.003](https://doi.org/10.1016/j.hal.2016.01.003)
+1. Bullerjahn, G.S., McKay, R.M., Davis, T.W., Baker, D.B., Boyer, G.L., Anglada, L.V., Doucette, G.J., Ho, J.C., Irwin, E.G., Kling, C.L., Kudela, R.M., Kurmayer, R., Michalak, A.M., Ortiz, J.D., Otten, T.G., Paerl, H.W., Qin, B., Sohngen, B.L., Stumpf, R.P., Visser, P.M., Wilhelm, S.W., 2016. [Global solutions to regional problems: Collecting global expertise to address the problem of harmful cyanobacterial blooms](https://www.sciencedirect.com/science/article/pii/S1568988315301657). A Lake Erie case study. Harmful Algae 54, 223–238. [https://doi.org/10.1016/j.hal.2016.01.003]
 
-1. Callieri, C., Bertoni, R., Contesini, M., Bertoni, F., 2014. [Lake Level Fluctuations Boost Toxic Cyanobacterial &quot;Oligotrophic Blooms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0109526) PLoS ONE 9. [https://doi.org/10.1371/journal.pone.0109526](https://doi.org/10.1371/journal.pone.0109526)
+1. Callieri, C., Bertoni, R., Contesini, M., Bertoni, F., 2014. [Lake Level Fluctuations Boost Toxic Cyanobacterial &quot;Oligotrophic Blooms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0109526) PLoS ONE 9. [https://doi.org/10.1371/journal.pone.0109526]
 
 1. Chorus, I., 2012. [Current approaches to Cyanotoxin risk assessment, risk management and regulations in different countries](https://www.umweltbundesamt.de/en/publikationen/current-approaches-to-cyanotoxin-risk-assessment-0) 151.
 
-1. Dietrich, D.R., Fischer, A., Michel, C., Hoeger, S.J., 2008. [Toxin mixture in cyanobacterial blooms – a critical comparison of reality with current procedures employed in human health risk assessment], in: Hudnell, H.K. (Ed.), Cyanobacterial Harmful Algal Blooms: State of the Science and Research Needs, Advances in Experimental Medicine and Biology. Springer New York, pp. 885–912. (https://doi.org/10.1007/978-0-387-75865-7_39)
+1. Dietrich, D.R., Fischer, A., Michel, C., Hoeger, S.J., 2008. [Toxin mixture in cyanobacterial blooms – a critical comparison of reality with current procedures employed in human health risk assessment](https://doi.org/10.1007/978-0-387-75865-7_39) Hudnell, H.K. (Ed.), Cyanobacterial Harmful Algal Blooms: State of the Science and Research Needs, Advances in Experimental Medicine and Biology. Springer New York, pp. 885–912. 
 
-1. Dolman, A.M., Rücker, J., Pick, F.R., Fastner, J., Rohrlack, T., Mischke, U., Wiedner, C., 2012. [Cyanobacteria and Cyanotoxins: The Influence of Nitrogen versus Phosphorus] PLOS ONE 7, e38757.(https://doi.org/10.1371/journal.pone.0038757)
+1. Dolman, A.M., Rücker, J., Pick, F.R., Fastner, J., Rohrlack, T., Mischke, U., Wiedner, C., 2012. [Cyanobacteria and Cyanotoxins: The Influence of Nitrogen versus Phosphorus](https://doi.org/10.1371/journal.pone.0038757) PLOS ONE 7, e38757.
 
-1. Ernst, B., Höger, S.J., O´Brien, E., Dietrich, D.R., 2009. [Abundance and toxicity of Planktothrix rubescens in the pre-alpine Lake Ammersee, Germany] Harmful Algae 8, 329–342. (https://doi.org/10.1016/j.hal.2008.07.006)
+1. Ernst, B., Höger, S.J., O´Brien, E., Dietrich, D.R., 2009. [Abundance and toxicity of Planktothrix rubescens in the pre-alpine Lake Ammersee, Germany](https://doi.org/10.1016/j.hal.2008.07.006) Harmful Algae 8, 329–342. 
 
-1. Ibelings, B.W., Backer, L.C., Kardinaal, W.E.A., Chorus, I., 2015. [Current approaches to cyanotoxin risk assessment and risk management around the globe] Harmful Algae 49, 63–74. (https://doi.org/10.1016/j.hal.2014.10.002)
+1. Ibelings, B.W., Backer, L.C., Kardinaal, W.E.A., Chorus, I., 2015. [Current approaches to cyanotoxin risk assessment and risk management around the globe](https://doi.org/10.1016/j.hal.2014.10.002) Harmful Algae 49, 63–74. 
 
-1. O’Neil, J.M., Davis, T.W., Burford, M.A., Gobler, C.J., 2012. [The rise of harmful cyanobacteria blooms: The potential roles of eutrophication and climate change] Harmful Algae, Harmful Algae--The requirement for species-specific information 14, 313–334. (https://doi.org/10.1016/j.hal.2011.10.027)
+1. O’Neil, J.M., Davis, T.W., Burford, M.A., Gobler, C.J., 2012. [The rise of harmful cyanobacteria blooms: The potential roles of eutrophication and climate change](https://doi.org/10.1016/j.hal.2011.10.027) Harmful Algae, Harmful Algae--The requirement for species-specific information 14, 313–334. 
 
-1. Paerl, H.W., Gardner, W.S., Havens, K.E., Joyner, A.R., McCarthy, M.J., Newell, S.E., Qin, B., Scott, J.T., 2016. [Mitigating cyanobacterial harmful algal blooms in aquatic ecosystems impacted by climate change and anthropogenic nutrients] Harmful Algae, Global Expansion of Harmful Cyanobacterial Blooms: Diversity, ecology, causes, and controls 54, 213–222. (https://doi.org/10.1016/j.hal.2015.09.009)
+1. Paerl, H.W., Gardner, W.S., Havens, K.E., Joyner, A.R., McCarthy, M.J., Newell, S.E., Qin, B., Scott, J.T., 2016. [Mitigating cyanobacterial harmful algal blooms in aquatic ecosystems impacted by climate change and anthropogenic nutrients](https://doi.org/10.1016/j.hal.2015.09.009) Harmful Algae, Global Expansion of Harmful Cyanobacterial Blooms: Diversity, ecology, causes, and controls 54, 213–222. 
 
-1. Paerl, H.W., Huisman, J., 2008. [Blooms Like It Hot] Science 320, 57–58. (https://doi.org/10.1126/science.1155398)
+1. Paerl, H.W., Huisman, J., 2008. [Blooms Like It Hot](https://doi.org/10.1126/science.1155398) Science 320, 57–58. 
 
-1. Paerl, H.W., Otten, T.G., 2013. [Harmful Cyanobacterial Blooms: Causes, Consequences, and Controls] Microb. Ecol. 65, 995–1010. (https://doi.org/10.1007/s00248-012-0159-y)
+1. Paerl, H.W., Otten, T.G., 2013. [Harmful Cyanobacterial Blooms: Causes, Consequences, and Controls](https://doi.org/10.1007/s00248-012-0159-y) Microb. Ecol. 65, 995–1010. 
 
-1. Posch, T., Köster, O., Salcher, M.M., Pernthaler, J., 2012. [Harmful filamentous cyanobacteria favoured by reduced water turnover with lake warming] Nat. Clim. Change 2, 809–813. (https://doi.org/10.1038/nclimate1581)
+1. Posch, T., Köster, O., Salcher, M.M., Pernthaler, J., 2012. [Harmful filamentous cyanobacteria favoured by reduced water turnover with lake warming](https://doi.org/10.1038/nclimate1581) Nat. Clim. Change 2, 809–813. 
 
-1. Quiblier, C., Susanna, W., Isidora, E.-S., Mark, H., Aurélie, V., Jean-François, H., 2013. [A review of current knowledge on toxic benthic freshwater cyanobacteria – Ecology, toxin production and risk management] Water Res. 47, 5464–5479. (https://doi.org/10.1016/j.watres.2013.06.042)
+1. Quiblier, C., Susanna, W., Isidora, E.-S., Mark, H., Aurélie, V., Jean-François, H., 2013. [A review of current knowledge on toxic benthic freshwater cyanobacteria – Ecology, toxin production and risk management](https://doi.org/10.1016/j.watres.2013.06.042) Water Res. 47, 5464–5479. 
 
-1. Salmaso, N., 2010. [Long-term phytoplankton community changes in a deep subalpine lake: responses to nutrient availability and climatic fluctuations] Freshw. Biol. 55, 825–846. (https://doi.org/10.1111/j.1365-2427.2009.02325.x)
+1. Salmaso, N., 2010. [Long-term phytoplankton community changes in a deep subalpine lake: responses to nutrient availability and climatic fluctuations](https://doi.org/10.1111/j.1365-2427.2009.02325.x) Freshw. Biol. 55, 825–846. 
 
-1. Salmaso, N., Buzzi, F., Garibaldi, L., Morabito, G., Simona, M., 2012. [Effects of nutrient availability and temperature on phytoplankton development: a case study from large lakes south of the Alps] Aquat. Sci. 74, 555–570. (https://doi.org/10.1007/s00027-012-0248-5)
+1. Salmaso, N., Buzzi, F., Garibaldi, L., Morabito, G., Simona, M., 2012. [Effects of nutrient availability and temperature on phytoplankton development: a case study from large lakes south of the Alps](https://doi.org/10.1007/s00027-012-0248-5) Aquat. Sci. 74, 555–570. 
 
 
 ## Social Interactions
