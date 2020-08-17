@@ -128,47 +128,47 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. Förstner, U., Heise, S., Schwartz, R., Westrich, B., Ahlf, W., 2004. [Historical Contaminated Sediments and Soils at the River Basin Scale](https://doi.org/10.1007/BF02991121) J. Soils Sediments 4, 247. 
 
-1. Foshtomi, M.Y., Braeckman, U., Derycke, S., Sapp, M., Gansbeke, D.V., Sabbe, K., Willems, A., Vincx, M., Vanaverbeke, J., 2015. [The Link between Microbial Diversity and Nitrogen Cycling in Marine Sediments Is Modulated by Macrofaunal Bioturbation] PLOS ONE 10, e0130116. (https://doi.org/10.1371/journal.pone.0130116)
+1. Foshtomi, M.Y., Braeckman, U., Derycke, S., Sapp, M., Gansbeke, D.V., Sabbe, K., Willems, A., Vincx, M., Vanaverbeke, J., 2015. [The Link between Microbial Diversity and Nitrogen Cycling in Marine Sediments Is Modulated by Macrofaunal Bioturbation](https://doi.org/10.1371/journal.pone.0130116) PLOS ONE 10, e0130116. 
 
-1. Geesey, G.G., Mutch, R., Costerton, J.W., Green, R.B., 1978. [Sessile bacteria: An important component of the microbial population in small mountain streams] 1. Limnol. Oceanogr. 23, 1214–1223. (https://doi.org/10.4319/lo.1978.23.6.1214)
+1. Geesey, G.G., Mutch, R., Costerton, J.W., Green, R.B., 1978. [Sessile bacteria: An important component of the microbial population in small mountain streams](https://doi.org/10.4319/lo.1978.23.6.1214) 1. Limnol. Oceanogr. 23, 1214–1223. 
 
-1. Gerbersdorf, S.U., Jancke, T., Westrich, B., Paterson, D.M., 2008. [Microbial stabilization of riverine sediments by extracellular polymeric substances] Geobiology 6, 57–69. (https://doi.org/10.1111/j.1472-4669.2007.00120.x)
+1. Gerbersdorf, S.U., Jancke, T., Westrich, B., Paterson, D.M., 2008. [Microbial stabilization of riverine sediments by extracellular polymeric substances](https://doi.org/10.1111/j.1472-4669.2007.00120.x) Geobiology 6, 57–69. 
 
-1. Gerbersdorf, S.U., Wieprecht, S., 2015. [Biostabilization of cohesive sediments: revisiting the role of abiotic conditions, physiology and diversity of microbes, polymeric secretion, and biofilm architecture] Geobiology 13, 68–97. (https://doi.org/10.1111/gbi.12115)
+1. Gerbersdorf, S.U., Wieprecht, S., 2015. [Biostabilization of cohesive sediments: revisiting the role of abiotic conditions, physiology and diversity of microbes, polymeric secretion, and biofilm architecture](https://doi.org/10.1111/gbi.12115) Geobiology 13, 68–97. 
 
-1. Gibbs, R.J., 1983. [Effect of natural organic coatings on the coagulation of particles] Environ. Sci. Technol. 17, 237–240. (https://doi.org/10.1021/es00110a011)
+1. Gibbs, R.J., 1983. [Effect of natural organic coatings on the coagulation of particles](https://doi.org/10.1021/es00110a011) Environ. Sci. Technol. 17, 237–240. 
 
-1. Gilbertson, W.W., Solan, M., Prosser, J.I., 2012. [Differential effects of microorganism–invertebrate interactions on benthic nitrogen cycling] FEMS Microbiol. Ecol. 82, 11–22. (https://doi.org/10.1111/j.1574-6941.2012.01400.x)
+1. Gilbertson, W.W., Solan, M., Prosser, J.I., 2012. [Differential effects of microorganism–invertebrate interactions on benthic nitrogen cycling](https://doi.org/10.1111/j.1574-6941.2012.01400.x) FEMS Microbiol. Ecol. 82, 11–22. 
 
-1. H. Tuson, H., B. Weibel, D., 2013. [Bacteria–surface interactions] Soft Matter 9, 4368–4380. (https://doi.org/10.1039/C3SM27705D)
+1. H. Tuson, H., B. Weibel, D., 2013. [Bacteria–surface interactions](https://doi.org/10.1039/C3SM27705D) Soft Matter 9, 4368–4380. 
 
-1. Huiming, Z., Hongwei, F., Minghong, C., 2011. [Floc architecture of bioflocculation sediment by ESEM and CLSM] Scanning 33, 437–445. (https://doi.org/10.1002/sca.20247)
+1. Huiming, Z., Hongwei, F., Minghong, C., 2011. [Floc architecture of bioflocculation sediment by ESEM and CLSM](https://doi.org/10.1002/sca.20247) Scanning 33, 437–445. 
 
-1. Jones, S., 2017. [Goo, glue, and grain binding: Importance of biofilms for diagenesis in sandstones] Geology 45, 959–960. (https://doi.org/10.1130/focus102017.1)
+1. Jones, S., 2017. [Goo, glue, and grain binding: Importance of biofilms for diagenesis in sandstones](https://doi.org/10.1130/focus102017.1) Geology 45, 959–960. 
 
-1. Lozupone, C.A., Knight, R., 2007. [Global patterns in bacterial diversity] Proc. Natl. Acad. Sci. 104, 11436. (https://doi.org/10.1073/pnas.0611525104)
+1. Lozupone, C.A., Knight, R., 2007. [Global patterns in bacterial diversity](https://doi.org/10.1073/pnas.0611525104) Proc. Natl. Acad. Sci. 104, 11436. 
 
-1. Madsen, E.L., 2011. [Microorganisms and their roles in fundamental biogeochemical cycles] Curr. Opin. Biotechnol., Energy biotechnology – Environmental biotechnology 22, 456–464. (https://doi.org/10.1016/j.copbio.2011.01.008)
+1. Madsen, E.L., 2011. [Microorganisms and their roles in fundamental biogeochemical cycles](https://doi.org/10.1016/j.copbio.2011.01.008) Curr. Opin. Biotechnol., Energy biotechnology – Environmental biotechnology 22, 456–464. 
 
-1. Malarkey, J., Baas, J.H., Hope, J.A., Aspden, R.J., Parsons, D.R., Peakall, J., Paterson, D.M., Schindler, R.J., Ye, L., Lichtman, I.D., Bass, S.J., Davies, A.G., Manning, A.J., Thorne, P.D., 2015. [The pervasive role of biological cohesion in bedform development] Nat. Commun. 6. (https://doi.org/10.1038/ncomms7257)
+1. Malarkey, J., Baas, J.H., Hope, J.A., Aspden, R.J., Parsons, D.R., Peakall, J., Paterson, D.M., Schindler, R.J., Ye, L., Lichtman, I.D., Bass, S.J., Davies, A.G., Manning, A.J., Thorne, P.D., 2015. [The pervasive role of biological cohesion in bedform development](https://doi.org/10.1038/ncomms7257) Nat. Commun. 6. 
 
-1. Nicolella, C., Zolezzi, M., Rabino, M., Furfaro, M., Rovatti, M., 2005. [Development of particle-based biofilms for degradation of xenobiotic organic compounds] Water Res. 39, 2495–2504. (https://doi.org/10.1016/j.watres.2005.04.016)
+1. Nicolella, C., Zolezzi, M., Rabino, M., Furfaro, M., Rovatti, M., 2005. [Development of particle-based biofilms for degradation of xenobiotic organic compounds](https://doi.org/10.1016/j.watres.2005.04.016) Water Res. 39, 2495–2504. 
 
-1. Passarelli, C., Olivier, F., Paterson, D.M., Meziane, T., Hubas, C., 2014. [Organisms as cooperative ecosystem engineers in intertidal flats] J. Sea Res., Trophic significance of microbial biofilm in tidal flats 92, 92–101. (https://doi.org/10.1016/j.seares.2013.07.010)
+1. Passarelli, C., Olivier, F., Paterson, D.M., Meziane, T., Hubas, C., 2014. [Organisms as cooperative ecosystem engineers in intertidal flats](https://doi.org/10.1016/j.seares.2013.07.010) J. Sea Res., Trophic significance of microbial biofilm in tidal flats 92, 92–101. 
 
-1. Paterson, D.M., Hope, J.A., Kenworthy, J., Biles, C.L., Gerbersdorf, S.U., 2018. [Form, function and physics: the ecology of biogenic stabilisation] J. Soils Sediments 18, 3044–3054. (https://doi.org/10.1007/s11368-018-2005-4)
+1. Paterson, D.M., Hope, J.A., Kenworthy, J., Biles, C.L., Gerbersdorf, S.U., 2018. [Form, function and physics: the ecology of biogenic stabilisation](https://doi.org/10.1007/s11368-018-2005-4) J. Soils Sediments 18, 3044–3054. 
 
-1. Righetti, M., Lucarelli, C., 2010. [Resuspension phenomena of benthic sediments: The role of cohesion and biological adhesion] River Res. Appl. 26, 404–413. (https://doi.org/10.1002/rra.1296)
+1. Righetti, M., Lucarelli, C., 2010. [Resuspension phenomena of benthic sediments: The role of cohesion and biological adhesion](https://doi.org/10.1002/rra.1296) River Res. Appl. 26, 404–413. 
 
-1. Schultz, P., Urban, N.R., 2008. [Effects of bacterial dynamics on organic matter decomposition and nutrient release from sediments: A modeling study] Ecol. Model. 210, 1–14. (https://doi.org/10.1016/j.ecolmodel.2007.06.026)
+1. Schultz, P., Urban, N.R., 2008. [Effects of bacterial dynamics on organic matter decomposition and nutrient release from sediments: A modeling study](https://doi.org/10.1016/j.ecolmodel.2007.06.026) Ecol. Model. 210, 1–14. 
 
-1. Shang, Q., Fang, H., Zhao, H., He, G., Cui, Z., 2014. [Biofilm effects on size gradation, drag coefficient and settling velocity of sediment particles] Int. J. Sediment Res. 29, 471–480. (https://doi.org/10.1016/S1001-6279(14)60060-3)
+1. Shang, Q., Fang, H., Zhao, H., He, G., Cui, Z., 2014. [Biofilm effects on size gradation, drag coefficient and settling velocity of sediment particles](https://doi.org/10.1016/S1001-6279(14)60060-3) Int. J. Sediment Res. 29, 471–480. 
 
-1. Shannon, M.A., Bohn, P.W., Elimelech, M., Georgiadis, J.G., Mariñas, B.J., Mayes, A.M., 2008. [Science and technology for water purification in the coming decades] Nature 452, 301–310. (https://doi.org/10.1038/nature06599)
+1. Shannon, M.A., Bohn, P.W., Elimelech, M., Georgiadis, J.G., Mariñas, B.J., Mayes, A.M., 2008. [Science and technology for water purification in the coming decades](https://doi.org/10.1038/nature06599) Nature 452, 301–310. 
 
-1. Stoodley, P., Sauer, K., Davies, D.G., Costerton, J.W., 2002. [Biofilms as Complex Differentiated Communities] Annu. Rev. Microbiol. 56, 187–209. (https://doi.org/10.1146/annurev.micro.56.012302.160705)
+1. Stoodley, P., Sauer, K., Davies, D.G., Costerton, J.W., 2002. [Biofilms as Complex Differentiated Communities](https://doi.org/10.1146/annurev.micro.56.012302.160705) Annu. Rev. Microbiol. 56, 187–209. 
 
-1. Vignaga, E., Sloan, D.M., Luo, X., Haynes, H., Phoenix, V.R., Sloan, W.T., 2013. [Erosion of biofilm-bound fluvial sediments] Nat. Geosci. 6, 770–774. (https://doi.org/10.1038/ngeo1891)
+1. Vignaga, E., Sloan, D.M., Luo, X., Haynes, H., Phoenix, V.R., Sloan, W.T., 2013. [Erosion of biofilm-bound fluvial sediments](https://doi.org/10.1038/ngeo1891) Nat. Geosci. 6, 770–774. 
 
 
 ## Cyanobacterial blooms
