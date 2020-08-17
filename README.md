@@ -212,10 +212,6 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. Daus, M., Koberger, K., Gnutzmann, N., Hertrich, T., Glaser, R., 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://www.mdpi.com/2073-4441/11/12/2469). Water 2019, 11(12), 2469; [https://doi.org/10.3390/w11122469]
 
-1. Kirchherr, J., Pohlner, H., Charles, K.J., 2016. [Cleaning up the big muddy. A meta-synthesis of the research on the social impact of dams.](https://www.sciencedirect.com/science/article/pii/S0195925515300846) Environmental Impact Assessment Review 60, 115-125.
-
-1. Nguyen, H., Pham, T., Lobry de Bruyn, L., 2017. [Impact of Hydroelectric Dam Development and Resettlement on the Natural and Social Capital of Rural Livelihoods in Bo Hon Village in Central Vietnam](https://www.mdpi.com/2071-1050/9/8/1422). Sustainability 9, 1422.
-
 1. EU, 2000. [Good-quality water in Europe (EU Water Directive)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l28002b&from=DE)
 
 1. Deutscher Bundestag, 2009. [Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz)](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html)
