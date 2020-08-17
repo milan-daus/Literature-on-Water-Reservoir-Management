@@ -210,7 +210,7 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. Carnea, Michael, M., 1997. [Hydropower Dams and Social Impacts](http://documents1.worldbank.org/curated/en/446311468761673943/585559324_20040283053533/additional/multi-page.pdf). A Sociological Perspective.
 
-1. Daus, M., Koberger, K., Gnutzmann, N., Hertrich, T., Glaser, R., 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://www.mdpi.com/2073-4441/11/12/2469). Water 2019, 11(12), 2469; [https://doi.org/10.3390/w11122469](https://doi.org/10.3390/w11122469)
+1. Daus, M., Koberger, K., Gnutzmann, N., Hertrich, T., Glaser, R., 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://www.mdpi.com/2073-4441/11/12/2469). Water 2019, 11(12), 2469; [https://doi.org/10.3390/w11122469]
 
 1. Kirchherr, J., Pohlner, H., Charles, K.J., 2016. [Cleaning up the big muddy. A meta-synthesis of the research on the social impact of dams.](https://www.sciencedirect.com/science/article/pii/S0195925515300846) Environmental Impact Assessment Review 60, 115-125.
 
@@ -220,42 +220,42 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. Deutscher Bundestag, 2009. [Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz)](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html)
 
-1. Dittmann, R., Froehlich, F.; Pohl, R., Ostrowski, M. 2009. [Optimum multi-objective reservoir operation with emphasis on flood control and ecology] Nat. Hazards Earth Syst. Sci., 9.(https://doi.org/10.5194/nhess-9-1973-2009)
+1. Dittmann, R., Froehlich, F., Pohl, R., Ostrowski, M. 2009. [Optimum multi-objective reservoir operation with emphasis on flood control and ecology](https://doi.org/10.5194/nhess-9-1973-2009) Nat. Hazards Earth Syst. Sci., 9.
 
-1. European Parliament And The Council, 2007. [on the assessment and management of flood risks] (https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32007L0060&from=DE)
+1. European Parliament And The Council, 2007. [on the assessment and management of flood risks](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32007L0060&from=DE)
 
-1. German Ministry of Justice, 2020. [Verordnung über die Qualität von Wasser für den menschlichen Gebrauch (Trinkwasserverordnung)] (https://www.gesetze-im-internet.de/trinkwv_2001/BJNR095910001.html) 
+1. German Ministry of Justice, 2020. [Verordnung über die Qualität von Wasser für den menschlichen Gebrauch (Trinkwasserverordnung)](https://www.gesetze-im-internet.de/trinkwv_2001/BJNR095910001.html) 
 
-1. Giesecke, J., Mosonyi, E., 2009. [Wasserkraftanlagen. Planung, Bau und Betrieb] Springer, Heidelberg. (https://www.springer.com/de/book/9783540889892)
+1. Giesecke, J., Mosonyi, E., 2009. [Wasserkraftanlagen. Planung, Bau und Betrieb](https://www.springer.com/de/book/9783540889892) Springer, Heidelberg. 
 
-1. Glaser, R. 2014. [Global change. Das neue Gesicht der Erde] Primus Verlag, Darmstadt, Germany, ISBN 9783863120993. (https://www.wbg-wissenverbindet.de/5467/global-change)
+1. Glaser, R. 2014. [Global change. Das neue Gesicht der Erde](https://www.wbg-wissenverbindet.de/5467/global-change) Primus Verlag, Darmstadt, Germany, ISBN 9783863120993. 
 
-1. Godde, D., Engels, K., Schmid, S., Achatz, R., Haupt, O., Beer, C., Höller, S., Jaberg, H., Miller, B., Heigerth, G., Niemann, A., Perau, E., Schreiber, U., Koch, M.K., Schüttrumpf, H., Pummer, E., Günther, M., Plenker, D., 2015. [Pumpspeicherkraftwerke] In: Heimerl, S. (Ed.), Wasserkraftprojekte, Band 2. Ausgewählte Beiträge aus der Fachzeitschrift WasserWirtschaft. Springer Vieweg, Wiesbaden, pp. 277-354. (https://www.springer.com/de/book/9783658077280)
+1. Godde, D., Engels, K., Schmid, S., Achatz, R., Haupt, O., Beer, C., Höller, S., Jaberg, H., Miller, B., Heigerth, G., Niemann, A., Perau, E., Schreiber, U., Koch, M.K., Schüttrumpf, H., Pummer, E., Günther, M., Plenker, D., 2015. [Pumpspeicherkraftwerke](https://www.springer.com/de/book/9783658077280) Heimerl, S. (Ed.), Wasserkraftprojekte, Band 2. Ausgewählte Beiträge aus der Fachzeitschrift WasserWirtschaft. Springer Vieweg, Wiesbaden, pp. 277-354. 
 
-1. Hanson, T.R.; Upton Hatch, L.; Clonts, H.C. 2007. [Reservoir water level impacts on recreation, property and non user values] In Journal of the American water ressource association. 38/4. p.1007-1018. (10.1111/j.1752-1688.2002.tb05541.x) 
+1. Hanson, T.R., Upton Hatch, L., Clonts, H.C. 2007. [Reservoir water level impacts on recreation, property and non user values](10.1111/j.1752-1688.2002.tb05541.x) In Journal of the American water ressource association. 38/4. p.1007-1018.  
 
-1. International Commission on Large Dams (ICOLD), 2013. [Talsperren in Deutschland] Springer Vieweg: Wiesbaden, Germany, 2013; ISBN 978-383-48210-7-2. (https://www.springer.com/de/book/9783834814470)
+1. International Commission on Large Dams (ICOLD), 2013. [Talsperren in Deutschland](https://www.springer.com/de/book/9783834814470) Springer Vieweg: Wiesbaden, Germany, 2013; ISBN 978-383-48210-7-2. 
 
-1. Kirchherr, J., Charles, K.J., 2016. [The social impacts of dams. A new framework for scholarly analysis] Environmental Impact Assessment Review 60, 99-114. (https://doi.org/10.1016/j.eiar.2016.02.005)
+1. Kirchherr, J., Charles, K.J., 2016. [The social impacts of dams. A new framework for scholarly analysis](https://doi.org/10.1016/j.eiar.2016.02.005) Environmental Impact Assessment Review 60, 99-114. 
 
-1. Kirchherr, J., Pohlner, H., Charles, K.J., 2016. [Cleaning up the big muddy. A meta-synthesis of the research on the social impact of dams] Environmental Impact Assessment Review 60, 115-125. (https://doi.org/10.1016/j.eiar.2016.02.007)
+1. Kirchherr, J., Pohlner, H., Charles, K.J., 2016. [Cleaning up the big muddy. A meta-synthesis of the research on the social impact of dams](https://doi.org/10.1016/j.eiar.2016.02.007) Environmental Impact Assessment Review 60, 115-125. 
 
-1. Kleinhenz, A., Koenig, A., 2018. [Home ranges and movements of resident graylag geese (Anser anser) in breeding and winter habitats in Bavaria, South Germany] PloS one 13, e0202443. (https://doi.org/10.1371/journal.pone.0202443)
+1. Kleinhenz, A., Koenig, A., 2018. [Home ranges and movements of resident graylag geese (Anser anser) in breeding and winter habitats in Bavaria, South Germany](https://doi.org/10.1371/journal.pone.0202443) PloS one 13, e0202443. 
 
-1. Kornijów, R., 2009. [Controversies around dam reservoirs. Benefits, costs and future] Ecohydrology & Hydrobiology 9, 141-148. (https://doi.org/10.2478/v10104-010-0001-4)
+1. Kornijów, R., 2009. [Controversies around dam reservoirs. Benefits, costs and future](https://doi.org/10.2478/v10104-010-0001-4) Ecohydrology & Hydrobiology 9, 141-148. 
 
-1. Nguyen, H., Pham, T., Lobry de Bruyn, L., 2017. [Impact of Hydroelectric Dam Development and Resettlement on the Natural and Social Capital of Rural Livelihoods in Bo Hon Village in Central Vietnam] Sustainability 9, 1422. (https://doi.org/10.3390/su9081422)
+1. Nguyen, H., Pham, T., Lobry de Bruyn, L., 2017. [Impact of Hydroelectric Dam Development and Resettlement on the Natural and Social Capital of Rural Livelihoods in Bo Hon Village in Central Vietnam](https://doi.org/10.3390/su9081422) Sustainability 9, 1422. 
 
-1. Schrenk-Bergt, C., Krause, D., Lewandowski, J., Steinberg, C.E.W., 2004. [Eutrophication Problems and Their Potential Solutions in the Artificial Shallow Lake Altmühlsee (Germany)] Studia Quarternaria 21, 73-86. (https://doi.org/10.2478/limre-2014-0006) 
+1. Schrenk-Bergt, C., Krause, D., Lewandowski, J., Steinberg, C.E.W., 2004. [Eutrophication Problems and Their Potential Solutions in the Artificial Shallow Lake Altmühlsee (Germany)](https://doi.org/10.2478/limre-2014-0006) Studia Quarternaria 21, 73-86. 
 
-1. Siegmund-Schultze, M., do Carmo Sobral, M., Alcoforado de Moraes, M.M.G., Almeida-Cortez, J.S., Azevedo, J.R.G., Candeias, A.L., Cierjacks, A., Gomes, E.T.A., Gunkel, G., Hartje, V., Hattermann, F.F., Kaupenjohann, M., Koch, H., Köppel, J., 2018. The legacy of large dams and their effects on the water-land nexus. Reg Environ Change 18, 1883-1888. (https://doi.org/10.1007/s10113-018-1414-7)
+1. Siegmund-Schultze, M., do Carmo Sobral, M., Alcoforado de Moraes, M.M.G., Almeida-Cortez, J.S., Azevedo, J.R.G., Candeias, A.L., Cierjacks, A., Gomes, E.T.A., Gunkel, G., Hartje, V., Hattermann, F.F., Kaupenjohann, M., Koch, H., Köppel, J., 2018. [The legacy of large dams and their effects on the water-land nexus](https://doi.org/10.1007/s10113-018-1414-7) Reg Environ Change 18, 1883-1888. 
 
-1. Votruba, L., Broža, V., 1989. [Water management in reservoirs] Elsevier, Amsterdam. (https://www.elsevier.com/books/water-management-in-reservoirs/votruba/978-0-444-98933-8)
+1. Votruba, L., Broža, V., 1989. [Water management in reservoirs](https://www.elsevier.com/books/water-management-in-reservoirs/votruba/978-0-444-98933-8) Elsevier, Amsterdam. 
 
-1. Weimer-Jehle, W. 2006. [Cross-Impact Balances: A System-Theoretical Approach to Cross-Impact Analysis] Technological Forecasting and Social Change, 73:4, 334-361. (https://doi.org/10.1016/j.techfore.2005.06.005)
+1. Weimer-Jehle, W. 2006. [Cross-Impact Balances: A System-Theoretical Approach to Cross-Impact Analysis](https://doi.org/10.1016/j.techfore.2005.06.005) Technological Forecasting and Social Change, 73:4, 334-361. 
 
-1. World Commission on Dams, 2000. [Dams and development. A new framework for decision-making] Earthscan, London. ISBN: 1-85383-798-9 (https://www.internationalrivers.org/sites/default/files/attached-files/world_commission_on_dams_final_report.pdf)
+1. World Commission on Dams, 2000. [Dams and development. A new framework for decision-making](https://www.internationalrivers.org/sites/default/files/attached-files/world_commission_on_dams_final_report.pdf) Earthscan, London. ISBN: 1-85383-798-9 
 
-1. Zarfl, C.; Lumsdon, A.E.; Berlekamp, J.; Tydecks, L.; Tockner, K. 2015. [A global boom in hydropower dam construction] Aquat Sci, 77, 161–170. (doi:10.1007/s00027-014-0377-0)
+1. Zarfl, C.; Lumsdon, A.E.; Berlekamp, J.; Tydecks, L.; Tockner, K. 2015. [A global boom in hydropower dam construction](doi:10.1007/s00027-014-0377-0) Aquat Sci, 77, 161–170. 
 
-1. Zubala, T., 2009. [Influence of dam reservoir on the water quality in a small upland river] Ecohydrology & Hydrobiology 9, 165-173. (https://doi.org/10.2478/v10104-010-0010-3)
+1. Zubala, T., 2009. [Influence of dam reservoir on the water quality in a small upland river](https://doi.org/10.2478/v10104-010-0010-3) Ecohydrology & Hydrobiology 9, 165-173. 
