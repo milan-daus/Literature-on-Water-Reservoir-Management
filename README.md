@@ -252,6 +252,6 @@ In this file you will find a list of references on certain topics in reservoir m
 
 1. World Commission on Dams, 2000. [Dams and development. A new framework for decision-making](https://www.internationalrivers.org/sites/default/files/attached-files/world_commission_on_dams_final_report.pdf) Earthscan, London. ISBN: 1-85383-798-9 
 
-1. Zarfl, C. Lumsdon, A.E. Berlekamp, J. Tydecks, L. Tockner, K. 2015. [A global boom in hydropower dam construction](doi:10.1007/s00027-014-0377-0) Aquat Sci, 77, 161–170. 
+1. Zarfl, C. Lumsdon, A.E. Berlekamp, J. Tydecks, L. Tockner, K. 2015. [A global boom in hydropower dam construction](doi.10.1007/s00027-014-0377-0) Aquat Sci, 77, 161–170. 
 
 1. Zubala, T., 2009. [Influence of dam reservoir on the water quality in a small upland river](https://doi.org/10.2478/v10104-010-0010-3) Ecohydrology & Hydrobiology 9, 165-173. 
