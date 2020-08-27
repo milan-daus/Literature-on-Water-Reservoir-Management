@@ -206,7 +206,11 @@ In this file you will find a list of references on certain topics in reservoir m
 
 ## Social Interactions
 
+1. Bhaduri, A., Bogardi, J., Siddiqi, A., Voigt, H., Vörösmarty, C., Pahl-Wostl, C., Bunn, S. E., Shrivastava, P., Lawford, R., Foster, S., Kremer, H., Renaud, F. G., Bruns, A., Osuna, V. R. 2016. [Achieving Sustainable Development Goals from a Water Perspective](https://doi.org/10.3389/fenvs.2016.00064) Frontiers in Environmental Science 21, 211.
+
 1. Blackbourn, D.; Rennert, U. 2008.  [Die Eroberung der Natur - Eine Geschichte der deutschen Landschaft, 3rd ed.;](https://www.randomhouse.de/Paperback/Die-Eroberung-der-Natur/David-Blackbourn/Pantheon/e257994.rhd) Pantheon: München, Germany, ISBN 9783570550632
+
+
 
 1. Carnea, Michael, M., 1997. [Hydropower Dams and Social Impacts](http://documents1.worldbank.org/curated/en/446311468761673943/585559324_20040283053533/additional/multi-page.pdf). A Sociological Perspective.
 
