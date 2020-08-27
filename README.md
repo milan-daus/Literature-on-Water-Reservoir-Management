@@ -206,11 +206,11 @@ In this file you will find a list of references on certain topics in reservoir m
 
 ## Social Interactions
 
-1. Bhaduri, Anik, Bogardi, Janos, Siddiqi, Afreen, Voigt, Holm, Vörösmarty, Charles, Pahl-Wostl, Claudia, Bunn, Stuart E., Shrivastava, Paul, Lawford, Richard, Foster, Stephen, Kremer, Hartwig, Renaud, Fabrice G., Bruns, Antje, Osuna, Vanesa R. 2016. [Achieving Sustainable Development Goals from a Water Perspective](https://doi.org/10.3389/fenvs.2016.00064) Frontiers in Environmental Science 21, 211.
+1. Bhaduri, A., Bogardi, J., Siddiqi, A., Voigt, H., Vörösmarty, C., Pahl-Wostl, C., Bunn, S. E., Shrivastava, P., Lawford, R., Foster, S., Kremer, H., Renaud, F. G., Bruns, A., Osuna, V. R. 2016. [Achieving Sustainable Development Goals from a Water Perspective](https://doi.org/10.3389/fenvs.2016.00064) Frontiers in Environmental Science 21, 211.
 
 1. Blackbourn, D., Rennert, U. 2008.  [Die Eroberung der Natur - Eine Geschichte der deutschen Landschaft](https://www.randomhouse.de/Paperback/Die-Eroberung-der-Natur/David-Blackbourn/Pantheon/e257994.rhd) Pantheon, München, Germany, ISBN 9783570550632.
 
-1. Borchardt, Dietrich, Bogardi, Janos J., Ibisch, Ralf B. 2016. [Integrated Water Resources Management: Concept, Research and Implementation](https://doi.org/10.1007/978-3-319-25071-7) Springer International Publishing, Cham, Germany, ISBN 978-3-319-25069-4.
+1. Borchardt, D., Bogardi, J. J., Ibisch, R. B. 2016. [Integrated Water Resources Management: Concept, Research and Implementation](https://doi.org/10.1007/978-3-319-25071-7) Springer International Publishing, Cham, Germany, ISBN 978-3-319-25069-4.
 
 1. Carnea, Michael, M. 1997. [Hydropower Dams and Social Impacts](http://documents1.worldbank.org/curated/en/446311468761673943/585559324_20040283053533/additional/multi-page.pdf). A Sociological Perspective.
 
