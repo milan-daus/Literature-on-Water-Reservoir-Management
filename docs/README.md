@@ -206,11 +206,15 @@ In this file you will find a list of references on certain topics in reservoir m
 
 ## Social Interactions
 
-1. Blackbourn, D.; Rennert, U. 2008.  [Die Eroberung der Natur - Eine Geschichte der deutschen Landschaft, 3rd ed.;](https://www.randomhouse.de/Paperback/Die-Eroberung-der-Natur/David-Blackbourn/Pantheon/e257994.rhd) Pantheon: München, Germany, ISBN 9783570550632
+1. Bhaduri, A., Bogardi, J., Siddiqi, A., Voigt, H., Vörösmarty, C., Pahl-Wostl, C., Bunn, S. E., Shrivastava, P., Lawford, R., Foster, S., Kremer, H., Renaud, F. G., Bruns, A., Osuna, V. R. 2016. [Achieving Sustainable Development Goals from a Water Perspective](https://doi.org/10.3389/fenvs.2016.00064) Frontiers in Environmental Science 21, 211.
 
-1. Carnea, Michael, M., 1997. [Hydropower Dams and Social Impacts](http://documents1.worldbank.org/curated/en/446311468761673943/585559324_20040283053533/additional/multi-page.pdf). A Sociological Perspective.
+1. Blackbourn, D., Rennert, U. 2008.  [Die Eroberung der Natur - Eine Geschichte der deutschen Landschaft](https://www.randomhouse.de/Paperback/Die-Eroberung-der-Natur/David-Blackbourn/Pantheon/e257994.rhd) Pantheon, München, Germany, ISBN 9783570550632.
 
-1. Daus, M., Koberger, K., Gnutzmann, N., Hertrich, T., Glaser, R., 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://www.mdpi.com/2073-4441/11/12/2469). Water 2019, 11(12), 2469; [https://doi.org/10.3390/w11122469]
+1. Borchardt, D., Bogardi, J. J., Ibisch, R. B. 2016. [Integrated Water Resources Management: Concept, Research and Implementation](https://doi.org/10.1007/978-3-319-25071-7) Springer International Publishing, Cham, Germany, ISBN 978-3-319-25069-4.
+
+1. Carnea, Michael, M. 1997. [Hydropower Dams and Social Impacts](http://documents1.worldbank.org/curated/en/446311468761673943/585559324_20040283053533/additional/multi-page.pdf). A Sociological Perspective.
+
+1. Daus, M., Koberger, K., Gnutzmann, N., Hertrich, T., Glaser, R. 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://www.mdpi.com/2073-4441/11/12/2469). Water 2019, 11(12), 2469; [https://doi.org/10.3390/w11122469]
 
 1. Deutscher Bundestag, 2009. [Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz)](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html)
 
