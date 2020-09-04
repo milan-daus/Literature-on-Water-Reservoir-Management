@@ -15,15 +15,21 @@ In this file you will find a list of references on five different research topic
 
 1. Beckers, F., Haun, S., Gerbersdorf, S.U., Noack, M., Dietrich, D., Martin-Creuzburg, D., Peeters, F., Hofmann, H., Glaser, R., Wieprecht, S., 2018. [CHARM - Challenges of Reservoir Management - Meeting environmental and social requirements](https://issuu.com/hydrolinkiahr/docs/2018-3). Hydrolink 2018, 16–18.
 
+1. Beckers, F., Haun, S., Noack, M., 2108. [Experimental investigation of reservoir sediments](https://doi.org/10.1051/e3sconf/20184003030). E3S Web of Conferences.
+
 1. Beckers, F., Inskeep, C., Haun, S., Schmid, G., Wieprecht, S., Noack, M., 2020. [High spatio‐temporal resolution measurements of cohesive sediment erosion](https://doi.org/10.1002/esp.4889). Earth Surf. Process. Landforms (Earth Surface Processes and Landforms) 4, 43.
 
 1. Black, K. S., Tolhurst, T. J., Paterson, D. M., Hagerthey, S. E., 2002. [Working with Natural Cohesive Sediments](https://doi.org/10.1061/(ASCE)0733-9429(2002)128:1(2)). J. Hydraul. Eng. (Journal of Hydraulic Engineering) 128 (1), 2-8.
 
 1. Blöschl, G., Bierkens, M. F.P., Chambel, A., Cudennec, C., Destouni, G., Fiori, A., Kirchner, J. W., McDonnell, J. J., Savenije, H. H.G., Sivapalan, M., Stumpp, C., Toth, E., Volpi, E., Carr, G., Lupton, C., Salinas, J., Széles, B., Viglione, A., Aksoy, H., Allen, S. T., Amin, A., Andréassian, V., Arheimer, B., Aryal, S. K., Baker, V., Bardsley, E., Barendrecht, M. H., Bartosova, A., Batelaan, O., Berghuijs, W R., Beven, K., Blume, T., Bogaard, T., Borges de Amorim, P., Böttcher, M. E., Boulet, G., Breinl, K., Brilly, M., Brocca, L., Buytaert, W., Castellarin, A., Castelletti, A., Chen, X., Chen, Y., Chen, Y., Chifflard, P., Claps, P., Clark, M. P., Collins, A. L., Croke, B., Dathe, A., David, P. C., Barros, F. P. J. de, Rooij, G. de, Di Baldassarre, G., Driscoll, J. M., Duethmann, D., Dwivedi, R., Eris, E., Farmer, W. H., Feiccabrino, J., Ferguson, G., Ferrari, E., Ferraris, S., Fersch, B., Finger, D., Foglia, L., Fowler, K., Gartsman, B., Gascoin, S., Gaume, E., Gelfan, A., Geris, J., Gharari, S., Gleeson, T., Glendell, M., Gonzalez Bevacqua, A., González-Dugo, M. P., Grimaldi, S., Gupta, A. B., Guse, B., Han, D., Hannah, D., Harpold, A., Haun, S., Heal, K., Helfricht, K., Herrnegger, M., Hipsey, M., Hlaváčiková, H., Hohmann, C., Holko, L., Hopkinson, C., Hrachowitz, M., Illangasekare, T. H., Inam, A., Innocente, C., Istanbulluoglu, E., Jarihani, B., Kalantari, Z., Kalvans, A., Khanal, S., Khatami, S., Kiesel, J., Kirkby, M., Knoben, W., Kochanek, K., Kohnová, S., Kolechkina, A., Krause, S., Kreamer, D., Kreibich, H., Kunstmann, H., Lange, H., Liberato, M. L. R., Lindquist, E., Link, T., Liu, J., Loucks, D. P., Luce, C., Mahé, G., Makarieva, O., Malard, J., Mashtayeva, S., Maskey, S., Mas-Pla, J., Mavrova-Guirguinova, M., Mazzoleni, M., Mernild, S., Misstear, B. D., Montanari, A., Müller-Thomy, H., Nabizadeh, A., Nardi, F., Neale, C., Nesterova, N., Nurtaev, B., Odongo, V. O., Panda, S., Pande, S., Pang, Z., Papacharalampous, G., Perrin, C., Pfister, L., Pimentel, R., Polo, M. J., Post, D., Prieto S. C., Ramos, M.-H., Renner, M., Reynolds, J. E., Ridolfi, E., Rigon, R., Riva, M., Robertson, D. E., Rosso, R., Roy, T., Sá, J. H.M., Salvadori, G., Sandells, M., Schaefli, B., Schumann, A., Scolobig, A., Seibert, J., Servat, E., Shafiei, M., Sharma, A., Sidibe, M., Sidle, R. C., Skaugen, T., Smith, H., Spiessl, S. M., Stein, L., Steinsland, I., Strasser, U., Su, B., Szolgay, J., Tarboton, D., Tauro, F., Thirel, G., Tian, F., 2019. [Twenty-three unsolved problems in hydrology (UPH) – a community perspective](https://doi.org/10.1080/02626667.2019.1620507). Hydrological Sciences Journal 64 (10), 1141–1158.
 
+1. Blöschl, G., Hall, J., Viglione, A.,  Perdigão, R.A.P., Parajka, J., Merz, B., Lun, D. Arheimer, B., Aronica, G.T., Bilibashi, A., Boháč, M., Bonacci, O., Borga, M., Čanjevac, I., Castellarin, A., Chirico, G.B., Claps, P., Frolova, N., Ganora, D., Gorbachova, L., Gül, A., Hannaford, J., Harrigan, S., Kireeva, M., Kiss, A., Kjeldsen, T.R., Kohnová, S., Koskela, J.J., Ledvinka, O., Macdonald, N., Mavrova-Guirguinova, M., Mediero, L., Merz, R., Molnar, P., Montanari, A., Murphy, C., Osuch, M., Ovcharuk, V., Radevski, I., Salinas, J.L., Sauquet, E., Šraj, M., Szolgay, J., Volpi, E., Wilson, D., Zaimi, K., Živković, N. 2019. [Changing climate both increases and decreases European river floods](https://doi.org/10.1038/s41586-019-1495-6). Nature, 573 (7772), 108-111.
+
 1. Döll, P., Fiedler, K., Zhang, J., 2009. [Global-scale analysis of river flow alterations due to water withdrawals and reservoirs](https://doi.org/10.5194/hess-13-2413-2009) Hydrol. Earth Syst. Sci. 13, 2413–2432.
 
 1. Droppo, I.G., D'Andrea, L., Krishnappan, B.G., Jaskot, C., Trapp, B., Basuvaraj, M., Liss, S.N., 2015. [Fine-sediment dynamics: towards an improved understanding of sediment erosion and transport](https://doi.org/10.1007/s11368-014-1004-3) J. Soils Sediments 15, 467–479. 
+
+1. Esmaeili, T., Sumi, T., Kantoush, S.A., Kubota, Y., Haun, S., Rüther, N. 2017. [Three-Dimensional Numerical Study of Free-Flow Sediment Flushing to Increase the Flushing Efficiency: A Case-Study Reservoir in Japan](https://doi.org/10.3390/w9110900). Water; 9: 1-22.
 
 1. Fan, J. and Morris, G.L., 1992. [Reservoir Sedimentation. II: Reservoir Desiltation and Long-Term Storage Capacity](https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%290733-9429%281992%29118%3A3%28370%29) Journal of Hydraulic Engineering, ASCE, 118(3). 
 
@@ -31,11 +37,17 @@ In this file you will find a list of references on five different research topic
 
 1. Harb, G., 2013. [Numerical Modeling of Sediment Transport Processes in Alpine Reservoirs](https://diglib.tugraz.at/numerical-modeling-of-sediment-transport-processes-in-alpine-reservoirs-2013) Dissertation, Schriftenreihe zur Wasserwirtschaft der Technischen Universität Graz, Band 73. 
 
+1. Harb, G., Haun, S., Schneider, J., Olsen, N.R.B., 2014. [Numerical analysis of synthetic granulate deposition in a physical model study](https://doi.org/10.1016/S1001-6279(14)60026-3). International Journal of Sediment Research, 29, 110-117.
+
 1. Haun, S., Kjærås, H., Løvfall, S. and Olsen, N.R.B., 2013. [Three-dimensional measurements and numerical modelling of suspended sediments in a hydropower reservoir](https://doi.org/10.1016/j.jhydrol.2012.11.060) Journal of Hydrology 479: 180-188. 
 
 1. Haun, S., Olsen, N. R. B., 2012. [Three-dimensional numerical modelling of reservoir flushing in a prototype scale](https://doi.org/10.1080/15715124.2012.736388). International Journal of River Basin Management 10 (4), 341–349.
 
+1. Haun, S., Olsen, N.R.B., 2012. [Three-dimensional numerical modelling of the flushing process of the Kali Gandaki Hydropower Reservoir](https://doi.org/10.1111/j.1440-1770.2012.00491.x). Lakes & Reservoirs: Research & Management; 17(1), 25-33.
+
 1. Kondolf, G.M., Gao, Y., Annandale, G.W., Morris, G.L., Jiang, E.,  Zhang, J., Cao, Y., Carling, P., Fu, K., Guo, Q., Hotchkiss, R.,  Peteuil, Ch., Sumi, T., Wang, H.-W.,Wang, Z., Wei, Z., Wu, B.,  Wu, C. and  Ted Yang, Ch.T., 2014. [Sustainable sediment management in reservoirs and regulated rivers: Experiences from five continents](https://doi.org/10.1002/2013EF000184) Earth’s Future 2(5): 256-280. 
+
+1. Kunz, M., Mouris, K.,  Haun, S., Karmacharya, S.K., Rüther, N., 2020. [Numerical Analysis of Bed Development during Pressure Flushing with Partial Drawdown]( https://doi.org/10.1201/b22619 ). River Flow 2020 - 10th international conference on fluvial hydraulics (7. - 9. July 2020, Lyon).
 
 1. Mahmood, K., 1987. [Reservoir sedimentation: impact, extent and mitigation](https://documents.worldbank.org/pt/publication/documents-reports/documentdetail/888541468762328736/reservoir-sedimentation-impact-extent-and-mitigation) World Bank Technical Paper. 71, Washington D.C.. 
 
@@ -45,13 +57,21 @@ In this file you will find a list of references on five different research topic
 
 1. Morris, G.L. and Fan, J., 1998. [Reservoir Sediment Handbook](https://www.reservoirsedimentation.com/) McGraw-Hill Book Co., New York. 
 
+1. Mouris, K., Beckers, F., Haun, S., 2019. [Three-dimensional numerical modeling of hydraulics and morphodynamics of the Schwarzenbach reservoir](https://doi.org/10.1051/e3sconf/20184003005). River Flow 2018 - 9th international conference on fluvial hydraulics (5. - 8. September 2018, Lyon). E3S Web of Conferences, 2018.
+
 1. Mulligan, M., van Soesbergen, A., Sáenz, L., 2020. [GOODD, a global dataset of more than 38,000 georeferenced dams](https://doi.org/10.1038/s41597-020-0362-5) Sci. Data 7, 31. 
 
 1. Nilsson, C., Reidy, C.A., Dynesius, M., Revenga, C., 2005. [Fragmentation and Flow Regulation of the World’s Large River Systems](https://doi.org/10.1126/science.1107887) Science 308, 405–408. 
 
 1. Noack, M., Gerbersdorf, S., Hillebrand, G., Wieprecht, S., 2015. [Combining Field and Laboratory Measurements to Determine the Erosion Risk of Cohesive Sediments Best](https://doi.org/10.3390/w7095061). Water 7 (9), 5061–5077. 
 
+1. Peteuil, C., Jodeau, M., De Linares, M., Valette, E., Alliau, D., Wirz, C., Fretaud, T., Antoine, G., Sécher, M., 2018. [Toward an operational approach for the characterization and modelling of fine sediments dynamics in reservoirs](https://doi.org/10.1051/e3sconf/20184003028). E3S Web of Conferences.
+
 1. Pohlert, T., Hillebrand, G., and Breitung, V., 2011. [Trends of persistent organic pollutants in the suspended matter of the river rhine](https://doi.org/10.1002/hyp.8110) Hydrological Processes, 25:3803–3817. 
+
+1. Rashid, F., Zarrati, A.R., Haun, S., 2020. [Recent Advances in 3D Numerical Modeling of Reservoir Sedimentation]( https://en.civilica.com/Paper-IHC18-IHC18_052=Recent-Advances-in-3D-Numerical-Modeling-of-Reservoir-Sedimentation.html). 18th Iranian Hydraulic Conference, 5-6 February 2020; Faculty of Civil Engineering, University of Tehran, Tehran, Iran.
+
+1. Saam, L., Mouris, K., Wieprecht, S., Haun, S., 2019. [Three-dimensional numerical modelling of reservoir flushing to obtain long-term sediment equilibrium](https://www.iahr.org/paper/detail?paper_id=3067). E-proceedings of the 38th IAHR World Congress, September 1-6, 2019, Panama City, Panama. 
 
 1. Schäfer Rodrigues Silva, A., Noack, M., Schlabing, D., Wieprecht, S., 2018. [A data-driven fuzzy approach to simulate the critical shear stress of mixed cohesive/non-cohesive sediments](https://doi.org/10.1007/s11368-017-1860-8). J Soils Sediments (Journal of Soils and Sediments) 18 (10), 3070–3081.
 
