@@ -89,42 +89,7 @@ In this file you will find a list of references on five different research topic
 
 1. White, R., 2001. [Evacuation of sediments from reservoirs](http://dx.doi.org/10.1680/eosfr.29538) Thomas Telford Publishing. 
 
-1. Yoon, Y.N., 1992. [The state and the perspective of the direct sediment removal methods from reservoirs](https://doi.org/10.1080/15715124.2019.1583667) International Journal of Sediment Research, 7(2), 99–116. 
-
-## Greenhouse Gas emissions
-
-1. Barros, N., Cole, J.J., Tranvik, L.J., Prairie, Y.T., Bastviken, D., Huszar, V.L.M., del Giorgio, P., Roland, F., 2011. [Carbon emission from hydroelectric reservoirs linked to reservoir age and latitude. Nature Geoscience](https://www.nature.com/articles/ngeo1211), 4, 593-596.
-
-1. Beaulieu, J.J., Smolenski, R.L., Nietch, C.T., Townsend-Small, A., Elovitz, M.S., 2014. [High methane emissions from a midlatitude reservoir draining an agricultural watershed](https://pubs.acs.org/doi/10.1021/es501871g). Environmental Science &amp; Technology, 48 (19), 11100-11108. [https://doi.org/10.1021/es501871g](https://doi.org/10.1021/es501871g).
-
-1. Deemer, B.R., Harrison, J.A., Li, S., Beaulieu, J.J., DelSontro, T., Barros, N., Bezerra-Neto, J.F., Powers, S.M., dos Santos, M.A., Vonk, J.A., 2016. [Greenhouse Gas Emissions from Reservoir Water Surfaces: A New Global Synthesis.](https://academic.oup.com/bioscience/article/66/11/949/2754271) BioScience 66, 949–964. https://doi.org/10.1093/biosci/biw117
-
-1. Deborde, J., Anschutz, P., Guérin, F., Poirier, D., Marty, D., Boucher, G., Thouzeau, G., Canton, M., Abril, G., 2010. [Methane sources, sinks and fluxes in a temperate tidal Lagoon: The Arcachon lagoon](https://www.sciencedirect.com/science/article/pii/S0272771410002738) (SW France). Estuarine, Coastal and Shelf Science, Elsevier, 89, 256-266 (hal-00524642)
-
-1. DelSontro, T., McGinnis, D.F., Sobek, S., Ostrovsky, I., Wehrli, B., 2010. [Extreme methane emissions from a Swiss hydropower reservoir: Contribution from bubbling sediments](https://pubs.acs.org/doi/10.1021/es9031369). Environmental Science &amp; Technology, 44 (7), 2419-2425. https://doi.org/10.1021/es9031369
-
-1. Encinas Fernandez, J., Peeters, F., Hofmann, H., 2014. [Importance of the autumn overturn and anoxic conditions in the hypolimnion for the annual methane emissions from a temperate lake](https://doi.org/10.1021/es4056164) Environmental Science & Technology, 48, 7297-7304.
-
-1. Engle, D., Melack, J.M., 2000. [Methane emissions from an Amazon floodplain lake: Enhanced release during episodic mixing and during falling water](https://doi.org/10.1023/A:1006389124823) Biogeochemistry, 51 (1), 71-90. 
-
-1. Harrison, J.A., Deemer, B.R., Birchfield, M.K., O'Malley, M.T., 2017. [Reservoir water-level drawdowns accelerate and amplify methane emission](https://doi.org/10.1021/acs.est.6b03185) Environmental Science & Technology, 51(3), 1267-1277. 
-
-1. Hertwich, E.G., 2013. [Addressing biogenic greenhouse gas emissions from hydropower in LCA](https://doi.org/10.1021/es401820p) Environ. Sci. Technol., 47(17): 9604-11. 
-
-1. Li, S. Y., Zhang, Q. F., Bush, R. T. and Sullivan, L. A., 2015. [Methane and CO2 emissions from China's hydroelectric reservoirs: a new quantitative synthesis](https://doi.org/10.1007/s11356-015-4083-9) Environmental Science and Pollution Research International 22(7): 5325–5339. 
-
-1. Luyssaert, S., Abri,l G., Andres, R., Bastviken, D., Bellassen, V., Bergamaschi, P., Bousquet, P., Chevallier, F., Ciais, P., Corazza, M., Dechow, R., Erb, K.H., Etiope, G., Fortems-Cheiney, A., Grassi, G., Hartmann, J., Jung, M., Lathière, J., Lohila, A., Mayorga, E., Moosdorf, N., Njakou, D.S., Otto, J., Papale, D., Peters, W., Peylin, P., Raymond, P., Rödenbeck, C., Saarnio, S., Schulze, E.D., Szopa, S., Thompson, R., Verkerk, P.J., Vuichard, N., Wang, R., Wattenbach, M., Zaehle, S., 2012. [The European land and inland water CO2, CO, CH4 and N2O balance between 2001 and 2005](https://doi.org/10.5194/bg-9-3357-2012) Biogeosciences, 9, 3357-3380. 
-
-1. Maeck, A., DelSontro, T., McGinnis, D. F., Fischer, H., Flury, S., Schmidt, M., Fietzek, P. and Lorke, A., 2013. [Sediment trapping by dams creates methane emission hot spots](https://doi.org/10.1021/es4003907) Environmental Science and Technology 47(15): 8130–8137. 
-
-1. Maeck, A., Hofmann, H., Lorke, A., 2014. [Pumping methane out of aquatic sediments - ebullition forcing mechanisms in an impounded river](https://doi.org/10.5194/bg-11-2925-2014) Biogeosciences, 11 (11), 2925-2938. 
-
-1. Raymond, P.A., Hartmann, J., Lauerwald, R., Sobek, S., McDonald, C., Hoover, M., Butman, D., Striegl, R., Mayorga, E., Humborg, C., Kortelainen, P., Dürr, H., Meybeck, M., Ciais, P., Guth, P., 2013. [Global carbon dioxide emissions from inland waters](https://doi.org/10.1038/nature12760) Nature, 503 (7476), 355-9. 
-
-1. Sobek, S., DelSontro, T., Wongfun, N., Wehrli, B., 2012. [Extreme organic carbon burial fuels intense methane bubbling in a temperate reservoir](https://doi.org/10.1029/2011gl050144) Geophysical Research Letters, 39 (1). 
-
-1. Varadharajan, C., Hemond, H.F., 2012. [Time-series analysis of high-resolution ebullition fluxes from a stratified, freshwater lake](https://doi.org/10.1029/2011JG001866) Journal of Geophysical Research: Biogeosciences, 117 (G2). 
-
+1. Yoon, Y.N., 1992. [The state and the perspective of the direct sediment removal methods from reservoirs](https://doi.org/10.1080/15715124.2019.1583667) International Journal of Sediment Research, 7(2), 99–116.
 
 ## Biofilms
 
@@ -230,6 +195,39 @@ In this file you will find a list of references on five different research topic
 
 1. Zhou, Y., Yao, X., Gu, Y., Qian, D., Tang, Y., Zhang, Y., Zhu, D.Z., Zhang, T., 2021. Biological effects on incipient motion behavior of sediments with different organic matter content. J. Soils Sediments 21, 627–640. https://doi.org/10.1007/s11368-020-02807-9
 
+## Greenhouse Gas emissions
+
+1. Barros, N., Cole, J.J., Tranvik, L.J., Prairie, Y.T., Bastviken, D., Huszar, V.L.M., del Giorgio, P., Roland, F., 2011. [Carbon emission from hydroelectric reservoirs linked to reservoir age and latitude. Nature Geoscience](https://www.nature.com/articles/ngeo1211), 4, 593-596.
+
+1. Beaulieu, J.J., Smolenski, R.L., Nietch, C.T., Townsend-Small, A., Elovitz, M.S., 2014. [High methane emissions from a midlatitude reservoir draining an agricultural watershed](https://pubs.acs.org/doi/10.1021/es501871g). Environmental Science &amp; Technology, 48 (19), 11100-11108. [https://doi.org/10.1021/es501871g](https://doi.org/10.1021/es501871g).
+
+1. Deemer, B.R., Harrison, J.A., Li, S., Beaulieu, J.J., DelSontro, T., Barros, N., Bezerra-Neto, J.F., Powers, S.M., dos Santos, M.A., Vonk, J.A., 2016. [Greenhouse Gas Emissions from Reservoir Water Surfaces: A New Global Synthesis.](https://academic.oup.com/bioscience/article/66/11/949/2754271) BioScience 66, 949–964. https://doi.org/10.1093/biosci/biw117
+
+1. Deborde, J., Anschutz, P., Guérin, F., Poirier, D., Marty, D., Boucher, G., Thouzeau, G., Canton, M., Abril, G., 2010. [Methane sources, sinks and fluxes in a temperate tidal Lagoon: The Arcachon lagoon](https://www.sciencedirect.com/science/article/pii/S0272771410002738) (SW France). Estuarine, Coastal and Shelf Science, Elsevier, 89, 256-266 (hal-00524642)
+
+1. DelSontro, T., McGinnis, D.F., Sobek, S., Ostrovsky, I., Wehrli, B., 2010. [Extreme methane emissions from a Swiss hydropower reservoir: Contribution from bubbling sediments](https://pubs.acs.org/doi/10.1021/es9031369). Environmental Science &amp; Technology, 44 (7), 2419-2425. https://doi.org/10.1021/es9031369
+
+1. Encinas Fernandez, J., Peeters, F., Hofmann, H., 2014. [Importance of the autumn overturn and anoxic conditions in the hypolimnion for the annual methane emissions from a temperate lake](https://doi.org/10.1021/es4056164) Environmental Science & Technology, 48, 7297-7304.
+
+1. Engle, D., Melack, J.M., 2000. [Methane emissions from an Amazon floodplain lake: Enhanced release during episodic mixing and during falling water](https://doi.org/10.1023/A:1006389124823) Biogeochemistry, 51 (1), 71-90. 
+
+1. Harrison, J.A., Deemer, B.R., Birchfield, M.K., O'Malley, M.T., 2017. [Reservoir water-level drawdowns accelerate and amplify methane emission](https://doi.org/10.1021/acs.est.6b03185) Environmental Science & Technology, 51(3), 1267-1277. 
+
+1. Hertwich, E.G., 2013. [Addressing biogenic greenhouse gas emissions from hydropower in LCA](https://doi.org/10.1021/es401820p) Environ. Sci. Technol., 47(17): 9604-11. 
+
+1. Li, S. Y., Zhang, Q. F., Bush, R. T. and Sullivan, L. A., 2015. [Methane and CO2 emissions from China's hydroelectric reservoirs: a new quantitative synthesis](https://doi.org/10.1007/s11356-015-4083-9) Environmental Science and Pollution Research International 22(7): 5325–5339. 
+
+1. Luyssaert, S., Abri,l G., Andres, R., Bastviken, D., Bellassen, V., Bergamaschi, P., Bousquet, P., Chevallier, F., Ciais, P., Corazza, M., Dechow, R., Erb, K.H., Etiope, G., Fortems-Cheiney, A., Grassi, G., Hartmann, J., Jung, M., Lathière, J., Lohila, A., Mayorga, E., Moosdorf, N., Njakou, D.S., Otto, J., Papale, D., Peters, W., Peylin, P., Raymond, P., Rödenbeck, C., Saarnio, S., Schulze, E.D., Szopa, S., Thompson, R., Verkerk, P.J., Vuichard, N., Wang, R., Wattenbach, M., Zaehle, S., 2012. [The European land and inland water CO2, CO, CH4 and N2O balance between 2001 and 2005](https://doi.org/10.5194/bg-9-3357-2012) Biogeosciences, 9, 3357-3380. 
+
+1. Maeck, A., DelSontro, T., McGinnis, D. F., Fischer, H., Flury, S., Schmidt, M., Fietzek, P. and Lorke, A., 2013. [Sediment trapping by dams creates methane emission hot spots](https://doi.org/10.1021/es4003907) Environmental Science and Technology 47(15): 8130–8137. 
+
+1. Maeck, A., Hofmann, H., Lorke, A., 2014. [Pumping methane out of aquatic sediments - ebullition forcing mechanisms in an impounded river](https://doi.org/10.5194/bg-11-2925-2014) Biogeosciences, 11 (11), 2925-2938. 
+
+1. Raymond, P.A., Hartmann, J., Lauerwald, R., Sobek, S., McDonald, C., Hoover, M., Butman, D., Striegl, R., Mayorga, E., Humborg, C., Kortelainen, P., Dürr, H., Meybeck, M., Ciais, P., Guth, P., 2013. [Global carbon dioxide emissions from inland waters](https://doi.org/10.1038/nature12760) Nature, 503 (7476), 355-9. 
+
+1. Sobek, S., DelSontro, T., Wongfun, N., Wehrli, B., 2012. [Extreme organic carbon burial fuels intense methane bubbling in a temperate reservoir](https://doi.org/10.1029/2011gl050144) Geophysical Research Letters, 39 (1). 
+
+1. Varadharajan, C., Hemond, H.F., 2012. [Time-series analysis of high-resolution ebullition fluxes from a stratified, freshwater lake](https://doi.org/10.1029/2011JG001866) Journal of Geophysical Research: Biogeosciences, 117 (G2).
 
 ## Cyanobacterial blooms
 
@@ -262,7 +260,6 @@ In this file you will find a list of references on five different research topic
 1. Salmaso, N., 2010. [Long-term phytoplankton community changes in a deep subalpine lake: responses to nutrient availability and climatic fluctuations](https://doi.org/10.1111/j.1365-2427.2009.02325.x) Freshw. Biol. 55, 825–846. 
 
 1. Salmaso, N., Buzzi, F., Garibaldi, L., Morabito, G., Simona, M., 2012. [Effects of nutrient availability and temperature on phytoplankton development: a case study from large lakes south of the Alps](https://doi.org/10.1007/s00027-012-0248-5) Aquat. Sci. 74, 555–570. 
-
 
 ## Social Interactions
 
