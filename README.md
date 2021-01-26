@@ -138,7 +138,15 @@ In this file you will find a list of references on five different research topic
 
 1. Chen, X.D., Zhang, C.K., Zhou, Z., Gong, Z., Zhou, J.J., Tao, J.F., Paterson, D.M., Feng, Q., 2017. [Stabilizing Effects of Bacterial Biofilms: EPS Penetration and Redistribution of Bed Stability Down the Sediment Profile](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JG004050). J. Geophys. Res. Biogeosciences 122, 3113–3125. [https://doi.org/10.1002/2017JG004050]
 
+1. Chen, X., Zhang, C., Paterson, D.M., Townend, I.H., Jin, C., Zhou, Z., Gong, Z., Feng, Q., 2019. The effect of cyclic variation of shear stress on non-cohesive sediment stabilization by microbial biofilms: the role of ‘biofilm precursors.’ Earth Surf. Process. Landf. 44, 1471–1481. https://doi.org/10.1002/esp.4573
+
+1. Chen, X.D., Zhang, C.K., Paterson, D.M., Thompson, C.E.L., Townend, I.H., Gong, Z., Zhou, Z., Feng, Q., 2017. Hindered erosion: The biological mediation of noncohesive sediment behavior. Water Resour. Res. 53, 4787–4801. https://doi.org/10.1002/2016WR020105
+
+1. Cheng, W., Fang, H., Lai, H., Huang, L., Dey, S., 2018. Effects of biofilm on turbulence characteristics and the transport of fine sediment. J. Soils Sediments 18, 3055–3069. https://doi.org/10.1007/s11368-017-1859-1
+
 1. Dang, H., Lovell, C.R., 2015. [Microbial Surface Colonization and Biofilm Development in Marine Environments.](https://mmbr.asm.org/content/80/1/91) Microbiol. Mol. Biol. Rev. MMBR 80, 91–138. [https://doi.org/10.1128/MMBR.00037-15]
+
+1. Dalu, T., Cuthbert, R.N., Chavalala, T.L., Froneman, P.W., Wasserman, R.J., 2020. Assessing sediment particle-size effects on benthic algal colonisation and total carbohydrate production. Sci. Total Environ. 710, 136348. https://doi.org/10.1016/j.scitotenv.2019.136348
 
 1. Danovaro, R., Pusceddu, A., 2007. [Biodiversity and ecosystem functioning in coastal lagoons: Does microbial diversity play any role](https://www.sciencedirect.com/science/article/pii/S0272771407001692)? Estuar. Coast. Shelf Sci., Biodiversity and Ecosystem Functioning in Coastal and Transitional Waters 75, 4–12. [https://doi.org/10.1016/j.ecss.2007.02.030]
 
@@ -150,7 +158,9 @@ In this file you will find a list of references on five different research topic
 
 1. Fang, H., Zhao, H., Shang, Q., Chen, M., 2012. [Effect of biofilm on the rheological properties of cohesive sediment](https://doi.org/10.1007/s10750-012-1140-y) Hydrobiologia 694, 171–181. 
 
-1. Fang, H.W., Lai, H.J., Cheng, W., Huang, L., He, G.J., 2017. [Modeling sediment transport with an integrated view of the biofilm effects](https://doi.org/10.1002/2017WR020628) Water Resour. Res. 53, 7536–7557. 
+1. Fang, H.W., Lai, H.J., Cheng, W., Huang, L., He, G.J., 2017. [Modeling sediment transport with an integrated view of the biofilm effects](https://doi.org/10.1002/2017WR020628) Water Resour. Res. 53, 7536–7557.
+
+1. Fang, H., Chen, Y., Huang, L., He, G., 2017. Biofilm growth on cohesive sediment deposits: laboratory experiment and model validation. Hydrobiologia 799, 261–274. https://doi.org/10.1007/s10750-017-3224-1
 
 1. Fischer, H., Pusch, M., 2001. [Comparison of bacterial production in sediments, epiphyton and the pelagic zone of a lowland river](https://doi.org/10.1046/j.1365-2427.2001.00753.x) Freshw. Biol. 46, 1335–1348. 
 
@@ -170,9 +180,13 @@ In this file you will find a list of references on five different research topic
 
 1. Gerbersdorf, S.U., Wieprecht, S., 2015. [Biostabilization of cohesive sediments: revisiting the role of abiotic conditions, physiology and diversity of microbes, polymeric secretion, and biofilm architecture](https://doi.org/10.1111/gbi.12115) Geobiology 13, 68–97. 
 
+1. Gerbersdorf, S.U., Koca, K., de Beer, D., Chennu, A., Noss, C., Risse-Buhl, U., Weitere, M., Eiff, O., Wagner, M., Aberle, J., Schweikert, M., Terheiden, K., 2020. Exploring flow-biofilm-sediment interactions: Assessment of current status and future challenges. Water Res. 185, 116182. https://doi.org/10.1016/j.watres.2020.116182
+
 1. Gibbs, R.J., 1983. [Effect of natural organic coatings on the coagulation of particles](https://doi.org/10.1021/es00110a011) Environ. Sci. Technol. 17, 237–240. 
 
-1. Gilbertson, W.W., Solan, M., Prosser, J.I., 2012. [Differential effects of microorganism–invertebrate interactions on benthic nitrogen cycling](https://doi.org/10.1111/j.1574-6941.2012.01400.x) FEMS Microbiol. Ecol. 82, 11–22. 
+1. Gilbertson, W.W., Solan, M., Prosser, J.I., 2012. [Differential effects of microorganism–invertebrate interactions on benthic nitrogen cycling](https://doi.org/10.1111/j.1574-6941.2012.01400.x) FEMS Microbiol. Ecol. 82, 11–22.
+
+1. Gu, Y., Zhang, Y., Qian, D., Tang, Y., Zhou, Y., Zhu, D.Z., 2019. Effects of microbial activity on incipient motion and erosion of sediment. Environ. Fluid Mech. https://doi.org/10.1007/s10652-019-09706-9
 
 1. H. Tuson, H., B. Weibel, D., 2013. [Bacteria–surface interactions](https://doi.org/10.1039/C3SM27705D) Soft Matter 9, 4368–4380. 
 
@@ -194,15 +208,27 @@ In this file you will find a list of references on five different research topic
 
 1. Righetti, M., Lucarelli, C., 2010. [Resuspension phenomena of benthic sediments: The role of cohesion and biological adhesion](https://doi.org/10.1002/rra.1296) River Res. Appl. 26, 404–413. 
 
+1. Roncoroni, M., Brandani, J., Battin, T.I., Lane, S.N., 2019. Ecosystem engineers: Biofilms and the ontogeny of glacier floodplain ecosystems. Wiley Interdiscip. Rev. Water 6, e1390. https://doi.org/10.1002/wat2.1390
+
+1. Schmidt, H., Thom, M., King, L., Wieprecht, S., Gerbersdorf, S.U., 2016. The effect of seasonality upon the development of lotic biofilms and microbial biostabilisation. Freshw. Biol. 61, 963–978. https://doi.org/10.1111/fwb.12760
+
 1. Schultz, P., Urban, N.R., 2008. [Effects of bacterial dynamics on organic matter decomposition and nutrient release from sediments: A modeling study](https://doi.org/10.1016/j.ecolmodel.2007.06.026) Ecol. Model. 210, 1–14. 
 
 1. Shang, Q., Fang, H., Zhao, H., He, G., Cui, Z., 2014. [Biofilm effects on size gradation, drag coefficient and settling velocity of sediment particles](https://doi.org/10.1016/S1001-6279(14)60060-3) Int. J. Sediment Res. 29, 471–480. 
 
 1. Shannon, M.A., Bohn, P.W., Elimelech, M., Georgiadis, J.G., Mariñas, B.J., Mayes, A.M., 2008. [Science and technology for water purification in the coming decades](https://doi.org/10.1038/nature06599) Nature 452, 301–310. 
 
-1. Stoodley, P., Sauer, K., Davies, D.G., Costerton, J.W., 2002. [Biofilms as Complex Differentiated Communities](https://doi.org/10.1146/annurev.micro.56.012302.160705) Annu. Rev. Microbiol. 56, 187–209. 
+1. Stoodley, P., Sauer, K., Davies, D.G., Costerton, J.W., 2002. [Biofilms as Complex Differentiated Communities](https://doi.org/10.1146/annurev.micro.56.012302.160705) Annu. Rev. Microbiol. 56, 187–209.
+
+1. Thom, M., Schmidt, H., Gerbersdorf, S.U., Wieprecht, S., 2015. Seasonal biostabilization and erosion behavior of fluvial biofilms under different hydrodynamic and light conditions. Int. J. Sediment Res. 30, 273–284. https://doi.org/10.1016/j.ijsrc.2015.03.015
+
+1. van de Lageweg, W.I., McLelland, S.J., Parsons, D.R., 2018. Quantifying biostabilisation effects of biofilm-secreted and extracted extracellular polymeric substances (EPSs) on sandy substrate. Earth Surf. Dyn. 6, 203–215. https://doi.org/10.5194/esurf-6-203-2018
 
 1. Vignaga, E., Sloan, D.M., Luo, X., Haynes, H., Phoenix, V.R., Sloan, W.T., 2013. [Erosion of biofilm-bound fluvial sediments](https://doi.org/10.1038/ngeo1891) Nat. Geosci. 6, 770–774. 
+
+1. Waqas, A., Neumeier, U., Rochon, A., 2020. Seasonal changes in sediment erodibility associated with biostabilization in a subarctic intertidal environment, St. Lawrence Estuary, Canada. Estuar. Coast. Shelf Sci. 245, 106935. https://doi.org/10.1016/j.ecss.2020.106935
+
+1. Zhou, Y., Yao, X., Gu, Y., Qian, D., Tang, Y., Zhang, Y., Zhu, D.Z., Zhang, T., 2021. Biological effects on incipient motion behavior of sediments with different organic matter content. J. Soils Sediments 21, 627–640. https://doi.org/10.1007/s11368-020-02807-9
 
 
 ## Cyanobacterial blooms
