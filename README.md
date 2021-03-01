@@ -1,9 +1,9 @@
 # Literature on Reservoir Management
 In this repository you will find the file: "Tool.xls" as a Microsoft Excel file. This tool allows you to get an overview of reservoir management implications researched in the [CHARM (CHallenges of Reservoir Management) project](https://www.project.uni-stuttgart.de/charm/en/). For information on how to use the tool, please see the file "Manual for the CHARM tool on interdisciplinary reservoir management". Furthermore there is a list of references on five different research topics in reservoir management. The original source is provided via hyperlink. Where applicable, you can downbload the corresponding literature. 
 
-### Literature
+## Literature categorised after the topic:
 
-## Sediment
+### Sediment
 
 1. Aguiar, F.C., Martins, M.J., Silva, P.C., Fernandes, M.R., 2016. [Riverscapes downstream of hydropower dams. Effects of altered flows and historical land-use change](https://www.sciencedirect.com/science/article/pii/S0169204616300469). Landscape and Urban Planning 153, 83-98.
 
@@ -93,7 +93,7 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 1. Yoon, Y.N., 1992. [The state and the perspective of the direct sediment removal methods from reservoirs](https://doi.org/10.1080/15715124.2019.1583667) International Journal of Sediment Research, 7(2), 99–116.
 
-## Biofilms
+### Biofilms
 
 1. Battin, T.J., Besemer, K., Bengtsson, M.M., Romani, A.M., Packmann, A.I., 2016. [The ecology and biogeochemistry of stream biofilms](https://www.nature.com/articles/nrmicro.2016.15). Nat. Rev. Microbiol. 14, 251–263. [https://doi.org/10.1038/nrmicro.2016.15]
 
@@ -197,7 +197,7 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 1. Zhou, Y., Yao, X., Gu, Y., Qian, D., Tang, Y., Zhang, Y., Zhu, D.Z., Zhang, T., 2021. [Biological effects on incipient motion behavior of sediments with different organic matter content](https://link.springer.com/article/10.1007/s11368-020-02807-9). J. Soils Sediments 21, 627–640. https://doi.org/10.1007/s11368-020-02807-9
 
-## Greenhouse Gas emissions
+### Greenhouse Gas emissions
 
 1. Barros, N., Cole, J.J., Tranvik, L.J., Prairie, Y.T., Bastviken, D., Huszar, V.L.M., del Giorgio, P., Roland, F., 2011. [Carbon emission from hydroelectric reservoirs linked to reservoir age and latitude. Nature Geoscience](https://www.nature.com/articles/ngeo1211), 4, 593-596.
 
@@ -231,7 +231,7 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 1. Varadharajan, C., Hemond, H.F., 2012. [Time-series analysis of high-resolution ebullition fluxes from a stratified, freshwater lake](https://doi.org/10.1029/2011JG001866) Journal of Geophysical Research: Biogeosciences, 117 (G2).
 
-## Cyanobacterial blooms
+### Cyanobacterial blooms
 
 1. Bullerjahn, G.S., McKay, R.M., Davis, T.W., Baker, D.B., Boyer, G.L., Anglada, L.V., Doucette, G.J., Ho, J.C., Irwin, E.G., Kling, C.L., Kudela, R.M., Kurmayer, R., Michalak, A.M., Ortiz, J.D., Otten, T.G., Paerl, H.W., Qin, B., Sohngen, B.L., Stumpf, R.P., Visser, P.M., Wilhelm, S.W., 2016. [Global solutions to regional problems: Collecting global expertise to address the problem of harmful cyanobacterial blooms](https://www.sciencedirect.com/science/article/pii/S1568988315301657). A Lake Erie case study. Harmful Algae 54, 223–238. [https://doi.org/10.1016/j.hal.2016.01.003]
 
@@ -263,7 +263,7 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 1. Salmaso, N., Buzzi, F., Garibaldi, L., Morabito, G., Simona, M., 2012. [Effects of nutrient availability and temperature on phytoplankton development: a case study from large lakes south of the Alps](https://doi.org/10.1007/s00027-012-0248-5) Aquat. Sci. 74, 555–570. 
 
-## Social Interactions
+### Social Interactions
 
 1. Bhaduri, A., Bogardi, J., Siddiqi, A., Voigt, H., Vörösmarty, C., Pahl-Wostl, C., Bunn, S. E., Shrivastava, P., Lawford, R., Foster, S., Kremer, H., Renaud, F. G., Bruns, A., Osuna, V. R., 2016. [Achieving Sustainable Development Goals from a Water Perspective](https://doi.org/10.3389/fenvs.2016.00064) Frontiers in Environmental Science 21, 211.
 
