@@ -1,5 +1,5 @@
 # Literature on Reservoir Management
-In this file you will find a list of references on five different research topics in reservoir management. The original source is provided via hyperlink. Where applicable, you can downbload the corresponding literature.  
+In this repository you will find the file: "Tool.xls" as a Microsoft Excel file. This tool allows you to get an overview of reservoir management implications researched in the [CHARM (CHallenges of Reservoir Management) project](https://www.project.uni-stuttgart.de/charm/en/). Furthermore there is a list of references on five different research topics in reservoir management. The original source is provided via hyperlink. Where applicable, you can downbload the corresponding literature. 
 
 ## Sediment
 
