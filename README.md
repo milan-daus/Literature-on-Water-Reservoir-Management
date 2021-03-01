@@ -199,6 +199,8 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 ### Greenhouse Gas emissions
 
+1. Almeida, R.M., Paranaíba, J.R., Barbosa, Í., Sobek, S., Kosten, S., Linkhorst, A., Mendonça, R., Quadra, G., Roland, F., Barros, N. 2019. [Carbon dioxide emission from drawdown areas of a Brazilian reservoir is linked to surrounding land cover](https://doi.org/10.1007/s00027-019-0665-9)  Aquat Sci 81, 68 (2019). 
+
 1. Barros, N., Cole, J.J., Tranvik, L.J., Prairie, Y.T., Bastviken, D., Huszar, V.L.M., del Giorgio, P., Roland, F., 2011. [Carbon emission from hydroelectric reservoirs linked to reservoir age and latitude. Nature Geoscience](https://www.nature.com/articles/ngeo1211), 4, 593-596.
 
 1. Beaulieu, J.J., Smolenski, R.L., Nietch, C.T., Townsend-Small, A., Elovitz, M.S., 2014. [High methane emissions from a midlatitude reservoir draining an agricultural watershed](https://pubs.acs.org/doi/10.1021/es501871g). Environmental Science &amp; Technology, 48 (19), 11100-11108. [https://doi.org/10.1021/es501871g](https://doi.org/10.1021/es501871g).
@@ -211,13 +213,19 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 1. Encinas Fernandez, J., Peeters, F., Hofmann, H., 2014. [Importance of the autumn overturn and anoxic conditions in the hypolimnion for the annual methane emissions from a temperate lake](https://doi.org/10.1021/es4056164) Environmental Science & Technology, 48, 7297-7304.
 
+1. Encinas Fernandez, J., Hofmann, H., Peeters, F. 2020. [Diurnal Pumped‐Storage Operation Minimizes Methane Ebullition Fluxes From Hydropower Reservoirs](https://doi.org/10.1029/2020WR027221) Water Ressources Research, Volume 56, Issue 12. 
+
 1. Engle, D., Melack, J.M., 2000. [Methane emissions from an Amazon floodplain lake: Enhanced release during episodic mixing and during falling water](https://doi.org/10.1023/A:1006389124823) Biogeochemistry, 51 (1), 71-90. 
 
 1. Harrison, J.A., Deemer, B.R., Birchfield, M.K., O'Malley, M.T., 2017. [Reservoir water-level drawdowns accelerate and amplify methane emission](https://doi.org/10.1021/acs.est.6b03185) Environmental Science & Technology, 51(3), 1267-1277. 
 
 1. Hertwich, E.G., 2013. [Addressing biogenic greenhouse gas emissions from hydropower in LCA](https://doi.org/10.1021/es401820p) Environ. Sci. Technol., 47(17): 9604-11. 
 
+1. Kosten, S., van den Berg, S., Mendonça, R., Paranaíba, J. R., Roland, F., Sobek, S., Van Den Hoek, J., Barros N. 2018. [Extreme drought boosts CO2 and CH4 emissions from reservoir drawdown areas](https://doi.org/10.1080/20442041.2018.1483126) Inland Waters Volume 8, 2018 - Issue 3.
+
 1. Li, S. Y., Zhang, Q. F., Bush, R. T. and Sullivan, L. A., 2015. [Methane and CO2 emissions from China's hydroelectric reservoirs: a new quantitative synthesis](https://doi.org/10.1007/s11356-015-4083-9) Environmental Science and Pollution Research International 22(7): 5325–5339. 
+
+1. Linkhorst, A., Hiller, C., DelSontro, T., Azevedo, G.M., Barros, N., Mendonça, R., Sobek, S. 2020. [Comparing methane ebullition variability across space and time in a Brazilian reservoir](https://doi.org/10.1002/lno.11410)  Limnology and Oceanography, Volume 65, Issue 7. 
 
 1. Luyssaert, S., Abri,l G., Andres, R., Bastviken, D., Bellassen, V., Bergamaschi, P., Bousquet, P., Chevallier, F., Ciais, P., Corazza, M., Dechow, R., Erb, K.H., Etiope, G., Fortems-Cheiney, A., Grassi, G., Hartmann, J., Jung, M., Lathière, J., Lohila, A., Mayorga, E., Moosdorf, N., Njakou, D.S., Otto, J., Papale, D., Peters, W., Peylin, P., Raymond, P., Rödenbeck, C., Saarnio, S., Schulze, E.D., Szopa, S., Thompson, R., Verkerk, P.J., Vuichard, N., Wang, R., Wattenbach, M., Zaehle, S., 2012. [The European land and inland water CO2, CO, CH4 and N2O balance between 2001 and 2005](https://doi.org/10.5194/bg-9-3357-2012) Biogeosciences, 9, 3357-3380. 
 
