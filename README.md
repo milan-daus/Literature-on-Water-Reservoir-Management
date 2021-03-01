@@ -273,6 +273,12 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 ### Social Interactions
 
+1. Ansar, A., Flyvbjerg, B., Budzier, A., Lunn, D., 2014. [Should we build more large dams? The actual costs of hydropower megaproject development](https://10.1016/j.enpol.2013.10.069) Energy Policy 69, 43-56.
+
+1. Bakken, T.H., Aase, A.G., Hagen, D., Sundt, H., Barton, D.N., Lujala, P., 2014. [Demonstrating a new framework for the comparison of environmental impacts from small- and large-scale hydropower and wind power projects](https://10.1016/j.jenvman.2014.01.050) Journal of environmental management 140, 93-101.
+
+1. Bakken, T.H., Sundt, H., Ruud, A., Harby, A., 2012. [Development of Small Versus Large Hydropower in Norway– Comparison of Environmental Impacts](https://10.1016/j.egypro.2012.03.019) Energy Procedia 20, 185-199.
+
 1. Bhaduri, A., Bogardi, J., Siddiqi, A., Voigt, H., Vörösmarty, C., Pahl-Wostl, C., Bunn, S. E., Shrivastava, P., Lawford, R., Foster, S., Kremer, H., Renaud, F. G., Bruns, A., Osuna, V. R., 2016. [Achieving Sustainable Development Goals from a Water Perspective](https://doi.org/10.3389/fenvs.2016.00064) Frontiers in Environmental Science 21, 211.
 
 1. Blackbourn, D., Rennert, U., 2008.  [Die Eroberung der Natur - Eine Geschichte der deutschen Landschaft](https://www.randomhouse.de/Paperback/Die-Eroberung-der-Natur/David-Blackbourn/Pantheon/e257994.rhd) Pantheon, München, Germany, ISBN 9783570550632.
@@ -287,7 +293,7 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 1. Dittmann, R., Froehlich, F., Pohl, R., Ostrowski, M., 2009. [Optimum multi-objective reservoir operation with emphasis on flood control and ecology](https://doi.org/10.5194/nhess-9-1973-2009) Nat. Hazards Earth Syst. Sci., 9.
 
-1. European Parliament And The Council, 2007. [on the assessment and management of flood risks](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32007L0060&from=DE)
+1. European Parliament And The Council, 2007. [On the assessment and management of flood risks](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32007L0060&from=DE)
 
 1. EU, 2000. [Good-quality water in Europe (EU Water Directive)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l28002b&from=DE)
 
@@ -320,8 +326,6 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 1. Schrenk-Bergt, C., Krause, D., Lewandowski, J., Steinberg, C.E.W., 2004. [Eutrophication Problems and Their Potential Solutions in the Artificial Shallow Lake Altmühlsee (Germany)](https://doi.org/10.2478/limre-2014-0006) Studia Quarternaria 21, 73-86. 
 
 1. Siegmund-Schultze, M., do Carmo Sobral, M., Alcoforado de Moraes, M.M.G., Almeida-Cortez, J.S., Azevedo, J.R.G., Candeias, A.L., Cierjacks, A., Gomes, E.T.A., Gunkel, G., Hartje, V., Hattermann, F.F., Kaupenjohann, M., Koch, H., Köppel, J., 2018. [The legacy of large dams and their effects on the water-land nexus](https://doi.org/10.1007/s10113-018-1414-7) Reg Environ Change 18, 1883-1888. 
-
-1. Votruba, L., Broža, V., 1989. [Water management in reservoirs](https://www.elsevier.com/books/water-management-in-reservoirs/votruba/978-0-444-98933-8) Elsevier, Amsterdam. 
 
 1. Weimer-Jehle, W., 2006. [Cross-Impact Balances: A System-Theoretical Approach to Cross-Impact Analysis](https://doi.org/10.1016/j.techfore.2005.06.005) Technological Forecasting and Social Change, 73:4, 334-361. 
 
