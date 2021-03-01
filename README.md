@@ -289,10 +289,12 @@ In this file you will find a list of references on five different research topic
 
 1. Godde, D., Engels, K., Schmid, S., Achatz, R., Haupt, O., Beer, C., Höller, S., Jaberg, H., Miller, B., Heigerth, G., Niemann, A., Perau, E., Schreiber, U., Koch, M.K., Schüttrumpf, H., Pummer, E., Günther, M., Plenker, D., 2015. [Pumpspeicherkraftwerke](https://www.springer.com/de/book/9783658077280) Heimerl, S. (Ed.), Wasserkraftprojekte, Band 2. Ausgewählte Beiträge aus der Fachzeitschrift WasserWirtschaft. Springer Vieweg, Wiesbaden, pp. 277-354. 
 
-1. Hanson, T.R., Upton Hatch, L., Clonts, H.C., 2007. [Reservoir water level impacts on recreation, property and non user values](10.1111/j.1752-1688.2002.tb05541.x) In Journal of the American water ressource association. 38/4. p.1007-1018.  
+1. Green, K., Armstrong, J.S., Graefe, A. 2007 [Methods to Elicit Forecasts from Groups: Delphi and Prediction Markets Compared](https://ideas.repec.org/a/for/ijafaa/y2007i8p17-20.html) Foresight: The International Journal of Applied Forecasting, International Institute of Forecasters, issue 8, pages 17-20, Fall. 
+
+1. Hanson, T.R., Upton Hatch, L., Clonts, H.C., 2007. [Reservoir water level impacts on recreation, property and non user values](10.1111/j.1752-1688.2002.tb05541.x) Journal of the American water ressource association. 38/4. p.1007-1018.  
 
 1. International Commission on Large Dams (ICOLD), 2013. [Talsperren in Deutschland](https://www.springer.com/de/book/9783834814470) Springer Vieweg: Wiesbaden, Germany, 2013; ISBN 978-383-48210-7-2. 
-
+ 
 1. Kirchherr, J., Charles, K.J., 2016. [The social impacts of dams. A new framework for scholarly analysis](https://doi.org/10.1016/j.eiar.2016.02.005) Environmental Impact Assessment Review 60, 99-114. 
 
 1. Kirchherr, J., Pohlner, H., Charles, K.J., 2016. [Cleaning up the big muddy. A meta-synthesis of the research on the social impact of dams](https://doi.org/10.1016/j.eiar.2016.02.007) Environmental Impact Assessment Review 60, 115-125. 
@@ -300,6 +302,8 @@ In this file you will find a list of references on five different research topic
 1. Kleinhenz, A., Koenig, A., 2018. [Home ranges and movements of resident graylag geese (Anser anser) in breeding and winter habitats in Bavaria, South Germany](https://doi.org/10.1371/journal.pone.0202443) PloS one 13, e0202443. 
 
 1. Kornijów, R., 2009. [Controversies around dam reservoirs. Benefits, costs and future](https://doi.org/10.2478/v10104-010-0001-4) Ecohydrology & Hydrobiology 9, 141-148. 
+
+1. Mauksch, S., von der Gracht, H., Gordon, T.J. 2020 [Who is an expert for foresight? A review of identification methods](https://doi.org/10.1016/j.techfore.2020.119982) Technological Forecasting and Social Change, Volume 154, May 2020, 119982. 
 
 1. Nguyen, H., Pham, T., Lobry de Bruyn, L., 2017. [Impact of Hydroelectric Dam Development and Resettlement on the Natural and Social Capital of Rural Livelihoods in Bo Hon Village in Central Vietnam](https://doi.org/10.3390/su9081422) Sustainability 9, 1422. 
 
