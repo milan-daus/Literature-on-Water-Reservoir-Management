@@ -333,4 +333,4 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 1. Zarfl, C. Lumsdon, A.E. Berlekamp, J. Tydecks, L. Tockner, K., 2015. [A global boom in hydropower dam construction](doi.10.1007/s00027-014-0377-0) Aquat Sci, 77, 161–170. 
 
-1. Zubala, T., 2009. [Influence of dam reservoir on the water quality in a small upland river](https://doi.org/10.2478/v10104-010-0010-3) Ecohydrology & Hydrobiology 9, 165-173. 
+
