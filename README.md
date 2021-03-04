@@ -273,6 +273,8 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 ### Social Interactions
 
+1. Aguiar, F. C., Martins, M. J., Silva, P. C., Fernandes, M., R., 2016. [Riverscapes downstream of hydropower dams: Effects of altered flows and historical land-use change](https://doi.org/10.1016/j.landurbplan.2016.04.009) Landscape and Urban Planning, 153, pp. 83-93. 
+
 1. Ansar, A., Flyvbjerg, B., Budzier, A., Lunn, D., 2014. [Should we build more large dams? The actual costs of hydropower megaproject development](https://10.1016/j.enpol.2013.10.069) Energy Policy 69, 43-56.
 
 1. Bakken, T.H., Aase, A.G., Hagen, D., Sundt, H., Barton, D.N., Lujala, P., 2014. [Demonstrating a new framework for the comparison of environmental impacts from small- and large-scale hydropower and wind power projects](https://10.1016/j.jenvman.2014.01.050) Journal of environmental management 140, 93-101.
@@ -283,21 +285,25 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 1. Blackbourn, D., Rennert, U., 2008.  [Die Eroberung der Natur - Eine Geschichte der deutschen Landschaft](https://www.randomhouse.de/Paperback/Die-Eroberung-der-Natur/David-Blackbourn/Pantheon/e257994.rhd) Pantheon, München, Germany, ISBN 9783570550632.
 
+1. Bogardi, J. J., Dudgeon, D., Lawford, R., Flinkerbusch, E., Meyn, A., Pahl-Wostl, C., Vielhauer, K., Vörösmarty, C., 2012. [Water security for a planet under pressure: interconnected challenges of a changing world call for sustainable solutions](https://doi.org/10.1016/j.cosust.2011.12.002) Current Opinion in Environmental Sustainability, 4, 1, pp. 35-41.
+
 1. Borchardt, D., Bogardi, J. J., Ibisch, R. B., 2016. [Integrated Water Resources Management: Concept, Research and Implementation](https://doi.org/10.1007/978-3-319-25071-7) Springer International Publishing, Cham, Germany, ISBN 978-3-319-25069-4.
 
 1. Carnea, Michael, M., 1997. [Hydropower Dams and Social Impacts](http://documents1.worldbank.org/curated/en/446311468761673943/585559324_20040283053533/additional/multi-page.pdf). A Sociological Perspective.
 
-1. Daus, M., Koberger, K., Gnutzmann, N., Hertrich, T., Glaser, R., 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://www.mdpi.com/2073-4441/11/12/2469). Water 2019, 11(12), 2469; [https://doi.org/10.3390/w11122469]
+1. Daus, M., Koberger, K., Gnutzmann, N., Hertrich, T., Glaser, R., 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://doi.org/10.3390/w11122469). Water 2019, 11(12), 2469.
 
-1. Deutscher Bundestag, 2009. [Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz)](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html)
+1. Deutscher Bundestag, 2009. [Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz)](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html).
 
 1. Dittmann, R., Froehlich, F., Pohl, R., Ostrowski, M., 2009. [Optimum multi-objective reservoir operation with emphasis on flood control and ecology](https://doi.org/10.5194/nhess-9-1973-2009) Nat. Hazards Earth Syst. Sci., 9.
 
-1. European Parliament And The Council, 2007. [On the assessment and management of flood risks](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32007L0060&from=DE)
+1. European Environment Agency, 2018. [European waters: Assessment of status and pressures 2018](https://doi.org/10.2800/303664) Publications Office of the European Union, Luxemburg.
 
-1. EU, 2000. [Good-quality water in Europe (EU Water Directive)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l28002b&from=DE)
+1. European Parliament And The Council, 2007. [On the assessment and management of flood risks](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32007L0060&from=DE).
 
-1. German Ministry of Justice, 2020. [Verordnung über die Qualität von Wasser für den menschlichen Gebrauch (Trinkwasserverordnung)](https://www.gesetze-im-internet.de/trinkwv_2001/BJNR095910001.html) 
+1. EU, 2000. [Good-quality water in Europe (EU Water Directive)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l28002b&from=DE).
+
+1. German Ministry of Justice, 2020. [Verordnung über die Qualität von Wasser für den menschlichen Gebrauch (Trinkwasserverordnung)](https://www.gesetze-im-internet.de/trinkwv_2001/BJNR095910001.html).
 
 1. Giesecke, J., Mosonyi, E., 2009. [Wasserkraftanlagen. Planung, Bau und Betrieb](https://www.springer.com/de/book/9783540889892) Springer, Heidelberg. 
 
@@ -319,17 +325,31 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 1. Kornijów, R., 2009. [Controversies around dam reservoirs. Benefits, costs and future](https://doi.org/10.2478/v10104-010-0001-4) Ecohydrology & Hydrobiology 9, 141-148. 
 
+1. Lindström, A.,  Ruud, A., 2017. [Whose Hydropower? From Conflictual Management into an Era of Reconciling Environmental Concerns; a Retake of Hydropower Governance towards Win-Win Solutions?](https://doi.org/10.3390/su9071262) Sustainability, 9, P. 1262. 
+
+1. Marshall, A. C., Duram, L. A., 2017. [Factors influencing local stakeholders' perceptions of Tisza River Basin management: The role of employment sector and education](https://doi.org/10.1016/j.envsci.2017.07.009) Environmental Science & Policy, 77, pp. 69-76. 
+
 1. Mauksch, S., von der Gracht, H., Gordon, T.J. 2020 [Who is an expert for foresight? A review of identification methods](https://doi.org/10.1016/j.techfore.2020.119982) Technological Forecasting and Social Change, Volume 154, May 2020, 119982. 
 
 1. Nguyen, H., Pham, T., Lobry de Bruyn, L., 2017. [Impact of Hydroelectric Dam Development and Resettlement on the Natural and Social Capital of Rural Livelihoods in Bo Hon Village in Central Vietnam](https://doi.org/10.3390/su9081422) Sustainability 9, 1422. 
+
+1. Pahl-Wostl, C., 2019. [Governance of the water-energy-food security nexus: A multi-level coordination challenge](https://doi.org/10.1016/j.envsci.2017.07.017) Environmental Science & Policy, 92, pp. 356--367. 
+
+1. Pahl-Wostl, C., 2015. [Water Governance in the Face of Global Change: From Understanding to Transformation](https://doi.org/10.1007/978-3-319-21855-7) Springer, Cham.
 
 1. Schrenk-Bergt, C., Krause, D., Lewandowski, J., Steinberg, C.E.W., 2004. [Eutrophication Problems and Their Potential Solutions in the Artificial Shallow Lake Altmühlsee (Germany)](https://doi.org/10.2478/limre-2014-0006) Studia Quarternaria 21, 73-86. 
 
 1. Siegmund-Schultze, M., do Carmo Sobral, M., Alcoforado de Moraes, M.M.G., Almeida-Cortez, J.S., Azevedo, J.R.G., Candeias, A.L., Cierjacks, A., Gomes, E.T.A., Gunkel, G., Hartje, V., Hattermann, F.F., Kaupenjohann, M., Koch, H., Köppel, J., 2018. [The legacy of large dams and their effects on the water-land nexus](https://doi.org/10.1007/s10113-018-1414-7) Reg Environ Change 18, 1883-1888. 
 
+1. Tilt, B., and Gerkey, D., 2016. [Dams and population displacement on China's Upper Mekong River: Implications for social capital and social--ecological resilience](https://doi.org/10.1016/j.gloenvcha.2015.11.008) Global Environmental Change 36, pp .153-162. 
+
+1. Tilt, B., Braun, Y., He, D., 2009. [Social impacts of large dam projects: A comparison of international case studies and implications for best practice](https://doi.org/10.1016/j.jenvman.2008.07.030) Journal of environmental management, 90 Suppl 3, pp. 249-57. 
+
 1. Weimer-Jehle, W., 2006. [Cross-Impact Balances: A System-Theoretical Approach to Cross-Impact Analysis](https://doi.org/10.1016/j.techfore.2005.06.005) Technological Forecasting and Social Change, 73:4, 334-361. 
 
-1. World Commission on Dams, 2000. [Dams and development. A new framework for decision-making](https://www.internationalrivers.org/sites/default/files/attached-files/world_commission_on_dams_final_report.pdf) Earthscan, London. ISBN: 1-85383-798-9 
+1. Winker, M., Schramm, E., Schulz, O., Zimmermann, M., Liehr, S., 2016. [Integrated water research and how it can help address the challenges faced by Germany's water sector](https://doi.org/10.1007/s12665-016-6029-z) Environmental Earth Sciences, 75, 17. 
+
+1. World Commission on Dams, 2000. [Dams and development. A new framework for decision-making](https://www.internationalrivers.org/sites/default/files/attached-files/world_commission_on_dams_final_report.pdf) Earthscan, London. ISBN: 1-85383-798-9.
 
 1. Zarfl, C. Lumsdon, A.E. Berlekamp, J. Tydecks, L. Tockner, K., 2015. [A global boom in hydropower dam construction](doi.10.1007/s00027-014-0377-0) Aquat Sci, 77, 161–170. 
 
