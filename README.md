@@ -1,7 +1,9 @@
 # Literature on Reservoir Management
-In this file you will find a list of references on five different research topics in reservoir management. The original source is provided via hyperlink. Where applicable, you can downbload the corresponding literature.  
+In this repository you will find the file: "Tool.xls" as a Microsoft Excel file. This tool allows you to get an overview of reservoir management implications researched in the [CHARM (CHallenges of Reservoir Management) project](https://www.project.uni-stuttgart.de/charm/en/). For information on how to use the tool, please see the file "Manual for the CHARM tool on interdisciplinary reservoir management". Furthermore there is a list of references on five different research topics in reservoir management. The original source is provided via hyperlink. Where applicable, you can downbload the corresponding literature. 
 
-## Sediment
+## Literature categorised after the topic:
+
+### Sediment
 
 1. Aguiar, F.C., Martins, M.J., Silva, P.C., Fernandes, M.R., 2016. [Riverscapes downstream of hydropower dams. Effects of altered flows and historical land-use change](https://www.sciencedirect.com/science/article/pii/S0169204616300469). Landscape and Urban Planning 153, 83-98.
 
@@ -21,9 +23,9 @@ In this file you will find a list of references on five different research topic
 
 1. Black, K. S., Tolhurst, T. J., Paterson, D. M., Hagerthey, S. E., 2002. [Working with Natural Cohesive Sediments](https://doi.org/10.1061/(ASCE)0733-9429(2002)128:1(2)). J. Hydraul. Eng. (Journal of Hydraulic Engineering) 128 (1), 2-8.
 
-1. Blöschl, G., Bierkens, M. F.P., Chambel, A., Cudennec, C., Destouni, G., Fiori, A., Kirchner, J. W., McDonnell, J. J., Savenije, H. H.G., Sivapalan, M., Stumpp, C., Toth, E., Volpi, E., Carr, G., Lupton, C., Salinas, J., Széles, B., Viglione, A., Aksoy, H., Allen, S. T., Amin, A., Andréassian, V., Arheimer, B., Aryal, S. K., Baker, V., Bardsley, E., Barendrecht, M. H., Bartosova, A., Batelaan, O., Berghuijs, W R., Beven, K., Blume, T., Bogaard, T., Borges de Amorim, P., Böttcher, M. E., Boulet, G., Breinl, K., Brilly, M., Brocca, L., Buytaert, W., Castellarin, A., Castelletti, A., Chen, X., Chen, Y., Chen, Y., Chifflard, P., Claps, P., Clark, M. P., Collins, A. L., Croke, B., Dathe, A., David, P. C., Barros, F. P. J. de, Rooij, G. de, Di Baldassarre, G., Driscoll, J. M., Duethmann, D., Dwivedi, R., Eris, E., Farmer, W. H., Feiccabrino, J., Ferguson, G., Ferrari, E., Ferraris, S., Fersch, B., Finger, D., Foglia, L., Fowler, K., Gartsman, B., Gascoin, S., Gaume, E., Gelfan, A., Geris, J., Gharari, S., Gleeson, T., Glendell, M., Gonzalez Bevacqua, A., González-Dugo, M. P., Grimaldi, S., Gupta, A. B., Guse, B., Han, D., Hannah, D., Harpold, A., Haun, S., Heal, K., Helfricht, K., Herrnegger, M., Hipsey, M., Hlaváčiková, H., Hohmann, C., Holko, L., Hopkinson, C., Hrachowitz, M., Illangasekare, T. H., Inam, A., Innocente, C., Istanbulluoglu, E., Jarihani, B., Kalantari, Z., Kalvans, A., Khanal, S., Khatami, S., Kiesel, J., Kirkby, M., Knoben, W., Kochanek, K., Kohnová, S., Kolechkina, A., Krause, S., Kreamer, D., Kreibich, H., Kunstmann, H., Lange, H., Liberato, M. L. R., Lindquist, E., Link, T., Liu, J., Loucks, D. P., Luce, C., Mahé, G., Makarieva, O., Malard, J., Mashtayeva, S., Maskey, S., Mas-Pla, J., Mavrova-Guirguinova, M., Mazzoleni, M., Mernild, S., Misstear, B. D., Montanari, A., Müller-Thomy, H., Nabizadeh, A., Nardi, F., Neale, C., Nesterova, N., Nurtaev, B., Odongo, V. O., Panda, S., Pande, S., Pang, Z., Papacharalampous, G., Perrin, C., Pfister, L., Pimentel, R., Polo, M. J., Post, D., Prieto S. C., Ramos, M.-H., Renner, M., Reynolds, J. E., Ridolfi, E., Rigon, R., Riva, M., Robertson, D. E., Rosso, R., Roy, T., Sá, J. H.M., Salvadori, G., Sandells, M., Schaefli, B., Schumann, A., Scolobig, A., Seibert, J., Servat, E., Shafiei, M., Sharma, A., Sidibe, M., Sidle, R. C., Skaugen, T., Smith, H., Spiessl, S. M., Stein, L., Steinsland, I., Strasser, U., Su, B., Szolgay, J., Tarboton, D., Tauro, F., Thirel, G., Tian, F., 2019. [Twenty-three unsolved problems in hydrology (UPH) – a community perspective](https://doi.org/10.1080/02626667.2019.1620507). Hydrological Sciences Journal 64 (10), 1141–1158.
+1. Blöschl, G., Bierkens, M. F.P., Chambel, A., Cudennec, C., Destouni, G., Fiori, A., Kirchner, J. W., McDonnell, J. J., Savenije, H. H.G., Sivapalan, M., Stumpp, C., Toth, E., Volpi, E., Carr, G., Lupton, [...] Haun, S. et al. 2019. [Twenty-three unsolved problems in hydrology (UPH) – a community perspective](https://doi.org/10.1080/02626667.2019.1620507). Hydrological Sciences Journal 64 (10), 1141–1158.
 
-1. Blöschl, G., Hall, J., Viglione, A.,  Perdigão, R.A.P., Parajka, J., Merz, B., Lun, D. Arheimer, B., Aronica, G.T., Bilibashi, A., Boháč, M., Bonacci, O., Borga, M., Čanjevac, I., Castellarin, A., Chirico, G.B., Claps, P., Frolova, N., Ganora, D., Gorbachova, L., Gül, A., Hannaford, J., Harrigan, S., Kireeva, M., Kiss, A., Kjeldsen, T.R., Kohnová, S., Koskela, J.J., Ledvinka, O., Macdonald, N., Mavrova-Guirguinova, M., Mediero, L., Merz, R., Molnar, P., Montanari, A., Murphy, C., Osuch, M., Ovcharuk, V., Radevski, I., Salinas, J.L., Sauquet, E., Šraj, M., Szolgay, J., Volpi, E., Wilson, D., Zaimi, K., Živković, N. 2019. [Changing climate both increases and decreases European river floods](https://doi.org/10.1038/s41586-019-1495-6). Nature, 573 (7772), 108-111.
+1. Blöschl, G., Hall, J., Viglione, A.,  Perdigão, R.A.P., Parajka, J., Merz, B., Lun, D. Arheimer, B., Aronica, G.T., Bilibashi, A., Boháč, M., Bonacci, O., Borga, M., Čanjevac, I., Castellarin, A. et al. 2019. [Changing climate both increases and decreases European river floods](https://doi.org/10.1038/s41586-019-1495-6). Nature, 573 (7772), 108-111.
 
 1. Döll, P., Fiedler, K., Zhang, J., 2009. [Global-scale analysis of river flow alterations due to water withdrawals and reservoirs](https://doi.org/10.5194/hess-13-2413-2009) Hydrol. Earth Syst. Sci. 13, 2413–2432.
 
@@ -89,44 +91,9 @@ In this file you will find a list of references on five different research topic
 
 1. White, R., 2001. [Evacuation of sediments from reservoirs](http://dx.doi.org/10.1680/eosfr.29538) Thomas Telford Publishing. 
 
-1. Yoon, Y.N., 1992. [The state and the perspective of the direct sediment removal methods from reservoirs](https://doi.org/10.1080/15715124.2019.1583667) International Journal of Sediment Research, 7(2), 99–116. 
+1. Yoon, Y.N., 1992. [The state and the perspective of the direct sediment removal methods from reservoirs](https://doi.org/10.1080/15715124.2019.1583667) International Journal of Sediment Research, 7(2), 99–116.
 
-## Greenhouse Gas emissions
-
-1. Barros, N., Cole, J.J., Tranvik, L.J., Prairie, Y.T., Bastviken, D., Huszar, V.L.M., del Giorgio, P., Roland, F., 2011. [Carbon emission from hydroelectric reservoirs linked to reservoir age and latitude. Nature Geoscience](https://www.nature.com/articles/ngeo1211), 4, 593-596.
-
-1. Beaulieu, J.J., Smolenski, R.L., Nietch, C.T., Townsend-Small, A., Elovitz, M.S., 2014. [High methane emissions from a midlatitude reservoir draining an agricultural watershed](https://pubs.acs.org/doi/10.1021/es501871g). Environmental Science &amp; Technology, 48 (19), 11100-11108. [https://doi.org/10.1021/es501871g](https://doi.org/10.1021/es501871g).
-
-1. Deemer, B.R., Harrison, J.A., Li, S., Beaulieu, J.J., DelSontro, T., Barros, N., Bezerra-Neto, J.F., Powers, S.M., dos Santos, M.A., Vonk, J.A., 2016. [Greenhouse Gas Emissions from Reservoir Water Surfaces: A New Global Synthesis.](https://academic.oup.com/bioscience/article/66/11/949/2754271) BioScience 66, 949–964. https://doi.org/10.1093/biosci/biw117
-
-1. Deborde, J., Anschutz, P., Guérin, F., Poirier, D., Marty, D., Boucher, G., Thouzeau, G., Canton, M., Abril, G., 2010. [Methane sources, sinks and fluxes in a temperate tidal Lagoon: The Arcachon lagoon](https://www.sciencedirect.com/science/article/pii/S0272771410002738) (SW France). Estuarine, Coastal and Shelf Science, Elsevier, 89, 256-266 (hal-00524642)
-
-1. DelSontro, T., McGinnis, D.F., Sobek, S., Ostrovsky, I., Wehrli, B., 2010. [Extreme methane emissions from a Swiss hydropower reservoir: Contribution from bubbling sediments](https://pubs.acs.org/doi/10.1021/es9031369). Environmental Science &amp; Technology, 44 (7), 2419-2425. https://doi.org/10.1021/es9031369
-
-1. Encinas Fernandez, J., Peeters, F., Hofmann, H., 2014. [Importance of the autumn overturn and anoxic conditions in the hypolimnion for the annual methane emissions from a temperate lake](https://doi.org/10.1021/es4056164) Environmental Science & Technology, 48, 7297-7304.
-
-1. Engle, D., Melack, J.M., 2000. [Methane emissions from an Amazon floodplain lake: Enhanced release during episodic mixing and during falling water](https://doi.org/10.1023/A:1006389124823) Biogeochemistry, 51 (1), 71-90. 
-
-1. Harrison, J.A., Deemer, B.R., Birchfield, M.K., O'Malley, M.T., 2017. [Reservoir water-level drawdowns accelerate and amplify methane emission](https://doi.org/10.1021/acs.est.6b03185) Environmental Science & Technology, 51(3), 1267-1277. 
-
-1. Hertwich, E.G., 2013. [Addressing biogenic greenhouse gas emissions from hydropower in LCA](https://doi.org/10.1021/es401820p) Environ. Sci. Technol., 47(17): 9604-11. 
-
-1. Li, S. Y., Zhang, Q. F., Bush, R. T. and Sullivan, L. A., 2015. [Methane and CO2 emissions from China's hydroelectric reservoirs: a new quantitative synthesis](https://doi.org/10.1007/s11356-015-4083-9) Environmental Science and Pollution Research International 22(7): 5325–5339. 
-
-1. Luyssaert, S., Abri,l G., Andres, R., Bastviken, D., Bellassen, V., Bergamaschi, P., Bousquet, P., Chevallier, F., Ciais, P., Corazza, M., Dechow, R., Erb, K.H., Etiope, G., Fortems-Cheiney, A., Grassi, G., Hartmann, J., Jung, M., Lathière, J., Lohila, A., Mayorga, E., Moosdorf, N., Njakou, D.S., Otto, J., Papale, D., Peters, W., Peylin, P., Raymond, P., Rödenbeck, C., Saarnio, S., Schulze, E.D., Szopa, S., Thompson, R., Verkerk, P.J., Vuichard, N., Wang, R., Wattenbach, M., Zaehle, S., 2012. [The European land and inland water CO2, CO, CH4 and N2O balance between 2001 and 2005](https://doi.org/10.5194/bg-9-3357-2012) Biogeosciences, 9, 3357-3380. 
-
-1. Maeck, A., DelSontro, T., McGinnis, D. F., Fischer, H., Flury, S., Schmidt, M., Fietzek, P. and Lorke, A., 2013. [Sediment trapping by dams creates methane emission hot spots](https://doi.org/10.1021/es4003907) Environmental Science and Technology 47(15): 8130–8137. 
-
-1. Maeck, A., Hofmann, H., Lorke, A., 2014. [Pumping methane out of aquatic sediments - ebullition forcing mechanisms in an impounded river](https://doi.org/10.5194/bg-11-2925-2014) Biogeosciences, 11 (11), 2925-2938. 
-
-1. Raymond, P.A., Hartmann, J., Lauerwald, R., Sobek, S., McDonald, C., Hoover, M., Butman, D., Striegl, R., Mayorga, E., Humborg, C., Kortelainen, P., Dürr, H., Meybeck, M., Ciais, P., Guth, P., 2013. [Global carbon dioxide emissions from inland waters](https://doi.org/10.1038/nature12760) Nature, 503 (7476), 355-9. 
-
-1. Sobek, S., DelSontro, T., Wongfun, N., Wehrli, B., 2012. [Extreme organic carbon burial fuels intense methane bubbling in a temperate reservoir](https://doi.org/10.1029/2011gl050144) Geophysical Research Letters, 39 (1). 
-
-1. Varadharajan, C., Hemond, H.F., 2012. [Time-series analysis of high-resolution ebullition fluxes from a stratified, freshwater lake](https://doi.org/10.1029/2011JG001866) Journal of Geophysical Research: Biogeosciences, 117 (G2). 
-
-
-## Biofilms
+### Biofilms
 
 1. Battin, T.J., Besemer, K., Bengtsson, M.M., Romani, A.M., Packmann, A.I., 2016. [The ecology and biogeochemistry of stream biofilms](https://www.nature.com/articles/nrmicro.2016.15). Nat. Rev. Microbiol. 14, 251–263. [https://doi.org/10.1038/nrmicro.2016.15]
 
@@ -138,7 +105,15 @@ In this file you will find a list of references on five different research topic
 
 1. Chen, X.D., Zhang, C.K., Zhou, Z., Gong, Z., Zhou, J.J., Tao, J.F., Paterson, D.M., Feng, Q., 2017. [Stabilizing Effects of Bacterial Biofilms: EPS Penetration and Redistribution of Bed Stability Down the Sediment Profile](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017JG004050). J. Geophys. Res. Biogeosciences 122, 3113–3125. [https://doi.org/10.1002/2017JG004050]
 
+1. Chen, X., Zhang, C., Paterson, D.M., Townend, I.H., Jin, C., Zhou, Z., Gong, Z., Feng, Q., 2019. [The effect of cyclic variation of shear stress on non-cohesive sediment stabilization by microbial biofilms: the role of ‘biofilm precursors’](https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.4573). Earth Surf. Process. Landf. 44, 1471–1481. https://doi.org/10.1002/esp.4573
+
+1. Chen, X.D., Zhang, C.K., Paterson, D.M., Thompson, C.E.L., Townend, I.H., Gong, Z., Zhou, Z., Feng, Q., 2017. [Hindered erosion: The biological mediation of noncohesive sediment behavior](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016WR020105). Water Resour. Res. 53, 4787–4801. https://doi.org/10.1002/2016WR020105
+
+1. Cheng, W., Fang, H., Lai, H., Huang, L., Dey, S., 2018. [Effects of biofilm on turbulence characteristics and the transport of fine sediment](https://link.springer.com/article/10.1007%2Fs11368-017-1859-1). J. Soils Sediments 18, 3055–3069. https://doi.org/10.1007/s11368-017-1859-1
+
 1. Dang, H., Lovell, C.R., 2015. [Microbial Surface Colonization and Biofilm Development in Marine Environments.](https://mmbr.asm.org/content/80/1/91) Microbiol. Mol. Biol. Rev. MMBR 80, 91–138. [https://doi.org/10.1128/MMBR.00037-15]
+
+1. Dalu, T., Cuthbert, R.N., Chavalala, T.L., Froneman, P.W., Wasserman, R.J., 2020. [Assessing sediment particle-size effects on benthic algal colonisation and total carbohydrate production](https://www.sciencedirect.com/science/article/abs/pii/S0048969719363442). Sci. Total Environ. 710, 136348. https://doi.org/10.1016/j.scitotenv.2019.136348
 
 1. Danovaro, R., Pusceddu, A., 2007. [Biodiversity and ecosystem functioning in coastal lagoons: Does microbial diversity play any role](https://www.sciencedirect.com/science/article/pii/S0272771407001692)? Estuar. Coast. Shelf Sci., Biodiversity and Ecosystem Functioning in Coastal and Transitional Waters 75, 4–12. [https://doi.org/10.1016/j.ecss.2007.02.030]
 
@@ -150,7 +125,9 @@ In this file you will find a list of references on five different research topic
 
 1. Fang, H., Zhao, H., Shang, Q., Chen, M., 2012. [Effect of biofilm on the rheological properties of cohesive sediment](https://doi.org/10.1007/s10750-012-1140-y) Hydrobiologia 694, 171–181. 
 
-1. Fang, H.W., Lai, H.J., Cheng, W., Huang, L., He, G.J., 2017. [Modeling sediment transport with an integrated view of the biofilm effects](https://doi.org/10.1002/2017WR020628) Water Resour. Res. 53, 7536–7557. 
+1. Fang, H.W., Lai, H.J., Cheng, W., Huang, L., He, G.J., 2017. [Modeling sediment transport with an integrated view of the biofilm effects](https://doi.org/10.1002/2017WR020628) Water Resour. Res. 53, 7536–7557.
+
+1. Fang, H., Chen, Y., Huang, L., He, G., 2017. [Biofilm growth on cohesive sediment deposits: laboratory experiment and model validation](https://link.springer.com/article/10.1007/s10750-017-3224-1). Hydrobiologia 799, 261–274. https://doi.org/10.1007/s10750-017-3224-1
 
 1. Fischer, H., Pusch, M., 2001. [Comparison of bacterial production in sediments, epiphyton and the pelagic zone of a lowland river](https://doi.org/10.1046/j.1365-2427.2001.00753.x) Freshw. Biol. 46, 1335–1348. 
 
@@ -170,9 +147,13 @@ In this file you will find a list of references on five different research topic
 
 1. Gerbersdorf, S.U., Wieprecht, S., 2015. [Biostabilization of cohesive sediments: revisiting the role of abiotic conditions, physiology and diversity of microbes, polymeric secretion, and biofilm architecture](https://doi.org/10.1111/gbi.12115) Geobiology 13, 68–97. 
 
+1. Gerbersdorf, S.U., Koca, K., de Beer, D., Chennu, A., Noss, C., Risse-Buhl, U., Weitere, M., Eiff, O., Wagner, M., Aberle, J., Schweikert, M., Terheiden, K., 2020. [Exploring flow-biofilm-sediment interactions: Assessment of current status and future challenges](https://www.sciencedirect.com/science/article/abs/pii/S0043135420307193). Water Res. 185, 116182. https://doi.org/10.1016/j.watres.2020.116182
+
 1. Gibbs, R.J., 1983. [Effect of natural organic coatings on the coagulation of particles](https://doi.org/10.1021/es00110a011) Environ. Sci. Technol. 17, 237–240. 
 
-1. Gilbertson, W.W., Solan, M., Prosser, J.I., 2012. [Differential effects of microorganism–invertebrate interactions on benthic nitrogen cycling](https://doi.org/10.1111/j.1574-6941.2012.01400.x) FEMS Microbiol. Ecol. 82, 11–22. 
+1. Gilbertson, W.W., Solan, M., Prosser, J.I., 2012. [Differential effects of microorganism–invertebrate interactions on benthic nitrogen cycling](https://doi.org/10.1111/j.1574-6941.2012.01400.x) FEMS Microbiol. Ecol. 82, 11–22.
+
+1. Gu, Y., Zhang, Y., Qian, D., Tang, Y., Zhou, Y., Zhu, D.Z., 2019. [Effects of microbial activity on incipient motion and erosion of sediment](https://link.springer.com/article/10.1007%2Fs10652-019-09706-9). Environ. Fluid Mech. https://doi.org/10.1007/s10652-019-09706-9
 
 1. H. Tuson, H., B. Weibel, D., 2013. [Bacteria–surface interactions](https://doi.org/10.1039/C3SM27705D) Soft Matter 9, 4368–4380. 
 
@@ -194,18 +175,71 @@ In this file you will find a list of references on five different research topic
 
 1. Righetti, M., Lucarelli, C., 2010. [Resuspension phenomena of benthic sediments: The role of cohesion and biological adhesion](https://doi.org/10.1002/rra.1296) River Res. Appl. 26, 404–413. 
 
+1. Roncoroni, M., Brandani, J., Battin, T.I., Lane, S.N., 2019. [Ecosystem engineers: Biofilms and the ontogeny of glacier floodplain ecosystems](https://onlinelibrary.wiley.com/doi/abs/10.1002/wat2.1390). Wiley Interdiscip. Rev. Water 6, e1390. https://doi.org/10.1002/wat2.1390
+
+1. Schmidt, H., Thom, M., King, L., Wieprecht, S., Gerbersdorf, S.U., 2016. [The effect of seasonality upon the development of lotic biofilms and microbial biostabilisation](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.12760). Freshw. Biol. 61, 963–978. https://doi.org/10.1111/fwb.12760
+
 1. Schultz, P., Urban, N.R., 2008. [Effects of bacterial dynamics on organic matter decomposition and nutrient release from sediments: A modeling study](https://doi.org/10.1016/j.ecolmodel.2007.06.026) Ecol. Model. 210, 1–14. 
 
 1. Shang, Q., Fang, H., Zhao, H., He, G., Cui, Z., 2014. [Biofilm effects on size gradation, drag coefficient and settling velocity of sediment particles](https://doi.org/10.1016/S1001-6279(14)60060-3) Int. J. Sediment Res. 29, 471–480. 
 
 1. Shannon, M.A., Bohn, P.W., Elimelech, M., Georgiadis, J.G., Mariñas, B.J., Mayes, A.M., 2008. [Science and technology for water purification in the coming decades](https://doi.org/10.1038/nature06599) Nature 452, 301–310. 
 
-1. Stoodley, P., Sauer, K., Davies, D.G., Costerton, J.W., 2002. [Biofilms as Complex Differentiated Communities](https://doi.org/10.1146/annurev.micro.56.012302.160705) Annu. Rev. Microbiol. 56, 187–209. 
+1. Stoodley, P., Sauer, K., Davies, D.G., Costerton, J.W., 2002. [Biofilms as Complex Differentiated Communities](https://doi.org/10.1146/annurev.micro.56.012302.160705) Annu. Rev. Microbiol. 56, 187–209.
+
+1. Thom, M., Schmidt, H., Gerbersdorf, S.U., Wieprecht, S., 2015. [Seasonal biostabilization and erosion behavior of fluvial biofilms under different hydrodynamic and light conditions](https://www.sciencedirect.com/science/article/abs/pii/S1001627915000633). Int. J. Sediment Res. 30, 273–284. https://doi.org/10.1016/j.ijsrc.2015.03.015
+
+1. van de Lageweg, W.I., McLelland, S.J., Parsons, D.R., 2018. [Quantifying biostabilisation effects of biofilm-secreted and extracted extracellular polymeric substances (EPSs) on sandy substrate](https://esurf.copernicus.org/articles/6/203/2018/). Earth Surf. Dyn. 6, 203–215. https://doi.org/10.5194/esurf-6-203-2018
 
 1. Vignaga, E., Sloan, D.M., Luo, X., Haynes, H., Phoenix, V.R., Sloan, W.T., 2013. [Erosion of biofilm-bound fluvial sediments](https://doi.org/10.1038/ngeo1891) Nat. Geosci. 6, 770–774. 
 
+1. Waqas, A., Neumeier, U., Rochon, A., 2020. [Seasonal changes in sediment erodibility associated with biostabilization in a subarctic intertidal environment, St. Lawrence Estuary, Canada](https://www.sciencedirect.com/science/article/abs/pii/S0272771420306661). Estuar. Coast. Shelf Sci. 245, 106935. https://doi.org/10.1016/j.ecss.2020.106935
 
-## Cyanobacterial blooms
+1. Zhou, Y., Yao, X., Gu, Y., Qian, D., Tang, Y., Zhang, Y., Zhu, D.Z., Zhang, T., 2021. [Biological effects on incipient motion behavior of sediments with different organic matter content](https://link.springer.com/article/10.1007/s11368-020-02807-9). J. Soils Sediments 21, 627–640. https://doi.org/10.1007/s11368-020-02807-9
+
+### Greenhouse Gas emissions
+
+1. Almeida, R.M., Paranaíba, J.R., Barbosa, Í., Sobek, S., Kosten, S., Linkhorst, A., Mendonça, R., Quadra, G., Roland, F., Barros, N. 2019. [Carbon dioxide emission from drawdown areas of a Brazilian reservoir is linked to surrounding land cover](https://doi.org/10.1007/s00027-019-0665-9)  Aquat Sci 81, 68 (2019). 
+
+1. Barros, N., Cole, J.J., Tranvik, L.J., Prairie, Y.T., Bastviken, D., Huszar, V.L.M., del Giorgio, P., Roland, F., 2011. [Carbon emission from hydroelectric reservoirs linked to reservoir age and latitude. Nature Geoscience](https://www.nature.com/articles/ngeo1211), 4, 593-596.
+
+1. Beaulieu, J.J., Smolenski, R.L., Nietch, C.T., Townsend-Small, A., Elovitz, M.S., 2014. [High methane emissions from a midlatitude reservoir draining an agricultural watershed](https://pubs.acs.org/doi/10.1021/es501871g). Environmental Science &amp; Technology, 48 (19), 11100-11108. [https://doi.org/10.1021/es501871g](https://doi.org/10.1021/es501871g).
+
+1. Deemer, B.R., Harrison, J.A., Li, S., Beaulieu, J.J., DelSontro, T., Barros, N., Bezerra-Neto, J.F., Powers, S.M., dos Santos, M.A., Vonk, J.A., 2016. [Greenhouse Gas Emissions from Reservoir Water Surfaces: A New Global Synthesis.](https://academic.oup.com/bioscience/article/66/11/949/2754271) BioScience 66, 949–964. https://doi.org/10.1093/biosci/biw117
+
+1. Deborde, J., Anschutz, P., Guérin, F., Poirier, D., Marty, D., Boucher, G., Thouzeau, G., Canton, M., Abril, G., 2010. [Methane sources, sinks and fluxes in a temperate tidal Lagoon: The Arcachon lagoon](https://www.sciencedirect.com/science/article/pii/S0272771410002738) (SW France). Estuarine, Coastal and Shelf Science, Elsevier, 89, 256-266 (hal-00524642)
+
+1. DelSontro, T., McGinnis, D.F., Sobek, S., Ostrovsky, I., Wehrli, B., 2010. [Extreme methane emissions from a Swiss hydropower reservoir: Contribution from bubbling sediments](https://pubs.acs.org/doi/10.1021/es9031369). Environmental Science &amp; Technology, 44 (7), 2419-2425. https://doi.org/10.1021/es9031369
+
+1. Encinas Fernandez, J., Peeters, F., Hofmann, H., 2014. [Importance of the autumn overturn and anoxic conditions in the hypolimnion for the annual methane emissions from a temperate lake](https://doi.org/10.1021/es4056164) Environmental Science & Technology, 48, 7297-7304.
+
+1. Encinas Fernandez, J., Hofmann, H., Peeters, F. 2020. [Diurnal Pumped‐Storage Operation Minimizes Methane Ebullition Fluxes From Hydropower Reservoirs](https://doi.org/10.1029/2020WR027221) Water Ressources Research, Volume 56, Issue 12. 
+
+1. Engle, D., Melack, J.M., 2000. [Methane emissions from an Amazon floodplain lake: Enhanced release during episodic mixing and during falling water](https://doi.org/10.1023/A:1006389124823) Biogeochemistry, 51 (1), 71-90. 
+
+1. Harrison, J.A., Deemer, B.R., Birchfield, M.K., O'Malley, M.T., 2017. [Reservoir water-level drawdowns accelerate and amplify methane emission](https://doi.org/10.1021/acs.est.6b03185) Environmental Science & Technology, 51(3), 1267-1277. 
+
+1. Hertwich, E.G., 2013. [Addressing biogenic greenhouse gas emissions from hydropower in LCA](https://doi.org/10.1021/es401820p) Environ. Sci. Technol., 47(17): 9604-11. 
+
+1. Kosten, S., van den Berg, S., Mendonça, R., Paranaíba, J. R., Roland, F., Sobek, S., Van Den Hoek, J., Barros N. 2018. [Extreme drought boosts CO2 and CH4 emissions from reservoir drawdown areas](https://doi.org/10.1080/20442041.2018.1483126) Inland Waters Volume 8, 2018 - Issue 3.
+
+1. Li, S. Y., Zhang, Q. F., Bush, R. T. and Sullivan, L. A., 2015. [Methane and CO2 emissions from China's hydroelectric reservoirs: a new quantitative synthesis](https://doi.org/10.1007/s11356-015-4083-9) Environmental Science and Pollution Research International 22(7): 5325–5339. 
+
+1. Linkhorst, A., Hiller, C., DelSontro, T., Azevedo, G.M., Barros, N., Mendonça, R., Sobek, S. 2020. [Comparing methane ebullition variability across space and time in a Brazilian reservoir](https://doi.org/10.1002/lno.11410)  Limnology and Oceanography, Volume 65, Issue 7. 
+
+1. Luyssaert, S., Abri,l G., Andres, R., Bastviken, D., Bellassen, V., Bergamaschi, P., Bousquet, P., Chevallier, F., Ciais, P., Corazza, M., Dechow, R., Erb, K.H., Etiope, G., Fortems-Cheiney, A., Grassi, G., Hartmann, J., Jung, M., Lathière, J., Lohila, A., Mayorga, E., Moosdorf, N., Njakou, D.S., Otto, J., Papale, D., Peters, W., Peylin, P., Raymond, P., Rödenbeck, C., Saarnio, S., Schulze, E.D., Szopa, S., Thompson, R., Verkerk, P.J., Vuichard, N., Wang, R., Wattenbach, M., Zaehle, S., 2012. [The European land and inland water CO2, CO, CH4 and N2O balance between 2001 and 2005](https://doi.org/10.5194/bg-9-3357-2012) Biogeosciences, 9, 3357-3380. 
+
+1. Maeck, A., DelSontro, T., McGinnis, D. F., Fischer, H., Flury, S., Schmidt, M., Fietzek, P. and Lorke, A., 2013. [Sediment trapping by dams creates methane emission hot spots](https://doi.org/10.1021/es4003907) Environmental Science and Technology 47(15): 8130–8137. 
+
+1. Maeck, A., Hofmann, H., Lorke, A., 2014. [Pumping methane out of aquatic sediments - ebullition forcing mechanisms in an impounded river](https://doi.org/10.5194/bg-11-2925-2014) Biogeosciences, 11 (11), 2925-2938. 
+
+1. Raymond, P.A., Hartmann, J., Lauerwald, R., Sobek, S., McDonald, C., Hoover, M., Butman, D., Striegl, R., Mayorga, E., Humborg, C., Kortelainen, P., Dürr, H., Meybeck, M., Ciais, P., Guth, P., 2013. [Global carbon dioxide emissions from inland waters](https://doi.org/10.1038/nature12760) Nature, 503 (7476), 355-9. 
+
+1. Sobek, S., DelSontro, T., Wongfun, N., Wehrli, B., 2012. [Extreme organic carbon burial fuels intense methane bubbling in a temperate reservoir](https://doi.org/10.1029/2011gl050144) Geophysical Research Letters, 39 (1). 
+
+1. Varadharajan, C., Hemond, H.F., 2012. [Time-series analysis of high-resolution ebullition fluxes from a stratified, freshwater lake](https://doi.org/10.1029/2011JG001866) Journal of Geophysical Research: Biogeosciences, 117 (G2).
+
+### Cyanobacterial blooms
 
 1. Bullerjahn, G.S., McKay, R.M., Davis, T.W., Baker, D.B., Boyer, G.L., Anglada, L.V., Doucette, G.J., Ho, J.C., Irwin, E.G., Kling, C.L., Kudela, R.M., Kurmayer, R., Michalak, A.M., Ortiz, J.D., Otten, T.G., Paerl, H.W., Qin, B., Sohngen, B.L., Stumpf, R.P., Visser, P.M., Wilhelm, S.W., 2016. [Global solutions to regional problems: Collecting global expertise to address the problem of harmful cyanobacterial blooms](https://www.sciencedirect.com/science/article/pii/S1568988315301657). A Lake Erie case study. Harmful Algae 54, 223–238. [https://doi.org/10.1016/j.hal.2016.01.003]
 
@@ -237,28 +271,39 @@ In this file you will find a list of references on five different research topic
 
 1. Salmaso, N., Buzzi, F., Garibaldi, L., Morabito, G., Simona, M., 2012. [Effects of nutrient availability and temperature on phytoplankton development: a case study from large lakes south of the Alps](https://doi.org/10.1007/s00027-012-0248-5) Aquat. Sci. 74, 555–570. 
 
+### Social Interactions
 
-## Social Interactions
+1. Aguiar, F. C., Martins, M. J., Silva, P. C., Fernandes, M., R., 2016. [Riverscapes downstream of hydropower dams: Effects of altered flows and historical land-use change](https://doi.org/10.1016/j.landurbplan.2016.04.009) Landscape and Urban Planning, 153, pp. 83-93. 
+
+1. Ansar, A., Flyvbjerg, B., Budzier, A., Lunn, D., 2014. [Should we build more large dams? The actual costs of hydropower megaproject development](https://10.1016/j.enpol.2013.10.069) Energy Policy 69, 43-56.
+
+1. Bakken, T.H., Aase, A.G., Hagen, D., Sundt, H., Barton, D.N., Lujala, P., 2014. [Demonstrating a new framework for the comparison of environmental impacts from small- and large-scale hydropower and wind power projects](https://10.1016/j.jenvman.2014.01.050) Journal of environmental management 140, 93-101.
+
+1. Bakken, T.H., Sundt, H., Ruud, A., Harby, A., 2012. [Development of Small Versus Large Hydropower in Norway– Comparison of Environmental Impacts](https://10.1016/j.egypro.2012.03.019) Energy Procedia 20, 185-199.
 
 1. Bhaduri, A., Bogardi, J., Siddiqi, A., Voigt, H., Vörösmarty, C., Pahl-Wostl, C., Bunn, S. E., Shrivastava, P., Lawford, R., Foster, S., Kremer, H., Renaud, F. G., Bruns, A., Osuna, V. R., 2016. [Achieving Sustainable Development Goals from a Water Perspective](https://doi.org/10.3389/fenvs.2016.00064) Frontiers in Environmental Science 21, 211.
 
 1. Blackbourn, D., Rennert, U., 2008.  [Die Eroberung der Natur - Eine Geschichte der deutschen Landschaft](https://www.randomhouse.de/Paperback/Die-Eroberung-der-Natur/David-Blackbourn/Pantheon/e257994.rhd) Pantheon, München, Germany, ISBN 9783570550632.
 
+1. Bogardi, J. J., Dudgeon, D., Lawford, R., Flinkerbusch, E., Meyn, A., Pahl-Wostl, C., Vielhauer, K., Vörösmarty, C., 2012. [Water security for a planet under pressure: interconnected challenges of a changing world call for sustainable solutions](https://doi.org/10.1016/j.cosust.2011.12.002) Current Opinion in Environmental Sustainability, 4, 1, pp. 35-41.
+
 1. Borchardt, D., Bogardi, J. J., Ibisch, R. B., 2016. [Integrated Water Resources Management: Concept, Research and Implementation](https://doi.org/10.1007/978-3-319-25071-7) Springer International Publishing, Cham, Germany, ISBN 978-3-319-25069-4.
 
 1. Carnea, Michael, M., 1997. [Hydropower Dams and Social Impacts](http://documents1.worldbank.org/curated/en/446311468761673943/585559324_20040283053533/additional/multi-page.pdf). A Sociological Perspective.
 
-1. Daus, M., Koberger, K., Gnutzmann, N., Hertrich, T., Glaser, R., 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://www.mdpi.com/2073-4441/11/12/2469). Water 2019, 11(12), 2469; [https://doi.org/10.3390/w11122469]
+1. Daus, M., Koberger, K., Gnutzmann, N., Hertrich, T., Glaser, R., 2019. [Transferring Water While Transforming Landscape: New Societal Implications, Perceptions and Challenges of Management in the Reservoir System Franconian Lake District](https://doi.org/10.3390/w11122469). Water 2019, 11(12), 2469.
 
-1. Deutscher Bundestag, 2009. [Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz)](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html)
+1. Deutscher Bundestag, 2009. [Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz)](https://www.gesetze-im-internet.de/whg_2009/BJNR258510009.html).
 
 1. Dittmann, R., Froehlich, F., Pohl, R., Ostrowski, M., 2009. [Optimum multi-objective reservoir operation with emphasis on flood control and ecology](https://doi.org/10.5194/nhess-9-1973-2009) Nat. Hazards Earth Syst. Sci., 9.
 
-1. European Parliament And The Council, 2007. [on the assessment and management of flood risks](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32007L0060&from=DE)
+1. European Environment Agency, 2018. [European waters: Assessment of status and pressures 2018](https://doi.org/10.2800/303664) Publications Office of the European Union, Luxemburg.
 
-1. EU, 2000. [Good-quality water in Europe (EU Water Directive)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l28002b&from=DE)
+1. European Parliament And The Council, 2007. [On the assessment and management of flood risks](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32007L0060&from=DE).
 
-1. German Ministry of Justice, 2020. [Verordnung über die Qualität von Wasser für den menschlichen Gebrauch (Trinkwasserverordnung)](https://www.gesetze-im-internet.de/trinkwv_2001/BJNR095910001.html) 
+1. EU, 2000. [Good-quality water in Europe (EU Water Directive)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l28002b&from=DE).
+
+1. German Ministry of Justice, 2020. [Verordnung über die Qualität von Wasser für den menschlichen Gebrauch (Trinkwasserverordnung)](https://www.gesetze-im-internet.de/trinkwv_2001/BJNR095910001.html).
 
 1. Giesecke, J., Mosonyi, E., 2009. [Wasserkraftanlagen. Planung, Bau und Betrieb](https://www.springer.com/de/book/9783540889892) Springer, Heidelberg. 
 
@@ -266,10 +311,12 @@ In this file you will find a list of references on five different research topic
 
 1. Godde, D., Engels, K., Schmid, S., Achatz, R., Haupt, O., Beer, C., Höller, S., Jaberg, H., Miller, B., Heigerth, G., Niemann, A., Perau, E., Schreiber, U., Koch, M.K., Schüttrumpf, H., Pummer, E., Günther, M., Plenker, D., 2015. [Pumpspeicherkraftwerke](https://www.springer.com/de/book/9783658077280) Heimerl, S. (Ed.), Wasserkraftprojekte, Band 2. Ausgewählte Beiträge aus der Fachzeitschrift WasserWirtschaft. Springer Vieweg, Wiesbaden, pp. 277-354. 
 
-1. Hanson, T.R., Upton Hatch, L., Clonts, H.C., 2007. [Reservoir water level impacts on recreation, property and non user values](10.1111/j.1752-1688.2002.tb05541.x) In Journal of the American water ressource association. 38/4. p.1007-1018.  
+1. Green, K., Armstrong, J.S., Graefe, A. 2007 [Methods to Elicit Forecasts from Groups: Delphi and Prediction Markets Compared](https://ideas.repec.org/a/for/ijafaa/y2007i8p17-20.html) Foresight: The International Journal of Applied Forecasting, International Institute of Forecasters, issue 8, pages 17-20, Fall. 
+
+1. Hanson, T.R., Upton Hatch, L., Clonts, H.C., 2007. [Reservoir water level impacts on recreation, property and non user values](10.1111/j.1752-1688.2002.tb05541.x) Journal of the American water ressource association. 38/4. p.1007-1018.  
 
 1. International Commission on Large Dams (ICOLD), 2013. [Talsperren in Deutschland](https://www.springer.com/de/book/9783834814470) Springer Vieweg: Wiesbaden, Germany, 2013; ISBN 978-383-48210-7-2. 
-
+ 
 1. Kirchherr, J., Charles, K.J., 2016. [The social impacts of dams. A new framework for scholarly analysis](https://doi.org/10.1016/j.eiar.2016.02.005) Environmental Impact Assessment Review 60, 99-114. 
 
 1. Kirchherr, J., Pohlner, H., Charles, K.J., 2016. [Cleaning up the big muddy. A meta-synthesis of the research on the social impact of dams](https://doi.org/10.1016/j.eiar.2016.02.007) Environmental Impact Assessment Review 60, 115-125. 
@@ -278,18 +325,32 @@ In this file you will find a list of references on five different research topic
 
 1. Kornijów, R., 2009. [Controversies around dam reservoirs. Benefits, costs and future](https://doi.org/10.2478/v10104-010-0001-4) Ecohydrology & Hydrobiology 9, 141-148. 
 
+1. Lindström, A.,  Ruud, A., 2017. [Whose Hydropower? From Conflictual Management into an Era of Reconciling Environmental Concerns; a Retake of Hydropower Governance towards Win-Win Solutions?](https://doi.org/10.3390/su9071262) Sustainability, 9, P. 1262. 
+
+1. Marshall, A. C., Duram, L. A., 2017. [Factors influencing local stakeholders' perceptions of Tisza River Basin management: The role of employment sector and education](https://doi.org/10.1016/j.envsci.2017.07.009) Environmental Science & Policy, 77, pp. 69-76. 
+
+1. Mauksch, S., von der Gracht, H., Gordon, T.J. 2020 [Who is an expert for foresight? A review of identification methods](https://doi.org/10.1016/j.techfore.2020.119982) Technological Forecasting and Social Change, Volume 154, May 2020, 119982. 
+
 1. Nguyen, H., Pham, T., Lobry de Bruyn, L., 2017. [Impact of Hydroelectric Dam Development and Resettlement on the Natural and Social Capital of Rural Livelihoods in Bo Hon Village in Central Vietnam](https://doi.org/10.3390/su9081422) Sustainability 9, 1422. 
+
+1. Pahl-Wostl, C., 2019. [Governance of the water-energy-food security nexus: A multi-level coordination challenge](https://doi.org/10.1016/j.envsci.2017.07.017) Environmental Science & Policy, 92, pp. 356--367. 
+
+1. Pahl-Wostl, C., 2015. [Water Governance in the Face of Global Change: From Understanding to Transformation](https://doi.org/10.1007/978-3-319-21855-7) Springer, Cham.
 
 1. Schrenk-Bergt, C., Krause, D., Lewandowski, J., Steinberg, C.E.W., 2004. [Eutrophication Problems and Their Potential Solutions in the Artificial Shallow Lake Altmühlsee (Germany)](https://doi.org/10.2478/limre-2014-0006) Studia Quarternaria 21, 73-86. 
 
 1. Siegmund-Schultze, M., do Carmo Sobral, M., Alcoforado de Moraes, M.M.G., Almeida-Cortez, J.S., Azevedo, J.R.G., Candeias, A.L., Cierjacks, A., Gomes, E.T.A., Gunkel, G., Hartje, V., Hattermann, F.F., Kaupenjohann, M., Koch, H., Köppel, J., 2018. [The legacy of large dams and their effects on the water-land nexus](https://doi.org/10.1007/s10113-018-1414-7) Reg Environ Change 18, 1883-1888. 
 
-1. Votruba, L., Broža, V., 1989. [Water management in reservoirs](https://www.elsevier.com/books/water-management-in-reservoirs/votruba/978-0-444-98933-8) Elsevier, Amsterdam. 
+1. Tilt, B., and Gerkey, D., 2016. [Dams and population displacement on China's Upper Mekong River: Implications for social capital and social--ecological resilience](https://doi.org/10.1016/j.gloenvcha.2015.11.008) Global Environmental Change 36, pp .153-162. 
+
+1. Tilt, B., Braun, Y., He, D., 2009. [Social impacts of large dam projects: A comparison of international case studies and implications for best practice](https://doi.org/10.1016/j.jenvman.2008.07.030) Journal of environmental management, 90 Suppl 3, pp. 249-57. 
 
 1. Weimer-Jehle, W., 2006. [Cross-Impact Balances: A System-Theoretical Approach to Cross-Impact Analysis](https://doi.org/10.1016/j.techfore.2005.06.005) Technological Forecasting and Social Change, 73:4, 334-361. 
 
-1. World Commission on Dams, 2000. [Dams and development. A new framework for decision-making](https://www.internationalrivers.org/sites/default/files/attached-files/world_commission_on_dams_final_report.pdf) Earthscan, London. ISBN: 1-85383-798-9 
+1. Winker, M., Schramm, E., Schulz, O., Zimmermann, M., Liehr, S., 2016. [Integrated water research and how it can help address the challenges faced by Germany's water sector](https://doi.org/10.1007/s12665-016-6029-z) Environmental Earth Sciences, 75, 17. 
+
+1. World Commission on Dams, 2000. [Dams and development. A new framework for decision-making](https://www.internationalrivers.org/sites/default/files/attached-files/world_commission_on_dams_final_report.pdf) Earthscan, London. ISBN: 1-85383-798-9.
 
 1. Zarfl, C. Lumsdon, A.E. Berlekamp, J. Tydecks, L. Tockner, K., 2015. [A global boom in hydropower dam construction](doi.10.1007/s00027-014-0377-0) Aquat Sci, 77, 161–170. 
 
-1. Zubala, T., 2009. [Influence of dam reservoir on the water quality in a small upland river](https://doi.org/10.2478/v10104-010-0010-3) Ecohydrology & Hydrobiology 9, 165-173. 
+
