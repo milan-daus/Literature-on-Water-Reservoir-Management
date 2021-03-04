@@ -273,8 +273,6 @@ In this repository you will find the file: "Tool.xls" as a Microsoft Excel file.
 
 ### Social Interactions
 
-1. Aguiar, F. C., Martins, M. J., Silva, P. C., Fernandes, M., R., 2016. [Riverscapes downstream of hydropower dams: Effects of altered flows and historical land-use change](https://doi.org/10.1016/j.landurbplan.2016.04.009) Landscape and Urban Planning, 153, pp. 83-93. 
-
 1. Ansar, A., Flyvbjerg, B., Budzier, A., Lunn, D., 2014. [Should we build more large dams? The actual costs of hydropower megaproject development](https://10.1016/j.enpol.2013.10.069) Energy Policy 69, 43-56.
 
 1. Bakken, T.H., Aase, A.G., Hagen, D., Sundt, H., Barton, D.N., Lujala, P., 2014. [Demonstrating a new framework for the comparison of environmental impacts from small- and large-scale hydropower and wind power projects](https://10.1016/j.jenvman.2014.01.050) Journal of environmental management 140, 93-101.
