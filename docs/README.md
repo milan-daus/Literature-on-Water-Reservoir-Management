@@ -1,5 +1,5 @@
 # Literature on Reservoir Management
-In this repository you will find a list of references on five different research topics in reservoir management researched in the CHARM (CHallenges of Reservoir Management) project. The original source is provided via hyperlink. Where applicable, you can downbload the corresponding literature.
+In this repository you will find a list of references on five different research topics in reservoir management researched in the [CHARM (CHallenges of Reservoir Management) project](https://www.project.uni-stuttgart.de/charm/en/). The original source is provided via hyperlink. Where applicable, you can downbload the corresponding literature. 
 
 ## Literature categorised after the topic:
 
